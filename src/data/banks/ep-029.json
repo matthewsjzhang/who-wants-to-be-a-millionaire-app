@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-029",
+  "name": "Set 29: Geology & weather",
+  "episode": 29,
+  "date": "2009-06-20",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "science",
+    "earth",
+    "weather"
+  ],
+  "questions": [
+    {
+      "id": "ep-029-q01",
+      "text": "Which natural feature can 'blow its top' when magma erupts?",
+      "answers": [
+        "Glacier",
+        "Volcano",
+        "Canyon",
+        "Delta"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "A volcano erupts when molten rock, ash and gas escape from beneath the crust.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q02",
+      "text": "What do we call a huge river of slowly moving ice?",
+      "answers": [
+        "Geyser",
+        "Lagoon",
+        "Glacier",
+        "Dune"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "Glaciers form from compacted snow and flow downhill under their own weight.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q03",
+      "text": "What name is given to a hot spring that erupts jets of steam and water, like Old Faithful?",
+      "answers": [
+        "Fjord",
+        "Oasis",
+        "Delta",
+        "Geyser"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "Geysers erupt when underground water is heated and forced upward.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q04",
+      "text": "Which scale is used to rate the hardness of minerals?",
+      "answers": [
+        "Mohs scale",
+        "Richter scale",
+        "Beaufort scale",
+        "Kelvin scale"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "The Mohs scale ranks minerals from 1 (talc) to 10 (diamond).",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q05",
+      "text": "Which mineral is the hardest on the Mohs scale?",
+      "answers": [
+        "Quartz",
+        "Diamond",
+        "Topaz",
+        "Corundum"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "Diamond rates 10, the top of the Mohs scale.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q06",
+      "text": "Which scale classifies wind force with terms such as 'gale' and 'storm'?",
+      "answers": [
+        "Mohs scale",
+        "Richter scale",
+        "Beaufort scale",
+        "Celsius scale"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "The Beaufort scale runs from 0 (calm) to 12 (hurricane force).",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q07",
+      "text": "What is the layer of Earth lying between the crust and the core?",
+      "answers": [
+        "Troposphere",
+        "Magma",
+        "Ionosphere",
+        "Mantle"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "The mantle makes up most of Earth's volume.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q08",
+      "text": "Which type of rock, such as marble, forms when existing rock is changed by heat and pressure?",
+      "answers": [
+        "Metamorphic",
+        "Sedimentary",
+        "Igneous",
+        "Volcanic"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Marble is metamorphosed limestone.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q09",
+      "text": "What name is given to the supercontinent that existed about 300 million years ago?",
+      "answers": [
+        "Laurasia",
+        "Pangaea",
+        "Atlantis",
+        "Lemuria"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Pangaea began to break up roughly 200 million years ago.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q10",
+      "text": "Which cloud type, with an anvil-shaped top, is associated with thunderstorms?",
+      "answers": [
+        "Cirrus",
+        "Stratus",
+        "Cumulonimbus",
+        "Altocumulus"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Cumulonimbus clouds are towering storm clouds that produce lightning and heavy rain.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q11",
+      "text": "What is the term for the zone where one tectonic plate slides beneath another?",
+      "answers": [
+        "Rift valley",
+        "Hotspot",
+        "Transform fault",
+        "Subduction zone"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Subduction zones produce deep ocean trenches and many volcanoes and earthquakes.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q12",
+      "text": "In which layer of the atmosphere is the ozone layer chiefly found?",
+      "answers": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "The ozone layer sits in the stratosphere and absorbs much ultraviolet radiation.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q13",
+      "text": "Which German scientist proposed the theory of continental drift in 1912?",
+      "answers": [
+        "Harry Hess",
+        "Alfred Wegener",
+        "Beno Gutenberg",
+        "Alexander von Humboldt"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "Wegener argued the continents had once been joined and had moved apart.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q14",
+      "text": "Which 1883 volcanic eruption in Indonesia produced one of the loudest sounds in recorded history?",
+      "answers": [
+        "Tambora",
+        "Mount Pinatubo",
+        "Krakatoa",
+        "Mount Pelée"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "The Krakatoa explosion was heard thousands of kilometres away.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-q15",
+      "text": "What is the boundary between Earth's crust and mantle called?",
+      "answers": [
+        "Gutenberg discontinuity",
+        "Lehmann discontinuity",
+        "Conrad discontinuity",
+        "Mohorovičić discontinuity"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "The Moho was identified in 1909 by Andrija Mohorovičić from seismic waves.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-029-s1",
+      "text": "What is the name for balls of ice that fall from storm clouds?",
+      "answers": [
+        "Fog",
+        "Mist",
+        "Hail",
+        "Dew"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "Hail forms in strong thunderstorm updrafts.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-s2",
+      "text": "Which mineral is the main component of sand on most inland and many coastal beaches?",
+      "answers": [
+        "Calcite",
+        "Mica",
+        "Gypsum",
+        "Quartz"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Quartz is a hard, chemically stable form of silica and survives weathering.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-s3",
+      "text": "What is the line joining points of equal atmospheric pressure on a weather map called?",
+      "answers": [
+        "Isobar",
+        "Isotherm",
+        "Isohyet",
+        "Isogon"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "Isobars show pressure patterns and wind strength.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-029-s4",
+      "text": "Which type of volcano, like Mauna Loa, has broad, gently sloping sides built from runny lava?",
+      "answers": [
+        "Stratovolcano",
+        "Shield volcano",
+        "Cinder cone",
+        "Lava dome"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "Shield volcanoes are built by fluid basaltic lava flows.",
+      "reviewed": true
+    }
+  ]
+}

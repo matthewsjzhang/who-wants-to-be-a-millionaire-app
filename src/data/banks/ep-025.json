@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-025",
+  "name": "Set 25: Kitchen & Cooking",
+  "episode": 25,
+  "date": "2008-03-15",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "food",
+    "cooking",
+    "ingredients"
+  ],
+  "questions": [
+    {
+      "id": "ep-025-q01",
+      "text": "Which vegetable are you most likely to cry over when chopping it?",
+      "answers": [
+        "Carrot",
+        "Onion",
+        "Potato",
+        "Celery"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Food & Cooking",
+      "explanation": "Onions release a gas that irritates the eyes.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q02",
+      "text": "Which dairy product is made by churning cream?",
+      "answers": [
+        "Butter",
+        "Cheese",
+        "Yogurt",
+        "Margarine"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Food & Cooking",
+      "explanation": "Churning separates butterfat from buttermilk.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q03",
+      "text": "What is the main ingredient of guacamole?",
+      "answers": [
+        "Tomato",
+        "Lime",
+        "Cucumber",
+        "Avocado"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Food & Cooking",
+      "explanation": "Guacamole is a mashed avocado dip from Mexico.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q04",
+      "text": "Which Italian cheese is traditionally used on a Margherita pizza?",
+      "answers": [
+        "Parmesan",
+        "Gorgonzola",
+        "Mozzarella",
+        "Ricotta"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Food & Cooking",
+      "explanation": "Mozzarella, tomato and basil mirror the Italian flag.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q05",
+      "text": "Which fermented soybean paste is the key ingredient of a traditional Japanese soup?",
+      "answers": [
+        "Tofu",
+        "Miso",
+        "Wasabi",
+        "Mirin"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Food & Cooking",
+      "explanation": "Miso soup is made by dissolving fermented soybean paste in stock.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q06",
+      "text": "Which fresh Indian cheese is made by curdling milk and pressing the curds into blocks?",
+      "answers": [
+        "Paneer",
+        "Ricotta",
+        "Halloumi",
+        "Quark"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Food & Cooking",
+      "explanation": "Paneer is an unaged, non-melting cheese widely used in Indian cooking.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q07",
+      "text": "Which French phrase means everything in its place, referring to preparing ingredients before cooking?",
+      "answers": [
+        "Sous vide",
+        "Bain-marie",
+        "Roux",
+        "Mise en place"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Food & Cooking",
+      "explanation": "Mise en place is a core kitchen discipline.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q08",
+      "text": "Which green paste is the usual accompaniment to sushi?",
+      "answers": [
+        "Mirin",
+        "Miso",
+        "Wasabi",
+        "Tahini"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Food & Cooking",
+      "explanation": "Wasabi is a pungent Japanese horseradish paste.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q09",
+      "text": "Which grain is polenta traditionally made from?",
+      "answers": [
+        "Wheat",
+        "Cornmeal",
+        "Barley",
+        "Rice"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Food & Cooking",
+      "explanation": "Polenta is boiled cornmeal from northern Italy.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q10",
+      "text": "Which classic French white sauce is made from butter, flour and milk?",
+      "answers": [
+        "Bechamel",
+        "Hollandaise",
+        "Veloute",
+        "Espagnole"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Food & Cooking",
+      "explanation": "Bechamel is one of the five French mother sauces.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q11",
+      "text": "Which Italian rice dish is cooked by gradually adding hot stock?",
+      "answers": [
+        "Paella",
+        "Pilaf",
+        "Jambalaya",
+        "Risotto"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Food & Cooking",
+      "explanation": "Risotto uses starchy rice like arborio.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q12",
+      "text": "Which gas makes bread dough rise?",
+      "answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Food & Cooking",
+      "explanation": "Yeast ferments sugars and releases carbon dioxide.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q13",
+      "text": "Which Spanish cold soup is made from tomatoes, peppers and cucumber?",
+      "answers": [
+        "Borscht",
+        "Gazpacho",
+        "Vichyssoise",
+        "Minestrone"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Food & Cooking",
+      "explanation": "Gazpacho comes from Andalusia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q14",
+      "text": "In French cooking, what is a roux?",
+      "answers": [
+        "Flour and fat cooked together",
+        "Egg yolks whisked with butter",
+        "Stock reduced by half",
+        "A wine marinade"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "Food & Cooking",
+      "explanation": "A roux is used to thicken sauces and soups.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-q15",
+      "text": "What does the Italian cooking term al dente literally mean?",
+      "answers": [
+        "To the bone",
+        "To the fire",
+        "To the boil",
+        "To the tooth"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "Food & Cooking",
+      "explanation": "Al dente pasta is cooked but still firm to the bite.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-025-s1",
+      "text": "Which fruit is dried to make raisins?",
+      "answers": [
+        "Plums",
+        "Figs",
+        "Dates",
+        "Grapes"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Food & Cooking",
+      "explanation": "Raisins are dried grapes.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-s2",
+      "text": "Which crescent-shaped French pastry is a breakfast staple?",
+      "answers": [
+        "Eclair",
+        "Macaron",
+        "Croissant",
+        "Madeleine"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Food & Cooking",
+      "explanation": "Croissants are made from laminated yeast dough.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-025-s3",
+      "text": "Which cooking term means briefly boiling food, then plunging it into iced water?",
+      "answers": [
+        "Poach",
+        "Blanch",
+        "Braise",
+        "Sear"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Food & Cooking",
+      "explanation": "Blanching halts cooking and fixes colour.",
+      "reviewed": true
+    }
+  ]
+}

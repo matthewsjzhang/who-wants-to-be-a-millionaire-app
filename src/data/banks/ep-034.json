@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-034",
+  "name": "Set 34: Fashion & design",
+  "episode": 34,
+  "date": "2011-06-11",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "fashion",
+    "design"
+  ],
+  "questions": [
+    {
+      "id": "ep-034-q01",
+      "text": "What are trousers made of tough cotton twill called, often dyed blue?",
+      "answers": [
+        "Chinos",
+        "Joggers",
+        "Jeans",
+        "Culottes"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "Denim jeans were popularised by Levi Strauss and Co. in the 19th century.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q02",
+      "text": "What colour is the traditional Western wedding dress?",
+      "answers": [
+        "Red",
+        "Blue",
+        "Green",
+        "White"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "The white wedding dress was popularised after Queen Victoria's 1840 wedding.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q03",
+      "text": "Which fabric is made from the fleece of sheep?",
+      "answers": [
+        "Wool",
+        "Silk",
+        "Cotton",
+        "Linen"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "Wool is shorn, spun and woven or knitted.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q04",
+      "text": "Which French designer popularised the 'little black dress' and launched No. 5 perfume?",
+      "answers": [
+        "Christian Dior",
+        "Coco Chanel",
+        "Yves Saint Laurent",
+        "Hubert de Givenchy"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "Chanel's No. 5 appeared in 1921.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q05",
+      "text": "Which Italian city is famed for its major fashion week and houses such as Prada and Armani?",
+      "answers": [
+        "Rome",
+        "Florence",
+        "Milan",
+        "Naples"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "Milan Fashion Week is one of the 'big four'.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q06",
+      "text": "Which designer launched the 'New Look' in 1947?",
+      "answers": [
+        "Coco Chanel",
+        "Cristóbal Balenciaga",
+        "Elsa Schiaparelli",
+        "Christian Dior"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "The New Look had a nipped waist and full skirt.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q07",
+      "text": "Which British designer is credited with popularising the miniskirt in the 1960s?",
+      "answers": [
+        "Mary Quant",
+        "Vivienne Westwood",
+        "Laura Ashley",
+        "Jean Muir"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Quant's boutique Bazaar was on the King's Road, Chelsea.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q08",
+      "text": "Which Swedish company, founded in 1943 by Ingvar Kamprad, is famous for flat-pack furniture?",
+      "answers": [
+        "H&M",
+        "IKEA",
+        "Electrolux",
+        "Volvo"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "IKEA's name comes from the founder's initials and his home farm and village.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q09",
+      "text": "Which German design school was founded by Walter Gropius in 1919?",
+      "answers": [
+        "De Stijl",
+        "Vienna Secession",
+        "Bauhaus",
+        "Werkbund"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "The Bauhaus was founded in Weimar.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q10",
+      "text": "Which Italian fashion house, founded in 1921 in Florence, uses a double-G logo?",
+      "answers": [
+        "Prada",
+        "Versace",
+        "Armani",
+        "Gucci"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Guccio Gucci opened the first shop in Florence.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q11",
+      "text": "Who designed the Barcelona chair, introduced in 1929?",
+      "answers": [
+        "Ludwig Mies van der Rohe",
+        "Le Corbusier",
+        "Charles Eames",
+        "Marcel Breuer"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "It was designed for the German Pavilion at the Barcelona International Exposition.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q12",
+      "text": "Which Spanish couturier opened a Paris fashion house in 1937 and was known for sculptural cuts?",
+      "answers": [
+        "Paco Rabanne",
+        "Cristóbal Balenciaga",
+        "Pierre Cardin",
+        "Hubert de Givenchy"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "Balenciaga was admired as a master of cut and construction.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q13",
+      "text": "Which Danish designer created the Egg and Swan chairs?",
+      "answers": [
+        "Hans Wegner",
+        "Alvar Aalto",
+        "Arne Jacobsen",
+        "Verner Panton"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "Jacobsen designed them for the SAS Royal Hotel in Copenhagen.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q14",
+      "text": "Which designer introduced the women's tuxedo suit 'Le Smoking' in 1966?",
+      "answers": [
+        "Christian Dior",
+        "Coco Chanel",
+        "Pierre Cardin",
+        "Yves Saint Laurent"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "Le Smoking was a landmark of androgynous fashion.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-q15",
+      "text": "Which Scottish architect and designer created the Glasgow School of Art building?",
+      "answers": [
+        "Charles Rennie Mackintosh",
+        "Robert Adam",
+        "Alexander Thomson",
+        "Basil Spence"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "Mackintosh won the commission in 1896.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-034-s1",
+      "text": "Which item of clothing keeps your neck warm in winter?",
+      "answers": [
+        "Belt",
+        "Cufflink",
+        "Sock",
+        "Scarf"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "A scarf is wrapped around the neck.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-s2",
+      "text": "Which pattern of checks is traditionally associated with Scottish kilts?",
+      "answers": [
+        "Tartan",
+        "Paisley",
+        "Argyle",
+        "Houndstooth"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Tartans are linked to Scottish clans and districts.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-s3",
+      "text": "Which Italian designer founded his fashion house in 1975 and is known for relaxed tailoring?",
+      "answers": [
+        "Gianni Versace",
+        "Giorgio Armani",
+        "Valentino Garavani",
+        "Guccio Gucci"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "Armani founded the label with Sergio Galeotti in Milan.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-034-s4",
+      "text": "Which Finnish-American architect designed the Tulip chair and the Gateway Arch?",
+      "answers": [
+        "Charles Eames",
+        "Harry Bertoia",
+        "Eero Saarinen",
+        "Isamu Noguchi"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "Saarinen designed both in the mid-20th century.",
+      "reviewed": true
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-038",
+  "name": "Set 38: Ancient Egypt, Greece & Rome",
+  "episode": 38,
+  "date": "2017-04-02",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "history",
+    "ancient"
+  ],
+  "questions": [
+    {
+      "id": "ep-038-q01",
+      "text": "In Roman numerals, which letter stands for one thousand?",
+      "answers": [
+        "C",
+        "D",
+        "M",
+        "L"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "History",
+      "explanation": "M represents 1,000 in Roman numerals.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q02",
+      "text": "Which Roman emperor supposedly fiddled while Rome burned?",
+      "answers": [
+        "Caligula",
+        "Augustus",
+        "Trajan",
+        "Nero"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "History",
+      "explanation": "Legend has Nero fiddling during the great fire of 64 AD.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q03",
+      "text": "Which ancient Greek city-state was famed for its warriors?",
+      "answers": [
+        "Sparta",
+        "Athens",
+        "Corinth",
+        "Delphi"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "History",
+      "explanation": "Sparta built its society around military training.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q04",
+      "text": "In Greek myth, who ruled the sea?",
+      "answers": [
+        "Zeus",
+        "Poseidon",
+        "Hades",
+        "Apollo"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "History",
+      "explanation": "Poseidon was the Greek god of the sea.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q05",
+      "text": "What is the name of Rome's great amphitheatre where gladiators fought?",
+      "answers": [
+        "Pantheon",
+        "Forum",
+        "Colosseum",
+        "Parthenon"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "History",
+      "explanation": "The Colosseum was completed around 80 AD.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q06",
+      "text": "Whose tomb did Howard Carter discover in 1922?",
+      "answers": [
+        "Ramesses II",
+        "Khufu",
+        "Akhenaten",
+        "Tutankhamun"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "History",
+      "explanation": "Carter found the nearly intact tomb of Tutankhamun in the Valley of the Kings.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q07",
+      "text": "Who was the first emperor of Rome?",
+      "answers": [
+        "Augustus",
+        "Julius Caesar",
+        "Nero",
+        "Tiberius"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "History",
+      "explanation": "Augustus became Rome's first emperor in 27 BC.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q08",
+      "text": "In Greek myth, who flew too close to the sun on wings of wax?",
+      "answers": [
+        "Daedalus",
+        "Icarus",
+        "Perseus",
+        "Theseus"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "History",
+      "explanation": "Icarus's wax wings melted and he fell into the sea.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q09",
+      "text": "Which philosopher tutored Alexander the Great?",
+      "answers": [
+        "Plato",
+        "Socrates",
+        "Aristotle",
+        "Pythagoras"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "History",
+      "explanation": "Aristotle taught the young Alexander at the Macedonian court.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q10",
+      "text": "Which Egyptian god, with the head of a jackal, is linked to mummification?",
+      "answers": [
+        "Horus",
+        "Ra",
+        "Thoth",
+        "Anubis"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "History",
+      "explanation": "Anubis was the jackal-headed god of embalming.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q11",
+      "text": "Which 490 BC battle saw Athens defeat a Persian invasion force?",
+      "answers": [
+        "Marathon",
+        "Thermopylae",
+        "Salamis",
+        "Plataea"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "History",
+      "explanation": "The Athenian victory at Marathon halted Darius's first major invasion.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q12",
+      "text": "Which Athenian statesman led the city in its golden age and championed the building of the Parthenon?",
+      "answers": [
+        "Solon",
+        "Pericles",
+        "Themistocles",
+        "Cleisthenes"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "History",
+      "explanation": "Pericles dominated Athens in the fifth century BC and oversaw the Acropolis building programme.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q13",
+      "text": "Which Roman general crossed the Rubicon in 49 BC, sparking civil war?",
+      "answers": [
+        "Pompey",
+        "Mark Antony",
+        "Julius Caesar",
+        "Crassus"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "History",
+      "explanation": "Caesar's crossing of the Rubicon began the civil war with Pompey.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q14",
+      "text": "Which scholar deciphered Egyptian hieroglyphs in the 1820s?",
+      "answers": [
+        "Thomas Young",
+        "Howard Carter",
+        "Auguste Mariette",
+        "Jean-François Champollion"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "History",
+      "explanation": "Champollion used the Rosetta Stone to crack hieroglyphic writing in 1822.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-q15",
+      "text": "Which ancient wonder stood on the island of Pharos?",
+      "answers": [
+        "Lighthouse of Alexandria",
+        "Colossus of Rhodes",
+        "Hanging Gardens of Babylon",
+        "Mausoleum at Halicarnassus"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "History",
+      "explanation": "The Pharos lighthouse guided ships into Alexandria's harbour.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-038-s1",
+      "text": "Which Greek goddess gave her name to the city of Athens?",
+      "answers": [
+        "Hera",
+        "Athena",
+        "Artemis",
+        "Demeter"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "History",
+      "explanation": "Athena was the patron goddess of Athens.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-s2",
+      "text": "Which Greek poet is traditionally credited with the Iliad?",
+      "answers": [
+        "Hesiod",
+        "Sophocles",
+        "Homer",
+        "Virgil"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "History",
+      "explanation": "The Iliad is traditionally attributed to Homer.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-038-s3",
+      "text": "Which Roman emperor ordered a wall built across northern Britain from 122 AD?",
+      "answers": [
+        "Antoninus Pius",
+        "Trajan",
+        "Claudius",
+        "Hadrian"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "History",
+      "explanation": "Hadrian's Wall began construction in 122 AD.",
+      "reviewed": true
+    }
+  ]
+}

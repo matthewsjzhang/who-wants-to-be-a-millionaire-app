@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-024",
+  "name": "Set 24: Soccer & Baseball",
+  "episode": 24,
+  "date": "2007-11-15",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "sport",
+    "soccer",
+    "baseball"
+  ],
+  "questions": [
+    {
+      "id": "ep-024-q01",
+      "text": "In basketball, how many points is a successful free throw worth?",
+      "answers": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Sport",
+      "explanation": "Each successful free throw scores a single point.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q02",
+      "text": "In which sport would you score with a slam dunk?",
+      "answers": [
+        "Volleyball",
+        "Handball",
+        "Cricket",
+        "Basketball"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Sport",
+      "explanation": "A slam dunk is a shot forced down through the hoop in basketball.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q03",
+      "text": "What colour card does a soccer referee show to send a player off?",
+      "answers": [
+        "Yellow",
+        "Green",
+        "Red",
+        "Blue"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Sport",
+      "explanation": "A red card means immediate dismissal.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q04",
+      "text": "Which New York baseball team is nicknamed the Bronx Bombers?",
+      "answers": [
+        "The Mets",
+        "The Yankees",
+        "The Dodgers",
+        "The Red Sox"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Sport",
+      "explanation": "The Yankees play in the Bronx.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q05",
+      "text": "Which country won the 1966 FIFA World Cup?",
+      "answers": [
+        "England",
+        "West Germany",
+        "Brazil",
+        "Argentina"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Sport",
+      "explanation": "England beat West Germany 4-2 at Wembley.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q06",
+      "text": "Which baseball legend was nicknamed the Sultan of Swat?",
+      "answers": [
+        "Lou Gehrig",
+        "Ty Cobb",
+        "Joe DiMaggio",
+        "Babe Ruth"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Ruth hit 714 career home runs.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q07",
+      "text": "Which Brazilian won the World Cup in 1958 at age 17?",
+      "answers": [
+        "Garrincha",
+        "Zico",
+        "Pele",
+        "Romario"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Pele scored twice in the 1958 final.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q08",
+      "text": "Which player set a record with a 56-game hitting streak in 1941?",
+      "answers": [
+        "Ted Williams",
+        "Joe DiMaggio",
+        "Mickey Mantle",
+        "Hank Aaron"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "DiMaggio's streak remains the longest in MLB history.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q09",
+      "text": "Which player scored the Hand of God goal at the 1986 World Cup?",
+      "answers": [
+        "Diego Maradona",
+        "Pele",
+        "Michel Platini",
+        "Johan Cruyff"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Maradona scored it against England in the quarter-final.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q10",
+      "text": "Who broke baseball's colour barrier in the major leagues in 1947?",
+      "answers": [
+        "Willie Mays",
+        "Satchel Paige",
+        "Hank Aaron",
+        "Jackie Robinson"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Robinson debuted for the Brooklyn Dodgers on 15 April 1947.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q11",
+      "text": "Which club won the first European Cup in 1956?",
+      "answers": [
+        "Benfica",
+        "AC Milan",
+        "Real Madrid",
+        "Manchester United"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Sport",
+      "explanation": "Real Madrid beat Reims in Paris and won the first five editions.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q12",
+      "text": "Which pitcher threw a perfect game in the 1956 World Series?",
+      "answers": [
+        "Sandy Koufax",
+        "Don Larsen",
+        "Whitey Ford",
+        "Cy Young"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Sport",
+      "explanation": "Larsen's perfect game for the Yankees remains the only one in a World Series.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q13",
+      "text": "Which Dutch star led the Total Football side at the 1974 World Cup?",
+      "answers": [
+        "Johan Cruyff",
+        "Marco van Basten",
+        "Ruud Gullit",
+        "Dennis Bergkamp"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Sport",
+      "explanation": "Cruyff captained the Netherlands to the 1974 final.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q14",
+      "text": "Who scored a hat-trick in the 1966 World Cup final?",
+      "answers": [
+        "Bobby Charlton",
+        "Martin Peters",
+        "Roger Hunt",
+        "Geoff Hurst"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "Sport",
+      "explanation": "Hurst scored three of England's four goals in the 4-2 win after extra time.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-q15",
+      "text": "In which year did the Boston Red Sox end the Curse of the Bambino by winning the World Series?",
+      "answers": [
+        "2001",
+        "2006",
+        "2004",
+        "2008"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Sport",
+      "explanation": "Boston's 2004 win ended an 86-year drought.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-024-s1",
+      "text": "In soccer, which body part may outfield players not use to play the ball?",
+      "answers": [
+        "Feet",
+        "Head",
+        "Chest",
+        "Hands"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Sport",
+      "explanation": "Handling the ball is a foul for outfield players.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-s2",
+      "text": "Pele spent most of his club career at which Brazilian club?",
+      "answers": [
+        "Flamengo",
+        "Corinthians",
+        "Santos",
+        "Palmeiras"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Pele played for Santos from 1956 to 1974.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-024-s3",
+      "text": "Which country won the 1992 European Championship after replacing Yugoslavia at short notice?",
+      "answers": [
+        "Sweden",
+        "Denmark",
+        "Germany",
+        "Netherlands"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Sport",
+      "explanation": "Denmark beat Germany 2-0 in the final.",
+      "reviewed": true
+    }
+  ]
+}

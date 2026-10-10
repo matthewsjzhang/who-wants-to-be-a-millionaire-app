@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-030",
+  "name": "Set 30: Computing & technology history",
+  "episode": 30,
+  "date": "2009-11-14",
+  "edition": "AU",
+  "provenance": "episode-style",
+  "tags": [
+    "technology",
+    "computing"
+  ],
+  "questions": [
+    {
+      "id": "ep-030-q01",
+      "text": "Which computer device, named after a small rodent, moves the on-screen pointer?",
+      "answers": [
+        "Stylus",
+        "Trackball",
+        "Mouse",
+        "Joystick"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "The computer mouse was demonstrated by Douglas Engelbart in 1968.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q02",
+      "text": "In the abbreviation CPU, what does the 'C' stand for?",
+      "answers": [
+        "Computer",
+        "Core",
+        "Cache",
+        "Central"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "CPU stands for central processing unit.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q03",
+      "text": "Which company created the Windows operating system?",
+      "answers": [
+        "Microsoft",
+        "Apple",
+        "IBM",
+        "Intel"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "Microsoft released Windows 1.0 in 1985.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q04",
+      "text": "Who co-founded Apple with Steve Jobs in 1976?",
+      "answers": [
+        "Bill Gates",
+        "Steve Wozniak",
+        "Paul Allen",
+        "Larry Ellison"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "Wozniak designed the Apple I and Apple II computers.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q05",
+      "text": "Which company launched the iPhone in 2007?",
+      "answers": [
+        "Nokia",
+        "Motorola",
+        "Apple",
+        "Palm"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "Steve Jobs unveiled the first iPhone in January 2007.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q06",
+      "text": "Who is credited with inventing the World Wide Web in 1989?",
+      "answers": [
+        "Vint Cerf",
+        "Bill Gates",
+        "Marc Andreessen",
+        "Tim Berners-Lee"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Berners-Lee proposed the Web while working at CERN.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q07",
+      "text": "Which programmable electronic computer, completed in 1945, was built at the University of Pennsylvania?",
+      "answers": [
+        "ENIAC",
+        "UNIVAC",
+        "Colossus",
+        "EDSAC"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "ENIAC was an early general-purpose electronic digital computer.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q08",
+      "text": "Which programming language was released by Sun Microsystems in 1995?",
+      "answers": [
+        "Python",
+        "Java",
+        "Ruby",
+        "Perl"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Java was designed by James Gosling's team at Sun.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q09",
+      "text": "Which graphical web browser, released in 1993 by the NCSA, helped popularise the Web?",
+      "answers": [
+        "Lynx",
+        "Opera",
+        "Mosaic",
+        "Safari"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Mosaic was developed at the University of Illinois NCSA.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q10",
+      "text": "The C64, a hugely popular 1980s home computer, was made by which firm?",
+      "answers": [
+        "Atari",
+        "Sinclair",
+        "Acorn",
+        "Commodore"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "The Commodore 64 launched in 1982.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q11",
+      "text": "Which British mathematician described a 'universal machine' in a 1936 paper?",
+      "answers": [
+        "Alan Turing",
+        "Charles Babbage",
+        "George Boole",
+        "Tommy Flowers"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "Turing's paper laid foundations for theoretical computer science.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q12",
+      "text": "Which Victorian inventor designed the Analytical Engine, which Ada Lovelace wrote about?",
+      "answers": [
+        "Alan Turing",
+        "Charles Babbage",
+        "George Boole",
+        "Herman Hollerith"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "Babbage designed the Analytical Engine in the 1830s, though it was never completed.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q13",
+      "text": "Which Intel chip, released in 1971, is considered the first commercial microprocessor?",
+      "answers": [
+        "Intel 8086",
+        "Intel 8080",
+        "Intel 4004",
+        "MOS 6502"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "The 4004 was a 4-bit CPU originally designed for a calculator.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q14",
+      "text": "Which programming language did Dennis Ritchie develop at Bell Labs in the early 1970s?",
+      "answers": [
+        "Pascal",
+        "COBOL",
+        "BASIC",
+        "C"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "C was created alongside the Unix operating system.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-q15",
+      "text": "Which US Navy officer led the team that developed FLOW-MATIC and championed machine-independent languages?",
+      "answers": [
+        "Grace Hopper",
+        "Ada Lovelace",
+        "Margaret Hamilton",
+        "Jean Bartik"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "Hopper's work influenced COBOL's design.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-030-s1",
+      "text": "Which key do you press to start a new line when typing?",
+      "answers": [
+        "Escape",
+        "Tab",
+        "Alt",
+        "Enter"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "The Enter or Return key inserts a line break.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-s2",
+      "text": "Which social network was founded in 2004 by Mark Zuckerberg and fellow Harvard students?",
+      "answers": [
+        "Facebook",
+        "MySpace",
+        "Friendster",
+        "Bebo"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "It began as a Harvard-only site before opening more widely.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-s3",
+      "text": "What was the name of the IBM computer that beat chess champion Garry Kasparov in 1997?",
+      "answers": [
+        "Watson",
+        "Deep Blue",
+        "Deep Thought",
+        "Hydra"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "Deep Blue won a six-game match 3.5 to 2.5.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-030-s4",
+      "text": "ARPANET, a forerunner of the Internet, was funded by which organisation?",
+      "answers": [
+        "NASA",
+        "British Ministry of Defence",
+        "US Department of Defense",
+        "National Science Foundation"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "ARPA was a Defense Department research agency.",
+      "reviewed": true
+    }
+  ]
+}

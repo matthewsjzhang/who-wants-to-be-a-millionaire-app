@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-017",
+  "name": "Set 17: art & architecture",
+  "episode": 17,
+  "date": "2005-05-13",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "arts",
+    "art",
+    "architecture"
+  ],
+  "questions": [
+    {
+      "id": "ep-017-q01",
+      "text": "Who painted the Mona Lisa?",
+      "answers": [
+        "Raphael",
+        "Michelangelo",
+        "Titian",
+        "Leonardo da Vinci"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "art & architecture",
+      "explanation": "Leonardo painted the Mona Lisa in the early 1500s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q02",
+      "text": "In which Italian city is the Leaning Tower?",
+      "answers": [
+        "Florence",
+        "Pisa",
+        "Rome",
+        "Venice"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "art & architecture",
+      "explanation": "The tower started to lean during construction.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q03",
+      "text": "Which artist painted \"The Starry Night\"?",
+      "answers": [
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Pablo Picasso",
+        "Paul Cezanne"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "art & architecture",
+      "explanation": "Van Gogh painted it in 1889.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q04",
+      "text": "Which Spanish artist co-founded Cubism?",
+      "answers": [
+        "Salvador Dali",
+        "Joan Miro",
+        "Pablo Picasso",
+        "Francisco Goya"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "art & architecture",
+      "explanation": "Picasso co-founded Cubism with Georges Braque.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q05",
+      "text": "Which famous Paris landmark was built for the 1889 World's Fair?",
+      "answers": [
+        "Arc de Triomphe",
+        "Eiffel Tower",
+        "Notre-Dame",
+        "Louvre"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "art & architecture",
+      "explanation": "Gustave Eiffel's company built it.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q06",
+      "text": "Which French impressionist painted a famous series of water lilies?",
+      "answers": [
+        "Pierre-Auguste Renoir",
+        "Edgar Degas",
+        "Edouard Manet",
+        "Claude Monet"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "art & architecture",
+      "explanation": "Monet painted water lilies in his garden at Giverny.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q07",
+      "text": "Which architect designed the Guggenheim Museum in New York City?",
+      "answers": [
+        "Frank Gehry",
+        "Mies van der Rohe",
+        "Frank Lloyd Wright",
+        "Le Corbusier"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "art & architecture",
+      "explanation": "Wright designed the spiral building, which opened in 1959.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q08",
+      "text": "Which Dutch painter created \"The Night Watch\"?",
+      "answers": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Frans Hals",
+        "Hieronymus Bosch"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "art & architecture",
+      "explanation": "Rembrandt completed it in 1642.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q09",
+      "text": "In which city is the Parthenon?",
+      "answers": [
+        "Rome",
+        "Corinth",
+        "Delphi",
+        "Athens"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "art & architecture",
+      "explanation": "The Parthenon sits on the Acropolis.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q10",
+      "text": "Who painted the ceiling of the Sistine Chapel?",
+      "answers": [
+        "Raphael",
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Titian"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "art & architecture",
+      "explanation": "Michelangelo painted it between 1508 and 1512.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q11",
+      "text": "For which wife did Shah Jahan build the Taj Mahal?",
+      "answers": [
+        "Nur Jahan",
+        "Jodha Bai",
+        "Mumtaz Mahal",
+        "Hamida Banu"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "art & architecture",
+      "explanation": "Mumtaz Mahal died in 1631.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q12",
+      "text": "Which architect designed St Paul's Cathedral in London?",
+      "answers": [
+        "Christopher Wren",
+        "Inigo Jones",
+        "Nicholas Hawksmoor",
+        "John Vanbrugh"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "art & architecture",
+      "explanation": "Wren rebuilt it after the Great Fire of 1666.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q13",
+      "text": "Which Catalan architect designed the Sagrada Familia in Barcelona?",
+      "answers": [
+        "Lluis Domenech i Montaner",
+        "Antoni Gaudi",
+        "Santiago Calatrava",
+        "Josep Puig i Cadafalch"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "art & architecture",
+      "explanation": "Gaudi took over the project in 1883.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q14",
+      "text": "Who painted \"The Birth of Venus\"?",
+      "answers": [
+        "Titian",
+        "Giotto",
+        "Caravaggio",
+        "Sandro Botticelli"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "art & architecture",
+      "explanation": "Botticelli painted it in the 1480s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-q15",
+      "text": "Who founded the Bauhaus school in Weimar in 1919?",
+      "answers": [
+        "Mies van der Rohe",
+        "Le Corbusier",
+        "Walter Gropius",
+        "Wassily Kandinsky"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "art & architecture",
+      "explanation": "Gropius led the school from its founding.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-017-s1",
+      "text": "Mixing blue and yellow paint typically produces which colour?",
+      "answers": [
+        "Green",
+        "Orange",
+        "Purple",
+        "Brown"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "art & architecture",
+      "explanation": "Blue and yellow are primary colours that make green.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-s2",
+      "text": "Which Picasso painting depicts the bombing of a Basque town?",
+      "answers": [
+        "Les Demoiselles d'Avignon",
+        "The Weeping Woman",
+        "Guernica",
+        "Three Musicians"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "art & architecture",
+      "explanation": "Picasso painted it in 1937.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-017-s3",
+      "text": "Which Spanish surrealist painted \"The Persistence of Memory\"?",
+      "answers": [
+        "Joan Miro",
+        "Rene Magritte",
+        "Max Ernst",
+        "Salvador Dali"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "art & architecture",
+      "explanation": "Dali painted the melting clocks in 1931.",
+      "reviewed": true
+    }
+  ]
+}

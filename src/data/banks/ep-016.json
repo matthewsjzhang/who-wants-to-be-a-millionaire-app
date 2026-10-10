@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-016",
+  "name": "Set 16: world capitals & flags",
+  "episode": 16,
+  "date": "2005-01-14",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "geography",
+    "capitals",
+    "flags"
+  ],
+  "questions": [
+    {
+      "id": "ep-016-q01",
+      "text": "Which city is the capital of France and home to the Eiffel Tower?",
+      "answers": [
+        "Lyon",
+        "Marseille",
+        "Paris",
+        "Nice"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "world capitals & flags",
+      "explanation": "Paris has been the French capital for centuries.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q02",
+      "text": "Which Italian city is nicknamed the Eternal City?",
+      "answers": [
+        "Rome",
+        "Milan",
+        "Venice",
+        "Naples"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "world capitals & flags",
+      "explanation": "Rome is the capital of Italy.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q03",
+      "text": "What is the capital of Greece?",
+      "answers": [
+        "Thessaloniki",
+        "Sparta",
+        "Corinth",
+        "Athens"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "world capitals & flags",
+      "explanation": "Athens has been the capital of modern Greece since 1834.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q04",
+      "text": "What is the capital of Germany?",
+      "answers": [
+        "Munich",
+        "Berlin",
+        "Hamburg",
+        "Frankfurt"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "world capitals & flags",
+      "explanation": "Berlin became the capital of reunified Germany in 1990.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q05",
+      "text": "What is the capital of Egypt?",
+      "answers": [
+        "Cairo",
+        "Alexandria",
+        "Giza",
+        "Luxor"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "world capitals & flags",
+      "explanation": "Cairo lies on the Nile.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q06",
+      "text": "What is the capital of Brazil?",
+      "answers": [
+        "Rio de Janeiro",
+        "Sao Paulo",
+        "Brasilia",
+        "Salvador"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "world capitals & flags",
+      "explanation": "Brasilia became the capital in 1960.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q07",
+      "text": "What is the capital of Peru?",
+      "answers": [
+        "Cusco",
+        "Lima",
+        "Arequipa",
+        "Bogota"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "world capitals & flags",
+      "explanation": "Lima, on the Pacific coast, is Peru's capital and largest city.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q08",
+      "text": "What is the capital of Switzerland?",
+      "answers": [
+        "Zurich",
+        "Geneva",
+        "Basel",
+        "Bern"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "world capitals & flags",
+      "explanation": "Bern is the federal city.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q09",
+      "text": "Which of these countries has the Union Jack in the corner of its flag?",
+      "answers": [
+        "Canada",
+        "Ireland",
+        "Australia",
+        "South Africa"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "world capitals & flags",
+      "explanation": "Australia's flag has the Union Jack in the canton.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q10",
+      "text": "What is the capital of Sweden?",
+      "answers": [
+        "Stockholm",
+        "Gothenburg",
+        "Malmo",
+        "Oslo"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "world capitals & flags",
+      "explanation": "Stockholm is built across islands where Lake Malaren meets the Baltic Sea.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q11",
+      "text": "What is the capital of Nigeria?",
+      "answers": [
+        "Lagos",
+        "Abuja",
+        "Kano",
+        "Ibadan"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "world capitals & flags",
+      "explanation": "Abuja replaced Lagos as capital in 1991.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q12",
+      "text": "What is the capital of Morocco?",
+      "answers": [
+        "Casablanca",
+        "Marrakesh",
+        "Fez",
+        "Rabat"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "world capitals & flags",
+      "explanation": "Rabat is the political capital.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q13",
+      "text": "What is the capital of Vietnam?",
+      "answers": [
+        "Hanoi",
+        "Ho Chi Minh City",
+        "Hue",
+        "Da Nang"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "world capitals & flags",
+      "explanation": "Hanoi is in the north of the country.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q14",
+      "text": "What is the capital of Ethiopia?",
+      "answers": [
+        "Nairobi",
+        "Asmara",
+        "Addis Ababa",
+        "Khartoum"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "world capitals & flags",
+      "explanation": "Addis Ababa means \"new flower\" in Amharic.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-q15",
+      "text": "Which country's flag is made of two stacked triangular pennants rather than a rectangle?",
+      "answers": [
+        "Bhutan",
+        "Nepal",
+        "Mongolia",
+        "Tonga"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "world capitals & flags",
+      "explanation": "Nepal has the only non-rectangular national flag.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-016-s1",
+      "text": "What is the capital of Spain?",
+      "answers": [
+        "Barcelona",
+        "Seville",
+        "Valencia",
+        "Madrid"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "world capitals & flags",
+      "explanation": "Madrid is in the centre of the country.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-s2",
+      "text": "What is the capital of Argentina?",
+      "answers": [
+        "Santiago",
+        "Buenos Aires",
+        "Montevideo",
+        "Lima"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "world capitals & flags",
+      "explanation": "Buenos Aires lies on the Rio de la Plata.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-016-s3",
+      "text": "What is the capital of Pakistan?",
+      "answers": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Rawalpindi"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "world capitals & flags",
+      "explanation": "Islamabad replaced Karachi as capital in the 1960s.",
+      "reviewed": true
+    }
+  ]
+}

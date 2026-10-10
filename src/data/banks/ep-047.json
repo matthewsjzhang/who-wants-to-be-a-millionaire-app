@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-047",
+  "name": "Set 47: Renaissance & Revolutions",
+  "episode": 47,
+  "date": "2018-09-14",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "history",
+    "renaissance",
+    "revolutions"
+  ],
+  "questions": [
+    {
+      "id": "ep-047-q01",
+      "text": "Which Italian artist painted the ceiling of the Sistine Chapel?",
+      "answers": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Botticelli"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "Michelangelo painted the ceiling between 1508 and 1512.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q02",
+      "text": "The Bastille, stormed in 1789, stood in which city?",
+      "answers": [
+        "Lyon",
+        "Versailles",
+        "Paris",
+        "Marseille"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "The storming of the Bastille in Paris began the French Revolution.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q03",
+      "text": "Which Italian city is considered the birthplace of the Renaissance?",
+      "answers": [
+        "Venice",
+        "Milan",
+        "Naples",
+        "Florence"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "The Renaissance began in 14th-century Florence.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q04",
+      "text": "Which general commanded the Continental Army in the American Revolution and later became the first US president?",
+      "answers": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "Washington led the Continental Army and was elected president in 1789.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q05",
+      "text": "Which 1776 document declared the thirteen colonies independent from Britain?",
+      "answers": [
+        "Magna Carta",
+        "Declaration of Independence",
+        "Bill of Rights",
+        "Articles of Confederation"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "The Declaration of Independence was adopted on 4 July 1776.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q06",
+      "text": "Who introduced movable-type printing to Europe in the 15th century?",
+      "answers": [
+        "William Caxton",
+        "Aldus Manutius",
+        "Johannes Gutenberg",
+        "Martin Luther"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Gutenberg's press in Mainz produced the Bible around 1455.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q07",
+      "text": "Who led the Bolsheviks in the October Revolution of 1917?",
+      "answers": [
+        "Leon Trotsky",
+        "Joseph Stalin",
+        "Alexander Kerensky",
+        "Vladimir Lenin"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Lenin was the leader of the Bolshevik party.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q08",
+      "text": "Which Florentine banking family were leading patrons of Renaissance art?",
+      "answers": [
+        "Medici",
+        "Borgia",
+        "Sforza",
+        "Visconti"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "The Medici funded artists such as Botticelli and Michelangelo.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q09",
+      "text": "Which French king was executed in 1793?",
+      "answers": [
+        "Louis XIV",
+        "Louis XVI",
+        "Louis XV",
+        "Charles X"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Louis XVI was guillotined in January 1793.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q10",
+      "text": "Which Polish astronomer proposed a Sun-centred model of the universe in 1543?",
+      "answers": [
+        "Galileo",
+        "Kepler",
+        "Copernicus",
+        "Tycho Brahe"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Copernicus published De revolutionibus in 1543.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q11",
+      "text": "Who wrote \"The Prince\", a political treatise published in 1532?",
+      "answers": [
+        "Baldassare Castiglione",
+        "Erasmus",
+        "Dante Alighieri",
+        "Niccolo Machiavelli"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Machiavelli wrote it around 1513; it was published after his death.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q12",
+      "text": "Which South American liberator was known as \"El Libertador\"?",
+      "answers": [
+        "Simon Bolivar",
+        "Jose de San Martin",
+        "Bernardo O'Higgins",
+        "Antonio Jose de Sucre"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "Bolivar helped free Venezuela, Colombia, Ecuador, Peru and Bolivia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q13",
+      "text": "Which Dutch scholar wrote \"In Praise of Folly\" in 1511?",
+      "answers": [
+        "Thomas More",
+        "Erasmus",
+        "Martin Luther",
+        "John Calvin"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "Desiderius Erasmus wrote it while staying with Thomas More.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q14",
+      "text": "Which priest issued the 1810 \"Grito de Dolores\" that began Mexico's war of independence?",
+      "answers": [
+        "Jose Maria Morelos",
+        "Agustin de Iturbide",
+        "Miguel Hidalgo",
+        "Benito Juarez"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "Hidalgo's call to arms in Dolores launched the independence struggle.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-q15",
+      "text": "Which 1494 treaty divided newly discovered lands between Spain and Portugal?",
+      "answers": [
+        "Treaty of Utrecht",
+        "Peace of Westphalia",
+        "Treaty of Verdun",
+        "Treaty of Tordesillas"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "Tordesillas set a line of demarcation west of the Cape Verde islands.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-047-s1",
+      "text": "Which country's revolution of 1789 popularised the tricolour flag?",
+      "answers": [
+        "Italy",
+        "Spain",
+        "France",
+        "Belgium"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "The French tricolour became the symbol of the Revolution.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-s2",
+      "text": "Which Spanish conquistador conquered the Aztec Empire?",
+      "answers": [
+        "Francisco Pizarro",
+        "Vasco Nunez de Balboa",
+        "Hernando de Soto",
+        "Hernan Cortes"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Cortes captured Tenochtitlan in 1521.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-047-s3",
+      "text": "Which 1688 event replaced James II with William and Mary?",
+      "answers": [
+        "Glorious Revolution",
+        "English Restoration",
+        "Peasants' Revolt",
+        "Wars of the Roses"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "The Glorious Revolution was largely bloodless in England.",
+      "reviewed": true
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-003",
+  "name": "Set 3: Human Body & Health",
+  "episode": 3,
+  "date": "2000-03-01",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "science",
+    "body",
+    "health"
+  ],
+  "questions": [
+    {
+      "id": "ep-003-q01",
+      "text": "Which organ pumps blood around your body?",
+      "answers": [
+        "Liver",
+        "Lungs",
+        "Kidney",
+        "Heart"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Science",
+      "explanation": "The heart is a muscular pump that circulates blood.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q02",
+      "text": "How many teeth does a full set of adult human teeth include, wisdom teeth counted?",
+      "answers": [
+        "32",
+        "28",
+        "30",
+        "36"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Science",
+      "explanation": "A complete adult set has 32 teeth.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q03",
+      "text": "Which vitamin does your skin produce when exposed to sunlight?",
+      "answers": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin K"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Science",
+      "explanation": "Sunlight triggers vitamin D synthesis in the skin.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q04",
+      "text": "What is the largest organ of the human body?",
+      "answers": [
+        "Liver",
+        "Heart",
+        "Skin",
+        "Brain"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Science",
+      "explanation": "The skin has the greatest surface area and mass of any organ.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q05",
+      "text": "Which bone is commonly known as the kneecap?",
+      "answers": [
+        "Femur",
+        "Tibia",
+        "Fibula",
+        "Patella"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Science",
+      "explanation": "The patella protects the front of the knee joint.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q06",
+      "text": "Which blood cells carry oxygen around the body?",
+      "answers": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Lymphocytes"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Haemoglobin in red cells binds oxygen.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q07",
+      "text": "Which gland produces insulin?",
+      "answers": [
+        "Thyroid",
+        "Pancreas",
+        "Pituitary",
+        "Adrenal"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Beta cells in the pancreas make insulin.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q08",
+      "text": "How many chambers does the human heart have?",
+      "answers": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Two atria and two ventricles make four chambers.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q09",
+      "text": "Which coloured part of the eye adjusts the size of the pupil?",
+      "answers": [
+        "Cornea",
+        "Retina",
+        "Lens",
+        "Iris"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Muscles in the iris widen or narrow the pupil.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q10",
+      "text": "A severe lack of vitamin C causes which disease?",
+      "answers": [
+        "Scurvy",
+        "Rickets",
+        "Beriberi",
+        "Pellagra"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Scurvy results from vitamin C deficiency.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q11",
+      "text": "Which is the smallest bone in the human body?",
+      "answers": [
+        "Incus",
+        "Stapes",
+        "Malleus",
+        "Hyoid"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Science",
+      "explanation": "The stapes in the middle ear is the smallest bone.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q12",
+      "text": "Which part of the brain is chiefly responsible for balance and coordination?",
+      "answers": [
+        "Cerebrum",
+        "Medulla oblongata",
+        "Cerebellum",
+        "Thalamus"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Science",
+      "explanation": "The cerebellum coordinates movement and balance.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q13",
+      "text": "Which scientist discovered penicillin in 1928?",
+      "answers": [
+        "Louis Pasteur",
+        "Joseph Lister",
+        "Edward Jenner",
+        "Alexander Fleming"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Science",
+      "explanation": "Fleming noticed mould killing bacteria in a dish.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q14",
+      "text": "Which nerve, the longest in the human body, runs from the lower back down each leg?",
+      "answers": [
+        "Sciatic nerve",
+        "Vagus nerve",
+        "Ulnar nerve",
+        "Femoral nerve"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "Science",
+      "explanation": "The sciatic nerve is the longest and thickest nerve.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-q15",
+      "text": "Which hormone, made by the pineal gland, helps regulate the sleep-wake cycle?",
+      "answers": [
+        "Cortisol",
+        "Melatonin",
+        "Serotonin",
+        "Oxytocin"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "Science",
+      "explanation": "The pineal gland releases melatonin in darkness.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-003-s1",
+      "text": "Which organs, protected by the rib cage, fill with air when you breathe in?",
+      "answers": [
+        "Bladder",
+        "Lungs",
+        "Colon",
+        "Appendix"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Science",
+      "explanation": "The lungs inflate as you inhale.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-s2",
+      "text": "What is the name of the main artery that carries blood out of the heart?",
+      "answers": [
+        "Vena cava",
+        "Jugular vein",
+        "Aorta",
+        "Pulmonary vein"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "The aorta carries oxygenated blood from the left ventricle.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-003-s3",
+      "text": "Which vitamin is essential for normal blood clotting?",
+      "answers": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin E",
+        "Vitamin K"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Science",
+      "explanation": "Vitamin K is needed to make clotting factors.",
+      "reviewed": true
+    }
+  ]
+}

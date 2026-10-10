@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-022",
+  "name": "Set 22: Golden Age Hollywood",
+  "episode": 22,
+  "date": "2007-03-15",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "film",
+    "hollywood",
+    "classic cinema"
+  ],
+  "questions": [
+    {
+      "id": "ep-022-q01",
+      "text": "Which cartoon mouse starred in the 1928 short Steamboat Willie?",
+      "answers": [
+        "Jerry",
+        "Speedy Gonzales",
+        "Mickey Mouse",
+        "Stuart Little"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Film",
+      "explanation": "Walt Disney's Mickey Mouse starred in Steamboat Willie.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q02",
+      "text": "Which silent film star created the beloved character known as the Tramp?",
+      "answers": [
+        "Buster Keaton",
+        "Charlie Chaplin",
+        "Harold Lloyd",
+        "Stan Laurel"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Film",
+      "explanation": "Chaplin's Tramp wore a bowler hat, tiny moustache and cane.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q03",
+      "text": "In The Wizard of Oz, what colour is the road Dorothy follows?",
+      "answers": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Purple"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Film",
+      "explanation": "Dorothy follows the yellow brick road to the Emerald City.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q04",
+      "text": "Which 1939 epic starred Vivien Leigh as Scarlett O'Hara?",
+      "answers": [
+        "Casablanca",
+        "Rebecca",
+        "Citizen Kane",
+        "Gone with the Wind"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Film",
+      "explanation": "Leigh won the Best Actress Oscar for the role.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q05",
+      "text": "Who starred opposite Humphrey Bogart in Casablanca?",
+      "answers": [
+        "Lauren Bacall",
+        "Katharine Hepburn",
+        "Ingrid Bergman",
+        "Rita Hayworth"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Film",
+      "explanation": "Bergman played Ilsa Lund in the 1942 film.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q06",
+      "text": "Who directed and starred in Citizen Kane (1941)?",
+      "answers": [
+        "Alfred Hitchcock",
+        "Orson Welles",
+        "John Ford",
+        "Frank Capra"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Film",
+      "explanation": "Welles co-wrote, directed and starred in his debut feature.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q07",
+      "text": "Which dancer partnered Fred Astaire in ten films, including Top Hat?",
+      "answers": [
+        "Ginger Rogers",
+        "Judy Garland",
+        "Cyd Charisse",
+        "Rita Hayworth"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Film",
+      "explanation": "Astaire and Rogers made ten films together.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q08",
+      "text": "Which 1952 musical features Gene Kelly dancing in the rain?",
+      "answers": [
+        "An American in Paris",
+        "On the Town",
+        "Top Hat",
+        "Singin' in the Rain"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Film",
+      "explanation": "The title number is among the most famous scenes in film.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q09",
+      "text": "Which 1941 film directed by John Huston has Humphrey Bogart playing detective Sam Spade?",
+      "answers": [
+        "The Big Sleep",
+        "Key Largo",
+        "The Maltese Falcon",
+        "The Caine Mutiny"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Film",
+      "explanation": "John Huston's debut as director adapted Dashiell Hammett's novel starring Bogart as Sam Spade.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q10",
+      "text": "Which studio's logo features a roaring lion?",
+      "answers": [
+        "Paramount",
+        "MGM",
+        "Warner Bros.",
+        "Universal"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Film",
+      "explanation": "Leo the Lion is the mascot of Metro-Goldwyn-Mayer.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q11",
+      "text": "Which film won the first Academy Award for Best Picture, for 1927-28?",
+      "answers": [
+        "Wings",
+        "The Broadway Melody",
+        "The Jazz Singer",
+        "Ben-Hur"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Film",
+      "explanation": "Wings, a silent First World War film, took the first top prize.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q12",
+      "text": "Who directed the 1946 film It's a Wonderful Life?",
+      "answers": [
+        "Billy Wilder",
+        "John Huston",
+        "Howard Hawks",
+        "Frank Capra"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Film",
+      "explanation": "Capra directed James Stewart as George Bailey.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q13",
+      "text": "In Casablanca, what is the name of the nightclub run by Rick?",
+      "answers": [
+        "The Blue Parrot",
+        "Sam's Place",
+        "Rick's Cafe Americain",
+        "The Casablanca Club"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Film",
+      "explanation": "Rick's Cafe Americain is the setting of most of the film.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q14",
+      "text": "Which 1959 comedy starred Marilyn Monroe, Tony Curtis and Jack Lemmon?",
+      "answers": [
+        "The Seven Year Itch",
+        "Some Like It Hot",
+        "Bus Stop",
+        "Gentlemen Prefer Blondes"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "Film",
+      "explanation": "Billy Wilder directed the cross-dressing comedy.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-q15",
+      "text": "Which actress played faded silent star Norma Desmond in Sunset Boulevard?",
+      "answers": [
+        "Gloria Swanson",
+        "Bette Davis",
+        "Joan Crawford",
+        "Mae West"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "Film",
+      "explanation": "Swanson was herself a former silent film star.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-022-s1",
+      "text": "Which 1937 Disney film was the first full-length cel-animated feature?",
+      "answers": [
+        "Cinderella",
+        "Pinocchio",
+        "Bambi",
+        "Snow White and the Seven Dwarfs"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Film",
+      "explanation": "Snow White premiered in December 1937.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-s2",
+      "text": "Which actor played Rhett Butler in Gone with the Wind?",
+      "answers": [
+        "Cary Grant",
+        "Gary Cooper",
+        "Clark Gable",
+        "James Stewart"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Film",
+      "explanation": "Gable delivered the famous line 'Frankly, my dear'.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-022-s3",
+      "text": "Which Hitchcock film (1954) features James Stewart spying on his neighbours?",
+      "answers": [
+        "Vertigo",
+        "Rear Window",
+        "Rope",
+        "North by Northwest"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Film",
+      "explanation": "Stewart plays a photographer with a broken leg.",
+      "reviewed": true
+    }
+  ]
+}

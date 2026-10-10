@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-039",
+  "name": "Set 39: Human Anatomy & Biology",
+  "episode": 39,
+  "date": "2017-05-03",
+  "edition": "INT",
+  "provenance": "episode-style",
+  "tags": [
+    "science",
+    "biology",
+    "anatomy"
+  ],
+  "questions": [
+    {
+      "id": "ep-039-q01",
+      "text": "Which organ in your head controls thought and memory?",
+      "answers": [
+        "Heart",
+        "Liver",
+        "Stomach",
+        "Brain"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Science",
+      "explanation": "The brain is the control centre of the nervous system.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q02",
+      "text": "Which bone protects the brain?",
+      "answers": [
+        "Skull",
+        "Rib",
+        "Pelvis",
+        "Sternum"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Science",
+      "explanation": "The skull encloses and protects the brain.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q03",
+      "text": "Which part of the body is covered in taste buds?",
+      "answers": [
+        "Teeth",
+        "Tongue",
+        "Lips",
+        "Fingertips"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Science",
+      "explanation": "Taste buds are found mainly on the tongue.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q04",
+      "text": "How many bones does a typical adult human have?",
+      "answers": [
+        "106",
+        "306",
+        "206",
+        "256"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Science",
+      "explanation": "An adult skeleton has 206 bones.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q05",
+      "text": "Which gas do we breathe out as a waste product?",
+      "answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen",
+        "Carbon dioxide"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Science",
+      "explanation": "Exhaled air carries carbon dioxide produced by cells.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q06",
+      "text": "Which vitamin is also known as ascorbic acid?",
+      "answers": [
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Ascorbic acid is the chemical name for vitamin C.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q07",
+      "text": "What is the long bone of the upper arm called?",
+      "answers": [
+        "Radius",
+        "Humerus",
+        "Ulna",
+        "Femur"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "The humerus runs from shoulder to elbow.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q08",
+      "text": "Which organ produces insulin?",
+      "answers": [
+        "Liver",
+        "Kidney",
+        "Pancreas",
+        "Spleen"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Beta cells in the pancreas make insulin.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q09",
+      "text": "Which cell structure is known as the powerhouse of the cell?",
+      "answers": [
+        "Nucleus",
+        "Ribosome",
+        "Golgi apparatus",
+        "Mitochondria"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Mitochondria generate most of a cell's ATP.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q10",
+      "text": "Which part of the eye gives it its colour?",
+      "answers": [
+        "Iris",
+        "Cornea",
+        "Retina",
+        "Lens"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "The iris contains the pigment that determines eye colour.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q11",
+      "text": "What is the smallest bone in the human body?",
+      "answers": [
+        "Incus",
+        "Stapes",
+        "Malleus",
+        "Hyoid"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Science",
+      "explanation": "The stapes in the middle ear is the smallest human bone.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q12",
+      "text": "Which part of the brain chiefly coordinates balance and movement?",
+      "answers": [
+        "Cerebrum",
+        "Medulla",
+        "Cerebellum",
+        "Thalamus"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Science",
+      "explanation": "The cerebellum fine-tunes coordination and balance.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q13",
+      "text": "Which dome-shaped muscle beneath the lungs does most of the work of breathing?",
+      "answers": [
+        "Deltoid",
+        "Sartorius",
+        "Trapezius",
+        "Diaphragm"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Science",
+      "explanation": "The diaphragm contracts to draw air into the lungs.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q14",
+      "text": "Which heart valve lies between the left atrium and left ventricle?",
+      "answers": [
+        "Mitral valve",
+        "Tricuspid valve",
+        "Aortic valve",
+        "Pulmonary valve"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "Science",
+      "explanation": "The mitral (bicuspid) valve guards the left atrioventricular opening.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-q15",
+      "text": "Which cranial nerve, the longest, runs from the brain down into the abdomen?",
+      "answers": [
+        "Optic nerve",
+        "Vagus nerve",
+        "Facial nerve",
+        "Trigeminal nerve"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "Science",
+      "explanation": "The vagus nerve wanders from the brainstem to the abdomen.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-039-s1",
+      "text": "Which pair of organs do we use to breathe?",
+      "answers": [
+        "Kidneys",
+        "Ribs",
+        "Lungs",
+        "Tonsils"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Science",
+      "explanation": "The lungs exchange oxygen and carbon dioxide.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-s2",
+      "text": "Which gland at the base of the brain is called the master gland?",
+      "answers": [
+        "Thyroid",
+        "Adrenal",
+        "Pineal",
+        "Pituitary"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "The pituitary controls many other endocrine glands.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-039-s3",
+      "text": "In DNA, which base pairs with adenine?",
+      "answers": [
+        "Thymine",
+        "Guanine",
+        "Cytosine",
+        "Uracil"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Science",
+      "explanation": "Adenine pairs with thymine in DNA.",
+      "reviewed": true
+    }
+  ]
+}

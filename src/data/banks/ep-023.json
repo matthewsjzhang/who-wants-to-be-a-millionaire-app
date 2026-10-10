@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-023",
+  "name": "Set 23: Rock & Pop Classics",
+  "episode": 23,
+  "date": "2007-07-15",
+  "edition": "INT",
+  "provenance": "episode-style",
+  "tags": [
+    "music",
+    "rock",
+    "pop"
+  ],
+  "questions": [
+    {
+      "id": "ep-023-q01",
+      "text": "Which band sang Yellow Submarine?",
+      "answers": [
+        "The Rolling Stones",
+        "The Kinks",
+        "The Who",
+        "The Beatles"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Music",
+      "explanation": "Yellow Submarine (1966) featured Ringo Starr on lead vocals.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q02",
+      "text": "Which American singer is known as the Queen of Soul?",
+      "answers": [
+        "Diana Ross",
+        "Tina Turner",
+        "Aretha Franklin",
+        "Whitney Houston"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Music",
+      "explanation": "Aretha Franklin earned the title with hits such as Respect.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q03",
+      "text": "How many strings does a standard guitar have?",
+      "answers": [
+        "Four",
+        "Six",
+        "Eight",
+        "Twelve"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Music",
+      "explanation": "A standard guitar has six strings tuned E-A-D-G-B-E.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q04",
+      "text": "Who released the 1982 album Thriller?",
+      "answers": [
+        "Michael Jackson",
+        "Prince",
+        "Stevie Wonder",
+        "Lionel Richie"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Music",
+      "explanation": "Thriller was released in November 1982.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q05",
+      "text": "Which British band had Mick Jagger as lead singer?",
+      "answers": [
+        "The Animals",
+        "The Kinks",
+        "The Who",
+        "The Rolling Stones"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Music",
+      "explanation": "Jagger co-founded the Rolling Stones in 1962.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q06",
+      "text": "Which band released the album The Dark Side of the Moon?",
+      "answers": [
+        "Led Zeppelin",
+        "Genesis",
+        "Pink Floyd",
+        "Yes"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "The album was released in 1973.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q07",
+      "text": "Which band released the 1991 album Nevermind?",
+      "answers": [
+        "Pearl Jam",
+        "Nirvana",
+        "Soundgarden",
+        "Alice in Chains"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Nevermind featured Smells Like Teen Spirit.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q08",
+      "text": "Who was the flamboyant lead singer of Queen?",
+      "answers": [
+        "Freddie Mercury",
+        "Robert Plant",
+        "Roger Daltrey",
+        "David Bowie"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Mercury wrote Bohemian Rhapsody.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q09",
+      "text": "Which 1969 music festival took place in upstate New York?",
+      "answers": [
+        "Monterey Pop",
+        "Altamont",
+        "Isle of Wight",
+        "Woodstock"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Woodstock was held on a dairy farm near Bethel, New York.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q10",
+      "text": "Which duo recorded The Sound of Silence?",
+      "answers": [
+        "Hall and Oates",
+        "The Everly Brothers",
+        "Simon and Garfunkel",
+        "Sonny and Cher"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Paul Simon and Art Garfunkel recorded it in 1964.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q11",
+      "text": "Which band recorded Hotel California in 1976?",
+      "answers": [
+        "Fleetwood Mac",
+        "The Eagles",
+        "The Doobie Brothers",
+        "Steely Dan"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Music",
+      "explanation": "Hotel California was the title track of the Eagles' 1976 album.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q12",
+      "text": "Which Liverpool club is famous for hosting early Beatles gigs?",
+      "answers": [
+        "The Cavern Club",
+        "The Marquee",
+        "The Hacienda",
+        "The 100 Club"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Music",
+      "explanation": "The Beatles played the Cavern Club nearly 300 times.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q13",
+      "text": "Which 1967 Beatles album cover shows a crowd of famous faces?",
+      "answers": [
+        "Revolver",
+        "Abbey Road",
+        "Let It Be",
+        "Sgt. Pepper's Lonely Hearts Club Band"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Music",
+      "explanation": "The cover collage was designed by Peter Blake and Jann Haworth.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q14",
+      "text": "Which singer released the 1975 album Born to Run?",
+      "answers": [
+        "Billy Joel",
+        "Tom Petty",
+        "Bruce Springsteen",
+        "Neil Diamond"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Music",
+      "explanation": "Born to Run was Springsteen's breakthrough album.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-q15",
+      "text": "Which guitarist played a famous version of the US national anthem at Woodstock?",
+      "answers": [
+        "Carlos Santana",
+        "Jimi Hendrix",
+        "Eric Clapton",
+        "Pete Townshend"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "Music",
+      "explanation": "Hendrix closed the festival in August 1969.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-023-s1",
+      "text": "Which singer is nicknamed the Material Girl?",
+      "answers": [
+        "Cher",
+        "Kylie Minogue",
+        "Whitney Houston",
+        "Madonna"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Music",
+      "explanation": "The nickname came from her 1984 hit Material Girl.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-s2",
+      "text": "Which Motown group featured Diana Ross as lead singer in the 1960s?",
+      "answers": [
+        "The Ronettes",
+        "The Four Tops",
+        "The Supremes",
+        "The Temptations"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "The Supremes had a string of number one hits including Baby Love.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-023-s3",
+      "text": "Which band recorded Stairway to Heaven in 1971?",
+      "answers": [
+        "Deep Purple",
+        "Led Zeppelin",
+        "Black Sabbath",
+        "Free"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Music",
+      "explanation": "It appears on Led Zeppelin's untitled fourth album.",
+      "reviewed": true
+    }
+  ]
+}

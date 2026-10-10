@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-008",
+  "name": "Set 8: Language & Idioms",
+  "episode": 8,
+  "date": "2001-06-15",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "language",
+    "words",
+    "idioms"
+  ],
+  "questions": [
+    {
+      "id": "ep-008-q01",
+      "text": "What do you call a word that means the same as another word?",
+      "answers": [
+        "Synonym",
+        "Antonym",
+        "Homonym",
+        "Acronym"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Language",
+      "explanation": "Synonyms share a meaning, like big and large.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q02",
+      "text": "What does the idiom \"it's raining cats and dogs\" mean?",
+      "answers": [
+        "It's drizzling lightly",
+        "It's raining very heavily",
+        "It's very windy",
+        "It's snowing"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Language",
+      "explanation": "The idiom describes heavy rain.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q03",
+      "text": "How many letters are in the modern English alphabet?",
+      "answers": [
+        "24",
+        "25",
+        "26",
+        "28"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Language",
+      "explanation": "The English alphabet has 26 letters.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q04",
+      "text": "What is the plural of \"mouse\" when referring to the animal?",
+      "answers": [
+        "Mouses",
+        "Meese",
+        "Mices",
+        "Mice"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Language",
+      "explanation": "Mouse has the irregular plural mice.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q05",
+      "text": "Which language has the most native speakers in the world?",
+      "answers": [
+        "Mandarin Chinese",
+        "Spanish",
+        "English",
+        "Hindi"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Language",
+      "explanation": "Mandarin has more native speakers than any other language.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q06",
+      "text": "What does the idiom \"to bite the bullet\" mean?",
+      "answers": [
+        "To fire a gun",
+        "To endure something painful bravely",
+        "To eat very quickly",
+        "To refuse to act"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Language",
+      "explanation": "It means facing an unpleasant task with courage.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q07",
+      "text": "What do we call words that sound alike but differ in spelling and meaning, such as \"night\" and \"knight\"?",
+      "answers": [
+        "Synonyms",
+        "Antonyms",
+        "Homophones",
+        "Palindromes"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Language",
+      "explanation": "Homophones share pronunciation but not spelling.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q08",
+      "text": "What does the Latin phrase \"carpe diem\" mean?",
+      "answers": [
+        "Live forever",
+        "Time flies",
+        "Know thyself",
+        "Seize the day"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Language",
+      "explanation": "Carpe diem is usually translated as seize the day.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q09",
+      "text": "In which language does \"Danke\" mean thank you?",
+      "answers": [
+        "German",
+        "Spanish",
+        "Italian",
+        "Polish"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Language",
+      "explanation": "Danke is the German word for thanks.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q10",
+      "text": "Which of these languages is written from right to left?",
+      "answers": [
+        "Hindi",
+        "Arabic",
+        "Greek",
+        "Thai"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Language",
+      "explanation": "Arabic script runs right to left.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q11",
+      "text": "The expression \"sour grapes\" comes from a fable attributed to whom?",
+      "answers": [
+        "Hans Christian Andersen",
+        "The Brothers Grimm",
+        "Aesop",
+        "Charles Perrault"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Language",
+      "explanation": "Aesop's fable of the fox and the grapes is the source.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q12",
+      "text": "What figure of speech combines contradictory terms, as in \"deafening silence\"?",
+      "answers": [
+        "Hyperbole",
+        "Irony",
+        "Metonymy",
+        "Oxymoron"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Language",
+      "explanation": "An oxymoron pairs contradictory words.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q13",
+      "text": "To which language family does Hungarian belong?",
+      "answers": [
+        "Uralic",
+        "Indo-European",
+        "Turkic",
+        "Slavic"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Language",
+      "explanation": "Hungarian is related to Finnish and Estonian in the Uralic family.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q14",
+      "text": "Which constructed international language was published by L. L. Zamenhof in 1887?",
+      "answers": [
+        "Volapük",
+        "Esperanto",
+        "Ido",
+        "Interlingua"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "Language",
+      "explanation": "Zamenhof introduced Esperanto in 1887.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-q15",
+      "text": "From which language does the English word \"algebra\" ultimately come?",
+      "answers": [
+        "Persian",
+        "Greek",
+        "Arabic",
+        "Latin"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Language",
+      "explanation": "Algebra derives from the Arabic al-jabr.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-008-s1",
+      "text": "In the sentence \"she ran quickly\", what type of word is \"quickly\"?",
+      "answers": [
+        "Noun",
+        "Adjective",
+        "Adverb",
+        "Verb"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Language",
+      "explanation": "Quickly modifies the verb ran, making it an adverb.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-s2",
+      "text": "What do we call a word that reads the same backwards as forwards, such as \"level\"?",
+      "answers": [
+        "Anagram",
+        "Oxymoron",
+        "Homonym",
+        "Palindrome"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Language",
+      "explanation": "A palindrome reads identically in both directions.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-008-s3",
+      "text": "Which ancient writing system used wedge-shaped marks pressed into clay tablets?",
+      "answers": [
+        "Cuneiform",
+        "Hieroglyphs",
+        "Runes",
+        "Linear A"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Language",
+      "explanation": "Cuneiform developed in Mesopotamia around 3400 BC.",
+      "reviewed": true
+    }
+  ]
+}

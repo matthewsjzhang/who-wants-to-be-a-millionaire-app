@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-037",
+  "name": "Set 37: Asia & Africa",
+  "episode": 37,
+  "date": "2017-03-01",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "geography",
+    "asia",
+    "africa"
+  ],
+  "questions": [
+    {
+      "id": "ep-037-q01",
+      "text": "The Great Wall is a famous landmark of which country?",
+      "answers": [
+        "India",
+        "China",
+        "Japan",
+        "Mongolia"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Geography",
+      "explanation": "The Great Wall was built and rebuilt across northern China over many centuries.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q02",
+      "text": "Which African animal is a real high achiever, being the tallest land animal?",
+      "answers": [
+        "Elephant",
+        "Hippopotamus",
+        "Giraffe",
+        "Ostrich"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Geography",
+      "explanation": "Giraffes can stand about five metres tall, taller than any other land animal.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q03",
+      "text": "What is the capital city of Japan?",
+      "answers": [
+        "Kyoto",
+        "Osaka",
+        "Seoul",
+        "Tokyo"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Geography",
+      "explanation": "Tokyo has been Japan's capital since 1868.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q04",
+      "text": "Which is the largest lake in Africa by area?",
+      "answers": [
+        "Lake Victoria",
+        "Lake Tanganyika",
+        "Lake Malawi",
+        "Lake Chad"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Geography",
+      "explanation": "Lake Victoria is Africa's largest lake by surface area.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q05",
+      "text": "In which country is Mount Kilimanjaro found?",
+      "answers": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Zambia"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Geography",
+      "explanation": "Kilimanjaro, Africa's highest peak, lies in northeastern Tanzania.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q06",
+      "text": "What is the capital of Kenya?",
+      "answers": [
+        "Mombasa",
+        "Kampala",
+        "Nairobi",
+        "Dar es Salaam"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "Nairobi is Kenya's capital and largest city.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q07",
+      "text": "Which sea separates the Arabian Peninsula from northeastern Africa?",
+      "answers": [
+        "Black Sea",
+        "Caspian Sea",
+        "Aral Sea",
+        "Red Sea"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "The Red Sea lies between Africa and Arabia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q08",
+      "text": "Which desert spans parts of southern Mongolia and northern China?",
+      "answers": [
+        "Gobi",
+        "Thar",
+        "Kalahari",
+        "Atacama"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "The Gobi is a large cold desert in northern China and southern Mongolia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q09",
+      "text": "The rupiah is the currency of which country?",
+      "answers": [
+        "Malaysia",
+        "Indonesia",
+        "Thailand",
+        "Philippines"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "The rupiah is the official currency of Indonesia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q10",
+      "text": "In which African country is the historic city of Timbuktu?",
+      "answers": [
+        "Niger",
+        "Chad",
+        "Mali",
+        "Mauritania"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "Timbuktu is a famous trading and scholarly centre in northern Mali.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q11",
+      "text": "Which is the only landlocked country in Southeast Asia?",
+      "answers": [
+        "Cambodia",
+        "Vietnam",
+        "Myanmar",
+        "Laos"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Geography",
+      "explanation": "Laos has no coastline; the other mainland Southeast Asian states all touch the sea.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q12",
+      "text": "What is the capital of Myanmar?",
+      "answers": [
+        "Naypyidaw",
+        "Yangon",
+        "Mandalay",
+        "Bago"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Geography",
+      "explanation": "Naypyidaw replaced Yangon as the capital in the mid-2000s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q13",
+      "text": "The Mekong Delta lies mainly in which country?",
+      "answers": [
+        "Thailand",
+        "Vietnam",
+        "Cambodia",
+        "Laos"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Geography",
+      "explanation": "The Mekong empties into the South China Sea through a vast delta in southern Vietnam.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q14",
+      "text": "Victoria Falls is shared by which two countries?",
+      "answers": [
+        "Zambia and Malawi",
+        "Zimbabwe and Botswana",
+        "Zambia and Zimbabwe",
+        "Tanzania and Zambia"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Geography",
+      "explanation": "The Zambezi forms the border between Zambia and Zimbabwe at Victoria Falls.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-q15",
+      "text": "Thimphu is the capital of which Himalayan country?",
+      "answers": [
+        "Nepal",
+        "Sri Lanka",
+        "Brunei",
+        "Bhutan"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "Geography",
+      "explanation": "Thimphu is the capital of the Kingdom of Bhutan.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-037-s1",
+      "text": "Which Asian country is nicknamed the Land of the Rising Sun?",
+      "answers": [
+        "Japan",
+        "Thailand",
+        "Vietnam",
+        "Mongolia"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Geography",
+      "explanation": "Japan's name, Nippon, means origin of the sun.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-s2",
+      "text": "The Dead Sea lies between Israel, the West Bank and which other country?",
+      "answers": [
+        "Egypt",
+        "Jordan",
+        "Syria",
+        "Iraq"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "Jordan forms the Dead Sea's eastern shore.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-037-s3",
+      "text": "What is the capital of Ghana?",
+      "answers": [
+        "Kumasi",
+        "Tamale",
+        "Accra",
+        "Takoradi"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Geography",
+      "explanation": "Accra is Ghana's capital and largest city.",
+      "reviewed": true
+    }
+  ]
+}

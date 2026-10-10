@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-012",
+  "name": "Set 12: chemistry & physics",
+  "episode": 12,
+  "date": "2003-12-05",
+  "edition": "AU",
+  "provenance": "episode-style",
+  "tags": [
+    "science",
+    "chemistry",
+    "physics"
+  ],
+  "questions": [
+    {
+      "id": "ep-012-q01",
+      "text": "Which element, symbol O, do we need to breathe?",
+      "answers": [
+        "Gold",
+        "Osmium",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "chemistry & physics",
+      "explanation": "Oxygen has the symbol O and makes up about 21 percent of air.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q02",
+      "text": "Which light gas makes your voice squeaky when you inhale it from a balloon?",
+      "answers": [
+        "Helium",
+        "Neon",
+        "Argon",
+        "Xenon"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "chemistry & physics",
+      "explanation": "Helium is much less dense than air.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q03",
+      "text": "What is the chemical symbol for sodium?",
+      "answers": [
+        "S",
+        "Sn",
+        "No",
+        "Na"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "chemistry & physics",
+      "explanation": "Na comes from the Latin natrium.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q04",
+      "text": "Approximately how fast does light travel in a vacuum?",
+      "answers": [
+        "30,000 km per second",
+        "300,000 km per second",
+        "3,000,000 km per second",
+        "150,000 km per second"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "chemistry & physics",
+      "explanation": "The speed of light is about 299,792 km/s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q05",
+      "text": "Which is the lightest chemical element?",
+      "answers": [
+        "Hydrogen",
+        "Helium",
+        "Lithium",
+        "Oxygen"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "chemistry & physics",
+      "explanation": "Hydrogen has atomic number 1.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q06",
+      "text": "What is the pH of pure water at 25 degrees Celsius?",
+      "answers": [
+        "0",
+        "14",
+        "7",
+        "1"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "chemistry & physics",
+      "explanation": "A pH of 7 is neutral.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q07",
+      "text": "What is the atomic number of carbon?",
+      "answers": [
+        "12",
+        "6",
+        "8",
+        "14"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "chemistry & physics",
+      "explanation": "Carbon atoms have six protons.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q08",
+      "text": "Which gas makes up the largest share of Earth's atmosphere?",
+      "answers": [
+        "Oxygen",
+        "Argon",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "chemistry & physics",
+      "explanation": "Nitrogen is about 78 percent of dry air.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q09",
+      "text": "Which scientist published the theory of general relativity in 1915?",
+      "answers": [
+        "Niels Bohr",
+        "Max Planck",
+        "Albert Einstein",
+        "James Clerk Maxwell"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "chemistry & physics",
+      "explanation": "Einstein presented general relativity in 1915.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q10",
+      "text": "Which element has the chemical symbol Fe?",
+      "answers": [
+        "Iron",
+        "Fluorine",
+        "Francium",
+        "Fermium"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "chemistry & physics",
+      "explanation": "Fe comes from the Latin ferrum.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q11",
+      "text": "Who discovered the electron in 1897?",
+      "answers": [
+        "Ernest Rutherford",
+        "J. J. Thomson",
+        "Niels Bohr",
+        "James Chadwick"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "chemistry & physics",
+      "explanation": "Thomson identified the electron through cathode ray experiments.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q12",
+      "text": "Which chemist published a periodic table of the elements in 1869?",
+      "answers": [
+        "John Dalton",
+        "Antoine Lavoisier",
+        "Marie Curie",
+        "Dmitri Mendeleev"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "chemistry & physics",
+      "explanation": "Mendeleev arranged the elements by atomic weight and left gaps for undiscovered ones.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q13",
+      "text": "What is the SI unit of electrical resistance?",
+      "answers": [
+        "Ohm",
+        "Volt",
+        "Ampere",
+        "Watt"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "chemistry & physics",
+      "explanation": "The ohm is named after Georg Ohm.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q14",
+      "text": "Avogadro's number is approximately which value?",
+      "answers": [
+        "6.02 x 10^32",
+        "3.00 x 10^8",
+        "6.02 x 10^23",
+        "1.60 x 10^-19"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "chemistry & physics",
+      "explanation": "It is the number of particles in one mole of a substance.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-q15",
+      "text": "Which physicist discovered the neutron in 1932?",
+      "answers": [
+        "Ernest Rutherford",
+        "James Chadwick",
+        "Enrico Fermi",
+        "Niels Bohr"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "chemistry & physics",
+      "explanation": "Chadwick won the 1935 Nobel Prize in Physics for the discovery.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-012-s1",
+      "text": "What is the chemical symbol for silver?",
+      "answers": [
+        "Au",
+        "Si",
+        "Sl",
+        "Ag"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "chemistry & physics",
+      "explanation": "Ag comes from the Latin argentum.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-s2",
+      "text": "Which noble gas, symbol Ne, glows reddish-orange in bright signs?",
+      "answers": [
+        "Argon",
+        "Neon",
+        "Krypton",
+        "Xenon"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "chemistry & physics",
+      "explanation": "Neon, atomic number 10, glows reddish-orange when electricity passes through it in a tube.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-012-s3",
+      "text": "Which law states that, at constant temperature, the pressure of a gas is inversely proportional to its volume?",
+      "answers": [
+        "Charles's law",
+        "Hooke's law",
+        "Boyle's law",
+        "Ohm's law"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "chemistry & physics",
+      "explanation": "Robert Boyle described this relationship in 1662.",
+      "reviewed": true
+    }
+  ]
+}

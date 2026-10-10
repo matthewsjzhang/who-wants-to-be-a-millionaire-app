@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-920",
+  "name": "Fixture 920",
+  "episode": 920,
+  "date": "2001-05-04",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "fixture"
+  ],
+  "questions": [
+    {
+      "id": "f3-q1",
+      "text": "Which of these is linked to cheeses trees number 30 in fixture f?",
+      "answers": [
+        "Option f3-0-A",
+        "Option f3-0-B",
+        "Option f3-0-C",
+        "Option f3-0-D"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "test"
+    },
+    {
+      "id": "f3-q2",
+      "text": "Which of these is linked to composers dances number 31 in fixture f? xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "answers": [
+        "Option f3-1-A",
+        "Option f3-1-B",
+        "Option f3-1-C",
+        "Option f3-1-D"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f3-1."
+    },
+    {
+      "id": "f3-q3",
+      "text": "Which of these is linked to metals spices number 32 in fixture f?",
+      "answers": [
+        "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+        "Option f3-2-B",
+        "Option f3-2-C",
+        "Option f3-2-D"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f3-2."
+    },
+    {
+      "id": "f3-q4",
+      "text": "Which of these is linked to deserts fabrics number 33 in fixture f?",
+      "answers": [
+        "Option f3-3-A",
+        "Option f3-3-B",
+        "Option f3-3-C",
+        "Option f3-3-D"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture f3-3."
+    },
+    {
+      "id": "f3-q5",
+      "text": "Is Option f3-4-C the one?",
+      "answers": [
+        "Option f3-4-A",
+        "Option f3-4-B",
+        "Option f3-4-C",
+        "Option f3-4-D"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture f3-4."
+    },
+    {
+      "id": "f3-q6",
+      "text": "Which of these is linked to islands metals number 35 in fixture f?",
+      "answers": [
+        "Option f3-5-A",
+        "Option f3-5-B",
+        "Option f3-5-C",
+        "Option f3-5-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f3-5."
+    },
+    {
+      "id": "f3-q7",
+      "text": "Which of these is linked to poets islands number 36 in fixture f?",
+      "answers": [
+        "Option f3-6-A",
+        "Option f3-6-B",
+        "Option f3-6-C",
+        "Option f3-6-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f3-6."
+    },
+    {
+      "id": "f3-q8",
+      "text": "Which of these is linked to trees bridges number 37 in fixture f?",
+      "answers": [
+        "Option f3-7-A",
+        "Option f3-7-B",
+        "Option f3-7-C",
+        "Option f3-7-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f3-7."
+    },
+    {
+      "id": "f3-q9",
+      "text": "Which of these is linked to bridges knots number 38 in fixture f?",
+      "answers": [
+        "Option f3-8-A",
+        "Option f3-8-B",
+        "Option f3-8-C",
+        "Option f3-8-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f3-8."
+    },
+    {
+      "id": "f3-q10",
+      "text": "Which of these is linked to gems tools number 39 in fixture f?",
+      "answers": [
+        "Option f3-9-A",
+        "Option f3-9-B",
+        "Option f3-9-C",
+        "Option f3-9-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f3-9."
+    },
+    {
+      "id": "f3-q11",
+      "text": "Which of these is linked to dances rivers number 310 in fixture f?",
+      "answers": [
+        "Option f3-10-A",
+        "Option f3-10-B",
+        "Option f3-10-C",
+        "Option f3-10-D"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f3-10."
+    },
+    {
+      "id": "f3-q12",
+      "text": "Which of these is linked to knots cheeses number 311 in fixture f?",
+      "answers": [
+        "Option f3-11-A",
+        "Option f3-11-B",
+        "Option f3-11-C",
+        "Option f3-11-D"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f3-11."
+    },
+    {
+      "id": "f3-q13",
+      "text": "Which of these is linked to lakes deserts number 312 in fixture f?",
+      "answers": [
+        "Option f3-12-A",
+        "Option f3-12-B",
+        "Option f3-12-C",
+        "Option f3-12-D"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f3-12."
+    },
+    {
+      "id": "f3-q14",
+      "text": "Which of these is linked to spices poets number 313 in fixture f?",
+      "answers": [
+        "Option f3-13-A",
+        "Option f3-13-B",
+        "Option f3-13-C",
+        "Option f3-13-D"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture f3-13."
+    },
+    {
+      "id": "f3-q15",
+      "text": "Which of these is linked to tools gems number 314 in fixture f?",
+      "answers": [
+        "Option f3-14-A",
+        "Option f3-14-B",
+        "Option f3-14-C",
+        "Option f3-14-D"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture f3-14."
+    }
+  ],
+  "spares": [
+    {
+      "id": "s3-q1",
+      "text": "Which of these is linked to cheeses trees number 30 in fixture s?",
+      "answers": [
+        "Option s3-0-A",
+        "Option s3-0-B",
+        "Option s3-0-C",
+        "Option s3-0-D"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture s3-0."
+    },
+    {
+      "id": "s3-q2",
+      "text": "Which of these is linked to composers dances number 31 in fixture s?",
+      "answers": [
+        "Option s3-1-A",
+        "Option s3-1-B",
+        "Option s3-1-C",
+        "Option s3-1-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture s3-1."
+    },
+    {
+      "id": "s3-q3",
+      "text": "Which of these is linked to metals spices number 32 in fixture s?",
+      "answers": [
+        "Option s3-2-A",
+        "Option s3-2-B",
+        "Option s3-2-C",
+        "Option s3-2-D"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture s3-2."
+    }
+  ]
+}

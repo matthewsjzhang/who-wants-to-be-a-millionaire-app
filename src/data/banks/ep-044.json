@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-044",
+  "name": "Set 44: Inventors & Discoveries",
+  "episode": 44,
+  "date": "2017-10-08",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "science",
+    "history",
+    "inventions"
+  ],
+  "questions": [
+    {
+      "id": "ep-044-q01",
+      "text": "Which fruit is said to have inspired Newton's thoughts on gravity?",
+      "answers": [
+        "Apple",
+        "Pear",
+        "Orange",
+        "Plum"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Science & History",
+      "explanation": "The falling apple is the famous anecdote about Newton.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q02",
+      "text": "Who was awarded the first US patent for the telephone in 1876?",
+      "answers": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "Guglielmo Marconi"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Science & History",
+      "explanation": "Bell received the patent in March 1876.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q03",
+      "text": "Who discovered penicillin in 1928?",
+      "answers": [
+        "Louis Pasteur",
+        "Joseph Lister",
+        "Alexander Fleming",
+        "Edward Jenner"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Science & History",
+      "explanation": "Fleming noticed mould killing bacteria in a petri dish.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q04",
+      "text": "Which brothers made the first powered airplane flights in 1903?",
+      "answers": [
+        "The Montgolfier brothers",
+        "The Lumiere brothers",
+        "The Marx brothers",
+        "The Wright brothers"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Science & History",
+      "explanation": "Orville and Wilbur Wright flew at Kitty Hawk.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q05",
+      "text": "Who developed the theory of relativity?",
+      "answers": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Niels Bohr",
+        "Galileo Galilei"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Science & History",
+      "explanation": "Einstein published special relativity in 1905.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q06",
+      "text": "Which Scottish engineer improved the steam engine with a separate condenser?",
+      "answers": [
+        "Thomas Newcomen",
+        "James Watt",
+        "George Stephenson",
+        "Richard Trevithick"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Science & History",
+      "explanation": "Watt's separate condenser, patented in 1769, made steam engines far more efficient.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q07",
+      "text": "Which scientist discovered radium and polonium?",
+      "answers": [
+        "Rosalind Franklin",
+        "Lise Meitner",
+        "Marie Curie",
+        "Dorothy Hodgkin"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Science & History",
+      "explanation": "Marie and Pierre Curie discovered both in 1898.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q08",
+      "text": "Who invented the World Wide Web in 1989?",
+      "answers": [
+        "Vint Cerf",
+        "Bill Gates",
+        "Steve Jobs",
+        "Tim Berners-Lee"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Science & History",
+      "explanation": "Berners-Lee proposed the Web while at CERN.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q09",
+      "text": "Who first observed Jupiter's four largest moons with a telescope in 1610?",
+      "answers": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Nicolaus Copernicus",
+        "Tycho Brahe"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Science & History",
+      "explanation": "Galileo spotted Io, Europa, Ganymede and Callisto.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q10",
+      "text": "Which inventor patented dynamite in 1867?",
+      "answers": [
+        "Robert Bunsen",
+        "Alfred Nobel",
+        "Nikola Tesla",
+        "Ascanio Sobrero"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Science & History",
+      "explanation": "Nobel's dynamite stabilised nitroglycerine.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q11",
+      "text": "Who discovered electromagnetic induction in 1831?",
+      "answers": [
+        "James Clerk Maxwell",
+        "Hans Christian Orsted",
+        "Michael Faraday",
+        "Andre-Marie Ampere"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Science & History",
+      "explanation": "Faraday demonstrated induction at the Royal Institution.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q12",
+      "text": "Which scientist developed the first rabies vaccine in 1885?",
+      "answers": [
+        "Edward Jenner",
+        "Jonas Salk",
+        "Robert Koch",
+        "Louis Pasteur"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Science & History",
+      "explanation": "Pasteur first used his rabies vaccine on a boy in 1885.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q13",
+      "text": "Which ancient scholar reputedly shouted Eureka in his bath?",
+      "answers": [
+        "Archimedes",
+        "Euclid",
+        "Pythagoras",
+        "Ptolemy"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Science & History",
+      "explanation": "The story links Archimedes to the principle of buoyancy.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q14",
+      "text": "Who published a widely recognised periodic table in 1869?",
+      "answers": [
+        "Antoine Lavoisier",
+        "Dmitri Mendeleev",
+        "John Dalton",
+        "Niels Bohr"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "Science & History",
+      "explanation": "Mendeleev arranged elements by atomic weight and left gaps.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-q15",
+      "text": "Who discovered X-rays in 1895?",
+      "answers": [
+        "Henri Becquerel",
+        "Ernest Rutherford",
+        "Wilhelm Rontgen",
+        "Max Planck"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Science & History",
+      "explanation": "Rontgen won the first Nobel Prize in Physics for X-rays.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-044-s1",
+      "text": "Which inventor is famous for the phonograph and a practical electric light bulb?",
+      "answers": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Samuel Morse",
+        "Henry Ford"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Science & History",
+      "explanation": "Thomas Edison patented the phonograph in 1878 and developed a practical light bulb.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-s2",
+      "text": "Who discovered the neutron in 1932?",
+      "answers": [
+        "James Chadwick",
+        "Ernest Rutherford",
+        "Niels Bohr",
+        "J. J. Thomson"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Science & History",
+      "explanation": "Chadwick identified the neutron at Cambridge in 1932.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-044-s3",
+      "text": "Which Italian physicist invented the voltaic pile, an early electric battery, in 1800?",
+      "answers": [
+        "Luigi Galvani",
+        "Alessandro Volta",
+        "Amedeo Avogadro",
+        "Enrico Fermi"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Science & History",
+      "explanation": "The volt is named after Volta.",
+      "reviewed": true
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-009",
+  "name": "Set 9: Sports & Olympic History",
+  "episode": 9,
+  "date": "2001-09-01",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "sport",
+    "olympics"
+  ],
+  "questions": [
+    {
+      "id": "ep-009-q01",
+      "text": "In which sport would a player score a \"birdie\"?",
+      "answers": [
+        "Cricket",
+        "Golf",
+        "Rugby",
+        "Snooker"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Sport",
+      "explanation": "A birdie is one stroke under par in golf.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q02",
+      "text": "How many players does each football (soccer) team have on the pitch?",
+      "answers": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Sport",
+      "explanation": "Each side fields eleven players.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q03",
+      "text": "Which city hosted the first modern Olympic Games in 1896?",
+      "answers": [
+        "Paris",
+        "London",
+        "Rome",
+        "Athens"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Sport",
+      "explanation": "The 1896 Games were held in Athens.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q04",
+      "text": "How many interlocking rings appear on the Olympic flag?",
+      "answers": [
+        "Five",
+        "Four",
+        "Six",
+        "Seven"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Sport",
+      "explanation": "The five rings represent the five inhabited continents.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q05",
+      "text": "Wimbledon hosts the oldest championship in which sport?",
+      "answers": [
+        "Badminton",
+        "Tennis",
+        "Croquet",
+        "Squash"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Sport",
+      "explanation": "The Wimbledon Championships, first held in 1877, are the oldest tennis tournament.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q06",
+      "text": "Which American sprinter won four gold medals at the 1936 Berlin Olympics?",
+      "answers": [
+        "Carl Lewis",
+        "Eric Liddell",
+        "Jesse Owens",
+        "Ralph Metcalfe"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Owens won the 100m, 200m, long jump and relay.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q07",
+      "text": "Which city hosted the 1992 Summer Olympics?",
+      "answers": [
+        "Atlanta",
+        "Seoul",
+        "Los Angeles",
+        "Barcelona"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Barcelona hosted the 1992 Games.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q08",
+      "text": "Which country hosted the first FIFA World Cup in 1930?",
+      "answers": [
+        "Uruguay",
+        "Brazil",
+        "Italy",
+        "Argentina"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Uruguay hosted and won the first World Cup.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q09",
+      "text": "In which athletics event was the \"Fosbury Flop\" introduced?",
+      "answers": [
+        "Pole vault",
+        "High jump",
+        "Long jump",
+        "Hurdles"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Dick Fosbury won 1968 Olympic gold using the technique.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q10",
+      "text": "Which boxer was born Cassius Clay?",
+      "answers": [
+        "Joe Frazier",
+        "George Foreman",
+        "Muhammad Ali",
+        "Sonny Liston"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Cassius Clay changed his name after joining the Nation of Islam.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q11",
+      "text": "Who ran the first sub-four-minute mile in 1954?",
+      "answers": [
+        "John Landy",
+        "Sebastian Coe",
+        "Chris Chataway",
+        "Roger Bannister"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Sport",
+      "explanation": "Bannister ran 3:59.4 at Oxford.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q12",
+      "text": "Which Romanian gymnast scored the first perfect 10 in Olympic history in 1976?",
+      "answers": [
+        "Nadia Comăneci",
+        "Olga Korbut",
+        "Ludmilla Tourischeva",
+        "Věra Čáslavská"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Sport",
+      "explanation": "Comăneci scored a perfect 10 on the uneven bars.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q13",
+      "text": "In which year were the first Winter Olympics held at Chamonix?",
+      "answers": [
+        "1896",
+        "1924",
+        "1936",
+        "1948"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Sport",
+      "explanation": "The first Winter Games took place in 1924.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q14",
+      "text": "Which Finnish runner, nicknamed the Flying Finn, won nine Olympic gold medals?",
+      "answers": [
+        "Lasse Virén",
+        "Hannes Kolehmainen",
+        "Paavo Nurmi",
+        "Ville Ritola"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Sport",
+      "explanation": "Nurmi won nine golds across the 1920, 1924 and 1928 Games.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-q15",
+      "text": "Which Australian cricketer finished his Test career with a batting average of 99.94?",
+      "answers": [
+        "Garfield Sobers",
+        "Jack Hobbs",
+        "Len Hutton",
+        "Don Bradman"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "Sport",
+      "explanation": "Bradman needed just four runs in his last innings to average 100.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-009-s1",
+      "text": "In baseball, how many strikes make an out for a batter?",
+      "answers": [
+        "Two",
+        "Four",
+        "Five",
+        "Three"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Sport",
+      "explanation": "Three strikes retire the batter.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-s2",
+      "text": "Which city hosted the 1980 Summer Olympics, boycotted by the United States?",
+      "answers": [
+        "Moscow",
+        "Montreal",
+        "Los Angeles",
+        "Munich"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Moscow hosted the 1980 Games.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-009-s3",
+      "text": "Who set a long-jump world record of 8.90m at the 1968 Olympics?",
+      "answers": [
+        "Carl Lewis",
+        "Bob Beamon",
+        "Mike Powell",
+        "Jesse Owens"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Sport",
+      "explanation": "Beamon's leap at Mexico City stood for 23 years.",
+      "reviewed": true
+    }
+  ]
+}

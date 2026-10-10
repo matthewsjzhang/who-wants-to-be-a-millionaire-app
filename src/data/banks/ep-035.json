@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-035",
+  "name": "Set 35: Birds, insects & ocean life",
+  "episode": 35,
+  "date": "2011-11-19",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "nature",
+    "birds",
+    "insects",
+    "ocean"
+  ],
+  "questions": [
+    {
+      "id": "ep-035-q01",
+      "text": "Which bird is famously nocturnal and hoots in the night?",
+      "answers": [
+        "Robin",
+        "Wren",
+        "Finch",
+        "Owl"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "Many owl species hunt at night and call with hoots.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q02",
+      "text": "What do bees make that is often spread on toast?",
+      "answers": [
+        "Honey",
+        "Jam",
+        "Wax",
+        "Nectar"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "Bees convert nectar into honey.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q03",
+      "text": "How many legs does an adult insect have?",
+      "answers": [
+        "Four",
+        "Six",
+        "Eight",
+        "Ten"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "Insects have three pairs of legs.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q04",
+      "text": "Which is the largest living bird?",
+      "answers": [
+        "Emu",
+        "Cassowary",
+        "Ostrich",
+        "Rhea"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "Ostriches can stand around 2.5 metres tall.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q05",
+      "text": "Which sea creature has eight arms?",
+      "answers": [
+        "Starfish",
+        "Lobster",
+        "Jellyfish",
+        "Octopus"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "Octopus means 'eight feet' in Greek.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q06",
+      "text": "What is the largest species of whale?",
+      "answers": [
+        "Blue whale",
+        "Sperm whale",
+        "Fin whale",
+        "Humpback whale"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Blue whales are the largest known animals.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q07",
+      "text": "Which insect develops from a caterpillar through a chrysalis stage?",
+      "answers": [
+        "Grasshopper",
+        "Butterfly",
+        "Dragonfly",
+        "Cockroach"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Butterflies undergo complete metamorphosis.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q08",
+      "text": "Which bird of prey is the national bird of the United States?",
+      "answers": [
+        "Golden eagle",
+        "Osprey",
+        "Bald eagle",
+        "Peregrine falcon"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "The bald eagle appears on the Great Seal.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q09",
+      "text": "What is the traditional collective noun for a group of crows?",
+      "answers": [
+        "A parliament",
+        "An exaltation",
+        "An unkindness",
+        "A murder"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "'A murder of crows' is the classic term.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q10",
+      "text": "Which of these sea animals is a mammal?",
+      "answers": [
+        "Dolphin",
+        "Shark",
+        "Tuna",
+        "Seahorse"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Dolphins breathe air and nurse their young.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q11",
+      "text": "Which seabird migrates from the Arctic to the Antarctic and back each year?",
+      "answers": [
+        "Puffin",
+        "Arctic tern",
+        "Gannet",
+        "Wandering albatross"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "The Arctic tern enjoys long polar summers at both ends of its journey.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q12",
+      "text": "Which North Atlantic sea is the breeding ground of the European eel?",
+      "answers": [
+        "Baltic Sea",
+        "Coral Sea",
+        "Sargasso Sea",
+        "Caspian Sea"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "European eels travel to the Sargasso Sea to spawn.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q13",
+      "text": "What is the largest species of shark and fish?",
+      "answers": [
+        "Great white shark",
+        "Basking shark",
+        "Megalodon",
+        "Whale shark"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "The whale shark is a harmless filter feeder.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q14",
+      "text": "Which bird has the largest wingspan of any living bird, up to about 3.5 metres?",
+      "answers": [
+        "Wandering albatross",
+        "Andean condor",
+        "Bald eagle",
+        "Golden eagle"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "The wandering albatross glides over the Southern Ocean.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-q15",
+      "text": "In emperor penguins, which parent incubates the single egg on its feet through the Antarctic winter?",
+      "answers": [
+        "The female",
+        "The male",
+        "Both, swapping every hour",
+        "Neither; the egg is left in a stone nest"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "Males balance the egg on their feet while the females feed at sea.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-035-s1",
+      "text": "Which sea creature has a hard shell, pincers and walks sideways?",
+      "answers": [
+        "Crab",
+        "Lobster",
+        "Starfish",
+        "Squid"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "Crabs move sideways on their jointed legs.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-s2",
+      "text": "Which large-billed bird from tropical Central and South America is famous for its colourful beak?",
+      "answers": [
+        "Puffin",
+        "Toucan",
+        "Pelican",
+        "Magpie"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Toucans use their long bills to reach fruit.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-s3",
+      "text": "Butterflies and moths belong to which insect order?",
+      "answers": [
+        "Coleoptera",
+        "Diptera",
+        "Lepidoptera",
+        "Hymenoptera"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "Lepidoptera means 'scaly wings'.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-035-s4",
+      "text": "Architeuthis is the scientific name of which deep-sea animal?",
+      "answers": [
+        "Colossal squid",
+        "Humboldt squid",
+        "Kraken",
+        "Giant squid"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "Giant squid can grow to over ten metres.",
+      "reviewed": true
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-045",
+  "name": "Set 45: Painting & Sculpture",
+  "episode": 45,
+  "date": "2017-11-09",
+  "edition": "INT",
+  "provenance": "episode-style",
+  "tags": [
+    "arts",
+    "painting",
+    "sculpture"
+  ],
+  "questions": [
+    {
+      "id": "ep-045-q01",
+      "text": "What do we call an artwork that mainly depicts the sea?",
+      "answers": [
+        "Landscape",
+        "Still life",
+        "Seascape",
+        "Mural"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Arts",
+      "explanation": "A seascape is an artwork whose main subject is the sea.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q02",
+      "text": "Mixing blue and yellow paint makes which colour?",
+      "answers": [
+        "Purple",
+        "Orange",
+        "Green",
+        "Brown"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Arts",
+      "explanation": "Blue and yellow combine to make green.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q03",
+      "text": "Who painted The Starry Night?",
+      "answers": [
+        "Claude Monet",
+        "Pablo Picasso",
+        "Salvador Dali",
+        "Vincent van Gogh"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Arts",
+      "explanation": "Van Gogh painted it in 1889 at Saint-Remy.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q04",
+      "text": "Who sculpted the marble statue David in Florence?",
+      "answers": [
+        "Michelangelo",
+        "Bernini",
+        "Donatello",
+        "Rodin"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Arts",
+      "explanation": "Michelangelo completed David in 1504.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q05",
+      "text": "Which Spanish artist painted Guernica in 1937?",
+      "answers": [
+        "Salvador Dali",
+        "Pablo Picasso",
+        "Joan Miro",
+        "Francisco Goya"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Arts",
+      "explanation": "Picasso painted Guernica after the bombing of the Basque town.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q06",
+      "text": "Who painted The Persistence of Memory with its melting clocks?",
+      "answers": [
+        "Rene Magritte",
+        "Max Ernst",
+        "Salvador Dali",
+        "Joan Miro"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Arts",
+      "explanation": "Dali painted it in 1931.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q07",
+      "text": "Which sculptor created The Thinker?",
+      "answers": [
+        "Henry Moore",
+        "Edgar Degas",
+        "Donatello",
+        "Auguste Rodin"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Arts",
+      "explanation": "Rodin first conceived The Thinker for The Gates of Hell.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q08",
+      "text": "Which Dutch painter created Girl with a Pearl Earring?",
+      "answers": [
+        "Johannes Vermeer",
+        "Rembrandt",
+        "Frans Hals",
+        "Jan van Eyck"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Arts",
+      "explanation": "Vermeer painted it around 1665.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q09",
+      "text": "Which Monet painting gave Impressionism its name?",
+      "answers": [
+        "Water Lilies",
+        "Impression, Sunrise",
+        "Haystacks",
+        "Rouen Cathedral"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Arts",
+      "explanation": "A critic seized on the title Impression, Sunrise in 1874.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q10",
+      "text": "Who painted The Scream?",
+      "answers": [
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Edvard Munch",
+        "Wassily Kandinsky"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Arts",
+      "explanation": "Munch's Norwegian painting dates from 1893.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q11",
+      "text": "Which Italian sculptor created Apollo and Daphne?",
+      "answers": [
+        "Antonio Canova",
+        "Benvenuto Cellini",
+        "Donatello",
+        "Gian Lorenzo Bernini"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Arts",
+      "explanation": "Bernini carved it between 1622 and 1625.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q12",
+      "text": "Which Viennese artist painted The Kiss using gold leaf?",
+      "answers": [
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Edvard Munch",
+        "Henri Matisse"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Arts",
+      "explanation": "Klimt painted The Kiss around 1907 to 1908.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q13",
+      "text": "Which English painter created The Hay Wain?",
+      "answers": [
+        "J. M. W. Turner",
+        "John Constable",
+        "Thomas Gainsborough",
+        "William Hogarth"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Arts",
+      "explanation": "Constable painted The Hay Wain in 1821.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q14",
+      "text": "Who painted Las Meninas in 1656?",
+      "answers": [
+        "Francisco Goya",
+        "El Greco",
+        "Diego Velazquez",
+        "Bartolome Murillo"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Arts",
+      "explanation": "Velazquez painted it for the Spanish court.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-q15",
+      "text": "Which sculptor created the series Bird in Space?",
+      "answers": [
+        "Alberto Giacometti",
+        "Jean Arp",
+        "Alexander Calder",
+        "Constantin Brancusi"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "Arts",
+      "explanation": "Brancusi made the Bird in Space series from 1923.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-045-s1",
+      "text": "What do we call a painting of a person's face?",
+      "answers": [
+        "Portrait",
+        "Landscape",
+        "Still life",
+        "Mural"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Arts",
+      "explanation": "A portrait depicts a person.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-s2",
+      "text": "Which Mexican artist painted The Two Fridas?",
+      "answers": [
+        "Diego Rivera",
+        "Frida Kahlo",
+        "Jose Clemente Orozco",
+        "Rufino Tamayo"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Arts",
+      "explanation": "Kahlo painted it in 1939.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-045-s3",
+      "text": "Which Dutch artist painted The Night Watch?",
+      "answers": [
+        "Johannes Vermeer",
+        "Frans Hals",
+        "Rembrandt",
+        "Hieronymus Bosch"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Arts",
+      "explanation": "Rembrandt completed it in 1642.",
+      "reviewed": true
+    }
+  ]
+}

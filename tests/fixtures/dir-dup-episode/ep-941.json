@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-941",
+  "name": "Fixture 940",
+  "episode": 940,
+  "date": "2001-05-04",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "fixture"
+  ],
+  "questions": [
+    {
+      "id": "f7-q1",
+      "text": "Which of these is linked to fruits knots number 70 in fixture f?",
+      "answers": [
+        "Option f7-0-A",
+        "Option f7-0-B",
+        "Option f7-0-C",
+        "Option f7-0-D"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f7-0."
+    },
+    {
+      "id": "f7-q2",
+      "text": "Which of these is linked to islands tools number 71 in fixture f?",
+      "answers": [
+        "Option f7-1-A",
+        "Option f7-1-B",
+        "Option f7-1-C",
+        "Option f7-1-D"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f7-1."
+    },
+    {
+      "id": "f7-q3",
+      "text": "Which of these is linked to poets rivers number 72 in fixture f?",
+      "answers": [
+        "Option f7-2-A",
+        "Option f7-2-B",
+        "Option f7-2-C",
+        "Option f7-2-D"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f7-2."
+    },
+    {
+      "id": "f7-q4",
+      "text": "Which of these is linked to trees cheeses number 73 in fixture f?",
+      "answers": [
+        "Option f7-3-A",
+        "Option f7-3-B",
+        "Option f7-3-C",
+        "Option f7-3-D"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture f7-3."
+    },
+    {
+      "id": "f7-q5",
+      "text": "Which of these is linked to bridges deserts number 74 in fixture f?",
+      "answers": [
+        "Option f7-4-A",
+        "Option f7-4-B",
+        "Option f7-4-C",
+        "Option f7-4-D"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture f7-4."
+    },
+    {
+      "id": "f7-q6",
+      "text": "Which of these is linked to gems poets number 75 in fixture f?",
+      "answers": [
+        "Option f7-5-A",
+        "Option f7-5-B",
+        "Option f7-5-C",
+        "Option f7-5-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f7-5."
+    },
+    {
+      "id": "f7-q7",
+      "text": "Which of these is linked to dances gems number 76 in fixture f?",
+      "answers": [
+        "Option f7-6-A",
+        "Option f7-6-B",
+        "Option f7-6-C",
+        "Option f7-6-D"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f7-6."
+    },
+    {
+      "id": "f7-q8",
+      "text": "Which of these is linked to knots lakes number 77 in fixture f?",
+      "answers": [
+        "Option f7-7-A",
+        "Option f7-7-B",
+        "Option f7-7-C",
+        "Option f7-7-D"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f7-7."
+    },
+    {
+      "id": "f7-q9",
+      "text": "Which of these is linked to lakes clouds number 78 in fixture f?",
+      "answers": [
+        "Option f7-8-A",
+        "Option f7-8-B",
+        "Option f7-8-C",
+        "Option f7-8-D"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f7-8."
+    },
+    {
+      "id": "f7-q10",
+      "text": "Which of these is linked to spices planets number 79 in fixture f?",
+      "answers": [
+        "Option f7-9-A",
+        "Option f7-9-B",
+        "Option f7-9-C",
+        "Option f7-9-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f7-9."
+    },
+    {
+      "id": "f7-q11",
+      "text": "Which of these is linked to tools composers number 710 in fixture f?",
+      "answers": [
+        "Option f7-10-A",
+        "Option f7-10-B",
+        "Option f7-10-C",
+        "Option f7-10-D"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f7-10."
+    },
+    {
+      "id": "f7-q12",
+      "text": "Which of these is linked to clouds fruits number 711 in fixture f?",
+      "answers": [
+        "Option f7-11-A",
+        "Option f7-11-B",
+        "Option f7-11-C",
+        "Option f7-11-D"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f7-11."
+    },
+    {
+      "id": "f7-q13",
+      "text": "Which of these is linked to fabrics trees number 712 in fixture f?",
+      "answers": [
+        "Option f7-12-A",
+        "Option f7-12-B",
+        "Option f7-12-C",
+        "Option f7-12-D"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f7-12."
+    },
+    {
+      "id": "f7-q14",
+      "text": "Which of these is linked to rivers dances number 713 in fixture f?",
+      "answers": [
+        "Option f7-13-A",
+        "Option f7-13-B",
+        "Option f7-13-C",
+        "Option f7-13-D"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture f7-13."
+    },
+    {
+      "id": "f7-q15",
+      "text": "Which of these is linked to planets spices number 714 in fixture f?",
+      "answers": [
+        "Option f7-14-A",
+        "Option f7-14-B",
+        "Option f7-14-C",
+        "Option f7-14-D"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture f7-14."
+    }
+  ],
+  "spares": [
+    {
+      "id": "s7-q1",
+      "text": "Which of these is linked to fruits knots number 70 in fixture s?",
+      "answers": [
+        "Option s7-0-A",
+        "Option s7-0-B",
+        "Option s7-0-C",
+        "Option s7-0-D"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture s7-0."
+    },
+    {
+      "id": "s7-q2",
+      "text": "Which of these is linked to islands tools number 71 in fixture s?",
+      "answers": [
+        "Option s7-1-A",
+        "Option s7-1-B",
+        "Option s7-1-C",
+        "Option s7-1-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture s7-1."
+    },
+    {
+      "id": "s7-q3",
+      "text": "Which of these is linked to poets rivers number 72 in fixture s?",
+      "answers": [
+        "Option s7-2-A",
+        "Option s7-2-B",
+        "Option s7-2-C",
+        "Option s7-2-D"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture s7-2."
+    }
+  ]
+}

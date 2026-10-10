@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-028",
+  "name": "Set 28: World wars & modern history",
+  "episode": 28,
+  "date": "2009-01-10",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "history",
+    "world-wars"
+  ],
+  "questions": [
+    {
+      "id": "ep-028-q01",
+      "text": "Trench warfare on the Western Front defined which conflict?",
+      "answers": [
+        "World War I",
+        "Vietnam War",
+        "Falklands War",
+        "Gulf War"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "Millions of soldiers lived and fought in trench lines across France and Belgium from 1914 to 1918.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q02",
+      "text": "Which wall, built in 1961, divided East and West Berlin until it was opened in 1989?",
+      "answers": [
+        "Hadrian's Wall",
+        "The Berlin Wall",
+        "The Great Wall of China",
+        "The Western Wall"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "The Berlin Wall split East and West Berlin until it was opened in November 1989.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q03",
+      "text": "Who led Britain as Prime Minister for most of World War II?",
+      "answers": [
+        "Neville Chamberlain",
+        "Clement Attlee",
+        "Winston Churchill",
+        "Stanley Baldwin"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "Churchill became Prime Minister in May 1940 and led the wartime coalition until 1945.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q04",
+      "text": "In which year did Germany surrender, ending World War II in Europe?",
+      "answers": [
+        "1943",
+        "1944",
+        "1946",
+        "1945"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "Germany surrendered in May 1945, celebrated as VE Day.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q05",
+      "text": "Which country did Germany invade in September 1939, leading Britain and France to declare war?",
+      "answers": [
+        "Poland",
+        "Austria",
+        "Denmark",
+        "Czechoslovakia"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "The invasion of Poland on 1 September 1939 triggered the declarations of war.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q06",
+      "text": "Operation Overlord was the Allied invasion of which French region in 1944?",
+      "answers": [
+        "Brittany",
+        "Normandy",
+        "Provence",
+        "Alsace"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Overlord launched on D-Day, 6 June 1944, with landings on the Normandy beaches.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q07",
+      "text": "Which 1919 treaty imposed reparations on Germany after World War I?",
+      "answers": [
+        "Treaty of Brest-Litovsk",
+        "Treaty of Trianon",
+        "Treaty of Versailles",
+        "Treaty of Locarno"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "The Treaty of Versailles was signed in June 1919 and included the war guilt and reparations clauses.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q08",
+      "text": "Whose assassination in Sarajevo in 1914 set off the chain of events leading to World War I?",
+      "answers": [
+        "Tsar Nicholas II",
+        "Kaiser Wilhelm II",
+        "Emperor Franz Joseph",
+        "Archduke Franz Ferdinand"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Franz Ferdinand, heir to the Austro-Hungarian throne, was shot on 28 June 1914.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q09",
+      "text": "Which battle of 1942-43 ended with the surrender of Germany's Sixth Army?",
+      "answers": [
+        "Stalingrad",
+        "Kursk",
+        "Moscow",
+        "Leningrad"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "The German Sixth Army surrendered at Stalingrad in early 1943, a major turning point on the Eastern Front.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q10",
+      "text": "Which US president authorised the atomic bombs dropped on Japan in 1945?",
+      "answers": [
+        "Franklin D. Roosevelt",
+        "Harry S. Truman",
+        "Dwight Eisenhower",
+        "Herbert Hoover"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Truman had become president after Roosevelt's death in April 1945.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q11",
+      "text": "Which Soviet leader introduced the policies of glasnost and perestroika?",
+      "answers": [
+        "Leonid Brezhnev",
+        "Nikita Khrushchev",
+        "Mikhail Gorbachev",
+        "Yuri Andropov"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "Gorbachev led the USSR from 1985 and launched these openness and restructuring reforms.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q12",
+      "text": "The February 1945 Yalta Conference brought together Churchill, Stalin and which other leader?",
+      "answers": [
+        "Harry S. Truman",
+        "Charles de Gaulle",
+        "Chiang Kai-shek",
+        "Franklin D. Roosevelt"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Roosevelt attended Yalta shortly before his death in April 1945.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q13",
+      "text": "Which June 1942 naval battle saw US carrier aircraft sink four Japanese aircraft carriers?",
+      "answers": [
+        "Midway",
+        "Coral Sea",
+        "Leyte Gulf",
+        "Jutland"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "At Midway the US sank Akagi, Kaga, Soryu and Hiryu, shifting the Pacific balance.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q14",
+      "text": "Which battle began on 1 July 1916 with the British Army's heaviest single-day casualties?",
+      "answers": [
+        "Verdun",
+        "The Somme",
+        "Passchendaele",
+        "Gallipoli"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "The first day of the Somme cost the British Army roughly 57,000 casualties.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-q15",
+      "text": "Which 1939 agreement between Germany and the USSR contained a secret protocol dividing Eastern Europe?",
+      "answers": [
+        "Pact of Steel",
+        "Tripartite Pact",
+        "Molotov-Ribbentrop Pact",
+        "Anti-Comintern Pact"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "The non-aggression pact of August 1939 secretly carved up Poland and the Baltic region.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-028-s1",
+      "text": "Alongside Britain and the United States, which communist state was a major Allied power in World War II?",
+      "answers": [
+        "Spain",
+        "Soviet Union",
+        "Italy",
+        "Japan"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "The USSR joined the Allies after being invaded by Germany in June 1941.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-s2",
+      "text": "In which year did the Berlin Wall fall?",
+      "answers": [
+        "1991",
+        "1987",
+        "1989",
+        "1985"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "The border was opened on 9 November 1989.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-s3",
+      "text": "The Armistice ending WWI fighting was signed in a railway carriage in a forest near which French town?",
+      "answers": [
+        "Fontainebleau",
+        "Verdun",
+        "Reims",
+        "Compiègne"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "The armistice took effect at 11 a.m. on 11 November 1918.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-028-s4",
+      "text": "Which 1941 charter, agreed by Roosevelt and Churchill off Newfoundland, set out shared post-war aims?",
+      "answers": [
+        "Atlantic Charter",
+        "Lend-Lease Act",
+        "Potsdam Declaration",
+        "Fourteen Points"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "The Atlantic Charter was announced in August 1941 and later influenced the United Nations.",
+      "reviewed": true
+    }
+  ]
+}

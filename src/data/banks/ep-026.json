@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-026",
+  "name": "Set 26: Great Explorers",
+  "episode": 26,
+  "date": "2008-07-15",
+  "edition": "INT",
+  "provenance": "episode-style",
+  "tags": [
+    "history",
+    "explorers"
+  ],
+  "questions": [
+    {
+      "id": "ep-026-q01",
+      "text": "Which explorer sailed the ocean blue in 1492?",
+      "answers": [
+        "Ferdinand Magellan",
+        "James Cook",
+        "Christopher Columbus",
+        "Francis Drake"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "History & Exploration",
+      "explanation": "Columbus reached the Caribbean in October 1492.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q02",
+      "text": "Which Venetian merchant-explorer's travels to China were recorded in a famous medieval book?",
+      "answers": [
+        "Vasco da Gama",
+        "Marco Polo",
+        "Amerigo Vespucci",
+        "Ferdinand Magellan"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "History & Exploration",
+      "explanation": "The Travels of Marco Polo described his journeys across Asia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q03",
+      "text": "Who led the first expedition to reach the South Pole, in 1911?",
+      "answers": [
+        "Roald Amundsen",
+        "Robert Falcon Scott",
+        "Ernest Shackleton",
+        "Fridtjof Nansen"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "History & Exploration",
+      "explanation": "Amundsen's team reached the Pole in December 1911.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q04",
+      "text": "Which Norse explorer is traditionally credited with reaching North America around the year 1000?",
+      "answers": [
+        "Erik the Red",
+        "Ragnar Lodbrok",
+        "Harald Hardrada",
+        "Leif Erikson"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "History & Exploration",
+      "explanation": "Sagas say Leif Erikson reached a land called Vinland, and Norse remains at L'Anse aux Meadows support this.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q05",
+      "text": "Which Portuguese explorer led the first European sea voyage to India in 1498?",
+      "answers": [
+        "Ferdinand Magellan",
+        "Bartolomeu Dias",
+        "Vasco da Gama",
+        "Pedro Cabral"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "History & Exploration",
+      "explanation": "Da Gama reached Calicut by sailing round Africa.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q06",
+      "text": "Which English captain charted the east coast of Australia in 1770?",
+      "answers": [
+        "Francis Drake",
+        "James Cook",
+        "Henry Hudson",
+        "Abel Tasman"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "History & Exploration",
+      "explanation": "Cook landed at Botany Bay in April 1770.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q07",
+      "text": "Whose expedition completed the first circumnavigation of the Earth between 1519 and 1522?",
+      "answers": [
+        "Ferdinand Magellan",
+        "Christopher Columbus",
+        "James Cook",
+        "Francis Drake"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "History & Exploration",
+      "explanation": "Magellan died en route, but one of his ships returned to Spain.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q08",
+      "text": "Which two men made the first confirmed ascent of Everest in 1953?",
+      "answers": [
+        "George Mallory and Andrew Irvine",
+        "Reinhold Messner and Peter Habeler",
+        "Chris Bonington and Doug Scott",
+        "Edmund Hillary and Tenzing Norgay"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "History & Exploration",
+      "explanation": "Hillary and Tenzing reached the summit on 29 May 1953.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q09",
+      "text": "Which pair led an overland expedition to the Pacific from 1804 to 1806?",
+      "answers": [
+        "Burke and Wills",
+        "Mason and Dixon",
+        "Lewis and Clark",
+        "Stanley and Livingstone"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "History & Exploration",
+      "explanation": "Lewis and Clark explored the Louisiana Purchase territory.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q10",
+      "text": "Whom did Henry Morton Stanley greet with the words Dr ... I presume?",
+      "answers": [
+        "Mungo Park",
+        "David Livingstone",
+        "Richard Burton",
+        "John Speke"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "History & Exploration",
+      "explanation": "Stanley found Livingstone near Lake Tanganyika in 1871.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q11",
+      "text": "Which Norwegian explorer sailed the raft Kon-Tiki across the Pacific in 1947?",
+      "answers": [
+        "Thor Heyerdahl",
+        "Roald Amundsen",
+        "Fridtjof Nansen",
+        "Leif Erikson"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "History & Exploration",
+      "explanation": "Heyerdahl's voyage aimed to show ancient transpacific contact was possible.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q12",
+      "text": "Which Spanish conquistador overthrew the Aztec Empire?",
+      "answers": [
+        "Francisco Pizarro",
+        "Vasco Nunez de Balboa",
+        "Hernando de Soto",
+        "Hernan Cortes"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "History & Exploration",
+      "explanation": "Cortes captured Tenochtitlan in 1521.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q13",
+      "text": "Which explorer led the Endurance expedition of 1914-17?",
+      "answers": [
+        "Robert Falcon Scott",
+        "Douglas Mawson",
+        "Ernest Shackleton",
+        "Roald Amundsen"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "History & Exploration",
+      "explanation": "Endurance was crushed by pack ice and the entire crew survived.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q14",
+      "text": "Which Dutch navigator sighted Tasmania and New Zealand in 1642?",
+      "answers": [
+        "Willem Janszoon",
+        "Abel Tasman",
+        "Jan van Riebeeck",
+        "Henry Hudson"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "History & Exploration",
+      "explanation": "Tasman was the first known European to sight both.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-q15",
+      "text": "Who was the first European to see the Pacific from the Americas by crossing Panama in 1513?",
+      "answers": [
+        "Vasco Nunez de Balboa",
+        "Hernan Cortes",
+        "Juan Ponce de Leon",
+        "Francisco Pizarro"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "History & Exploration",
+      "explanation": "Balboa waded into the ocean and claimed it for Spain.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-026-s1",
+      "text": "Who became the first human in space in 1961?",
+      "answers": [
+        "Alan Shepard",
+        "Neil Armstrong",
+        "John Glenn",
+        "Yuri Gagarin"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "History & Exploration",
+      "explanation": "Gagarin orbited Earth in Vostok 1.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-s2",
+      "text": "Which ship carried the Pilgrims to America in 1620?",
+      "answers": [
+        "The Santa Maria",
+        "The Beagle",
+        "The Mayflower",
+        "The Endeavour"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "History & Exploration",
+      "explanation": "The Mayflower landed at Plymouth, Massachusetts.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-026-s3",
+      "text": "Which French explorer founded Quebec City in 1608?",
+      "answers": [
+        "Jacques Cartier",
+        "Samuel de Champlain",
+        "Robert de La Salle",
+        "Jacques Marquette"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "History & Exploration",
+      "explanation": "Champlain established the settlement on the St. Lawrence River.",
+      "reviewed": true
+    }
+  ]
+}

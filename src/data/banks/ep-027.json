@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-027",
+  "name": "Set 27: Bard & Verse",
+  "episode": 27,
+  "date": "2008-11-15",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "literature",
+    "shakespeare",
+    "poetry"
+  ],
+  "questions": [
+    {
+      "id": "ep-027-q01",
+      "text": "Which Shakespearean prince asks 'To be, or not to be'?",
+      "answers": [
+        "Macbeth",
+        "Othello",
+        "King Lear",
+        "Hamlet"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Literature",
+      "explanation": "The soliloquy comes from Act 3 of Hamlet.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q02",
+      "text": "In which English town was Shakespeare born?",
+      "answers": [
+        "Oxford",
+        "Cambridge",
+        "Stratford-upon-Avon",
+        "Canterbury"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Literature",
+      "explanation": "Shakespeare was born in Stratford-upon-Avon in 1564.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q03",
+      "text": "Romeo and Juliet is set mainly in which Italian city?",
+      "answers": [
+        "Venice",
+        "Verona",
+        "Florence",
+        "Rome"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Literature",
+      "explanation": "The play opens in Verona.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q04",
+      "text": "Which Shakespeare play features three witches?",
+      "answers": [
+        "Macbeth",
+        "Hamlet",
+        "Othello",
+        "The Tempest"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Literature",
+      "explanation": "The witches prophesy that Macbeth will be king.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q05",
+      "text": "Who wrote the poem The Raven?",
+      "answers": [
+        "Walt Whitman",
+        "Robert Frost",
+        "Emily Dickinson",
+        "Edgar Allan Poe"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Literature",
+      "explanation": "The Raven was published in 1845.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q06",
+      "text": "Which poet wrote I Wandered Lonely as a Cloud, about daffodils?",
+      "answers": [
+        "John Keats",
+        "Lord Byron",
+        "William Wordsworth",
+        "Percy Shelley"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Literature",
+      "explanation": "Wordsworth was inspired by daffodils seen at Ullswater.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q07",
+      "text": "In Othello, which scheming ensign plots against the hero?",
+      "answers": [
+        "Cassio",
+        "Iago",
+        "Roderigo",
+        "Brabantio"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Literature",
+      "explanation": "Iago manipulates Othello into a jealous rage.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q08",
+      "text": "Who wrote the 1922 poem The Waste Land?",
+      "answers": [
+        "T. S. Eliot",
+        "Ezra Pound",
+        "W. B. Yeats",
+        "W. H. Auden"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Literature",
+      "explanation": "The Waste Land is a landmark of modernist poetry.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q09",
+      "text": "In A Midsummer Night's Dream, which mischievous sprite serves Oberon?",
+      "answers": [
+        "Ariel",
+        "Mercutio",
+        "Feste",
+        "Puck"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Literature",
+      "explanation": "Puck, also called Robin Goodfellow, causes the lovers' confusion.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q10",
+      "text": "Which Welsh poet wrote Do not go gentle into that good night?",
+      "answers": [
+        "Seamus Heaney",
+        "Philip Larkin",
+        "Dylan Thomas",
+        "Ted Hughes"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Literature",
+      "explanation": "Thomas wrote the villanelle for his dying father.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q11",
+      "text": "Which Shakespeare play opens with 'Now is the winter of our discontent'?",
+      "answers": [
+        "Henry V",
+        "Richard III",
+        "Macbeth",
+        "King Lear"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Literature",
+      "explanation": "Richard, Duke of Gloucester, speaks the opening lines.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q12",
+      "text": "Which Shakespeare character is a Jewish moneylender in Venice?",
+      "answers": [
+        "Shylock",
+        "Antonio",
+        "Bassanio",
+        "Iago"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Literature",
+      "explanation": "Shylock demands a pound of flesh in The Merchant of Venice.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q13",
+      "text": "Which Romantic poet wrote Ozymandias?",
+      "answers": [
+        "John Keats",
+        "Lord Byron",
+        "Samuel Taylor Coleridge",
+        "Percy Bysshe Shelley"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Literature",
+      "explanation": "Shelley published the sonnet in 1818.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q14",
+      "text": "In King Lear, which daughter refuses to flatter her father?",
+      "answers": [
+        "Goneril",
+        "Regan",
+        "Cordelia",
+        "Hermione"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Literature",
+      "explanation": "Cordelia says she loves him according to her bond, no more nor less.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-q15",
+      "text": "Which poet wrote the epic Paradise Lost?",
+      "answers": [
+        "Dante Alighieri",
+        "John Milton",
+        "Geoffrey Chaucer",
+        "Edmund Spenser"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "Literature",
+      "explanation": "Milton published the epic in 1667 while blind.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-027-s1",
+      "text": "Which London theatre associated with Shakespeare's company was rebuilt in the 1990s?",
+      "answers": [
+        "The Old Vic",
+        "The Palladium",
+        "The Lyceum",
+        "The Globe"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Literature",
+      "explanation": "Shakespeare's Globe reopened in 1997 on Bankside.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-s2",
+      "text": "Who wrote The Canterbury Tales?",
+      "answers": [
+        "Edmund Spenser",
+        "John Milton",
+        "Geoffrey Chaucer",
+        "William Langland"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Literature",
+      "explanation": "Chaucer wrote it in Middle English in the late 14th century.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-027-s3",
+      "text": "How many sonnets are in Shakespeare's 1609 collection?",
+      "answers": [
+        "144",
+        "154",
+        "164",
+        "150"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Literature",
+      "explanation": "The 1609 Quarto contains 154 sonnets.",
+      "reviewed": true
+    }
+  ]
+}

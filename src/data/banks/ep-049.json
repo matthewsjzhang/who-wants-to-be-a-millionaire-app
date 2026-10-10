@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-049",
+  "name": "Set 49: Fairy Tales & Folklore",
+  "episode": 49,
+  "date": "2019-10-11",
+  "edition": "INT",
+  "provenance": "episode-style",
+  "tags": [
+    "fairy tales",
+    "folklore",
+    "myth"
+  ],
+  "questions": [
+    {
+      "id": "ep-049-q01",
+      "text": "Which fairy-tale character left a glass slipper behind at the ball?",
+      "answers": [
+        "Snow White",
+        "Rapunzel",
+        "Belle",
+        "Cinderella"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "Cinderella lost her slipper while fleeing at midnight.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q02",
+      "text": "How many bears did Goldilocks meet?",
+      "answers": [
+        "Three",
+        "Two",
+        "Four",
+        "Seven"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "The story features Father, Mother and Baby Bear.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q03",
+      "text": "Which wooden puppet's nose grows when he tells lies?",
+      "answers": [
+        "Geppetto",
+        "Pinocchio",
+        "Pierrot",
+        "Punch"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "Pinocchio was created by Carlo Collodi.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q04",
+      "text": "Who wrote \"The Ugly Duckling\"?",
+      "answers": [
+        "Brothers Grimm",
+        "Charles Perrault",
+        "Hans Christian Andersen",
+        "Aesop"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "Andersen published it in 1843.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q05",
+      "text": "In \"Jack and the Beanstalk\", what does Jack trade for the magic beans?",
+      "answers": [
+        "A horse",
+        "A goat",
+        "A hen",
+        "A cow"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "Jack sells the family cow for the beans.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q06",
+      "text": "Which French author published \"Puss in Boots\" and \"Cinderella\" in 1697?",
+      "answers": [
+        "Charles Perrault",
+        "Hans Christian Andersen",
+        "Brothers Grimm",
+        "Madame d'Aulnoy"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Perrault's Tales of Mother Goose appeared in 1697.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q07",
+      "text": "In Norse mythology, which god wields the hammer Mjolnir?",
+      "answers": [
+        "Odin",
+        "Thor",
+        "Loki",
+        "Baldur"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Thor, god of thunder, carries Mjolnir.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q08",
+      "text": "In Greek myth, which winged horse sprang from Medusa's blood?",
+      "answers": [
+        "Bucephalus",
+        "Sleipnir",
+        "Pegasus",
+        "Chiron"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Pegasus was born when Perseus slew Medusa.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q09",
+      "text": "Which English folk hero is said to have lived in Sherwood Forest?",
+      "answers": [
+        "Will Scarlet",
+        "Hereward",
+        "Dick Whittington",
+        "Robin Hood"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Robin Hood is linked to Nottinghamshire's Sherwood Forest.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q10",
+      "text": "In \"Rumpelstiltskin\", what does the imp spin from straw?",
+      "answers": [
+        "Gold",
+        "Silk",
+        "Silver",
+        "Wool"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "The imp spins straw into gold for the miller's daughter.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q11",
+      "text": "In Slavic folklore, which witch lives in a hut standing on chicken legs?",
+      "answers": [
+        "Koschei",
+        "Baba Yaga",
+        "Morozko",
+        "Rusalka"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "Baba Yaga's hut on fowl's legs is a famous Russian image.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q12",
+      "text": "Which legendary Rhine maiden is said to lure sailors onto the rocks with her song?",
+      "answers": [
+        "Undine",
+        "Melusine",
+        "Lorelei",
+        "Rusalka"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "The Lorelei legend is tied to a rock near Sankt Goarshausen.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q13",
+      "text": "Which Irish folklore giant is said to have built the Giant's Causeway?",
+      "answers": [
+        "Cu Chulainn",
+        "Brian Boru",
+        "Oisin",
+        "Finn McCool"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Legend says Finn McCool built the causeway to reach Scotland.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q14",
+      "text": "Which Finnish national epic did Elias Lonnrot compile in 1835?",
+      "answers": [
+        "Kalevala",
+        "Edda",
+        "Beowulf",
+        "Kalevipoeg"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "Lonnrot assembled the Kalevala from oral folk poetry.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-q15",
+      "text": "Which Mesopotamian epic hero seeks immortality after his friend Enkidu dies?",
+      "answers": [
+        "Hammurabi",
+        "Gilgamesh",
+        "Sargon",
+        "Nebuchadnezzar"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "The Epic of Gilgamesh is among the oldest surviving literary works.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-049-s1",
+      "text": "Which fairy-tale princess falls asleep after pricking her finger on a spindle?",
+      "answers": [
+        "Sleeping Beauty",
+        "Snow White",
+        "Rapunzel",
+        "Cinderella"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "The curse forces Sleeping Beauty into a hundred-year sleep.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-s2",
+      "text": "In Greek myth, who was condemned to roll a boulder uphill forever?",
+      "answers": [
+        "Tantalus",
+        "Sisyphus",
+        "Prometheus",
+        "Atlas"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Sisyphus's boulder always rolled back down.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-049-s3",
+      "text": "In Japanese folklore, what is a kitsune?",
+      "answers": [
+        "A water dragon",
+        "A mountain ogre",
+        "A fox spirit",
+        "A cat demon"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "Kitsune are intelligent fox spirits with magical abilities.",
+      "reviewed": true
+    }
+  ]
+}

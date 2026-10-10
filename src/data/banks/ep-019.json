@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-019",
+  "name": "Set 19: Myths & Faiths",
+  "episode": 19,
+  "date": "2006-03-15",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "mythology",
+    "religion"
+  ],
+  "questions": [
+    {
+      "id": "ep-019-q01",
+      "text": "Which Greek goddess shares her name with a famous sportswear brand?",
+      "answers": [
+        "Athena",
+        "Hera",
+        "Artemis",
+        "Nike"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Mythology & Religion",
+      "explanation": "Nike was the Greek goddess of victory.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q02",
+      "text": "In myth, which creature has the head of a bull and the body of a man?",
+      "answers": [
+        "Centaur",
+        "Cyclops",
+        "Minotaur",
+        "Satyr"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Mythology & Religion",
+      "explanation": "The Minotaur was imprisoned in the Labyrinth on Crete.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q03",
+      "text": "Who in Greek myth opened a jar that released troubles into the world?",
+      "answers": [
+        "Persephone",
+        "Pandora",
+        "Medusa",
+        "Circe"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Mythology & Religion",
+      "explanation": "Pandora's jar (often called a box) released evils, leaving only hope.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q04",
+      "text": "Which Norse god wields the hammer Mjolnir?",
+      "answers": [
+        "Thor",
+        "Odin",
+        "Loki",
+        "Baldur"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Mythology & Religion",
+      "explanation": "Thor is the Norse god of thunder and wields Mjolnir.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q05",
+      "text": "What is the holy book of Islam?",
+      "answers": [
+        "The Torah",
+        "The Vedas",
+        "The Tripitaka",
+        "The Quran"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Mythology & Religion",
+      "explanation": "The Quran is the central religious text of Islam.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q06",
+      "text": "In Roman mythology, who is the god of war?",
+      "answers": [
+        "Jupiter",
+        "Neptune",
+        "Mars",
+        "Vulcan"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Mythology & Religion",
+      "explanation": "Mars was the Roman god of war, equivalent to the Greek Ares.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q07",
+      "text": "Which Hindu god is depicted with the head of an elephant?",
+      "answers": [
+        "Hanuman",
+        "Ganesha",
+        "Shiva",
+        "Vishnu"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Mythology & Religion",
+      "explanation": "Ganesha is the elephant-headed son of Shiva and Parvati.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q08",
+      "text": "Which hero of Greek myth completed twelve labours?",
+      "answers": [
+        "Heracles",
+        "Perseus",
+        "Theseus",
+        "Jason"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Mythology & Religion",
+      "explanation": "Heracles, known to the Romans as Hercules, performed twelve labours.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q09",
+      "text": "Which river must the dead cross to reach the underworld in Greek myth?",
+      "answers": [
+        "The Danube",
+        "The Tiber",
+        "The Rhine",
+        "The Styx"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Mythology & Religion",
+      "explanation": "The Styx was the river separating the living world from Hades.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q10",
+      "text": "Which festival marks the Jewish New Year?",
+      "answers": [
+        "Yom Kippur",
+        "Passover",
+        "Rosh Hashanah",
+        "Hanukkah"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Mythology & Religion",
+      "explanation": "Rosh Hashanah opens the Jewish High Holy Days.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q11",
+      "text": "Which sorceress in Homer's Odyssey turns Odysseus' men into pigs?",
+      "answers": [
+        "Calypso",
+        "Circe",
+        "Penelope",
+        "Nausicaa"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Mythology & Religion",
+      "explanation": "Circe lived on the island of Aeaea.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q12",
+      "text": "Which Egyptian god of embalming and the dead is shown with a jackal's head?",
+      "answers": [
+        "Anubis",
+        "Horus",
+        "Set",
+        "Thoth"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Mythology & Religion",
+      "explanation": "Anubis was the jackal-headed god of mummification.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q13",
+      "text": "Which river is considered the holiest in Hinduism?",
+      "answers": [
+        "The Indus",
+        "The Brahmaputra",
+        "The Mekong",
+        "The Ganges"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Mythology & Religion",
+      "explanation": "The Ganges is revered as the goddess Ganga.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q14",
+      "text": "In Norse myth, what is the name of the enormous tree that links the nine worlds?",
+      "answers": [
+        "Bifrost",
+        "Valhalla",
+        "Yggdrasil",
+        "Asgard"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Mythology & Religion",
+      "explanation": "Yggdrasil is the world tree of Norse cosmology.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-q15",
+      "text": "Which term describes the state of release from rebirth in Buddhism?",
+      "answers": [
+        "Samsara",
+        "Nirvana",
+        "Karma",
+        "Zen"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "Mythology & Religion",
+      "explanation": "Nirvana is the extinguishing of craving and the end of rebirth.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-019-s1",
+      "text": "Which winged horse is a famous creature of Greek myth?",
+      "answers": [
+        "Bucephalus",
+        "Sleipnir",
+        "Black Beauty",
+        "Pegasus"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Mythology & Religion",
+      "explanation": "Pegasus sprang from the blood of Medusa.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-s2",
+      "text": "Which mountain was the home of the Greek gods?",
+      "answers": [
+        "Mount Etna",
+        "Mount Ida",
+        "Mount Olympus",
+        "Mount Sinai"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Mythology & Religion",
+      "explanation": "The twelve Olympians were said to live on Mount Olympus.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-019-s3",
+      "text": "Which Titan was punished for stealing fire for humanity?",
+      "answers": [
+        "Atlas",
+        "Prometheus",
+        "Cronus",
+        "Hyperion"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Mythology & Religion",
+      "explanation": "Zeus chained Prometheus to a rock as punishment.",
+      "reviewed": true
+    }
+  ]
+}

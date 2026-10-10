@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-011",
+  "name": "Set 11: British history & monarchy",
+  "episode": 11,
+  "date": "2003-09-12",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "history",
+    "uk",
+    "monarchy"
+  ],
+  "questions": [
+    {
+      "id": "ep-011-q01",
+      "text": "Which English king is famous for having six wives?",
+      "answers": [
+        "Henry V",
+        "Henry VIII",
+        "George III",
+        "Charles II"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "British history & monarchy",
+      "explanation": "Henry VIII married six times between 1509 and 1547.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q02",
+      "text": "In which city is Buckingham Palace?",
+      "answers": [
+        "Windsor",
+        "Edinburgh",
+        "Cardiff",
+        "London"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "British history & monarchy",
+      "explanation": "Buckingham Palace is the royal residence in Westminster, London.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q03",
+      "text": "In which year was the Battle of Hastings fought?",
+      "answers": [
+        "1415",
+        "1215",
+        "1066",
+        "1314"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "British history & monarchy",
+      "explanation": "William of Normandy defeated King Harold in 1066.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q04",
+      "text": "The English fleet defeated the Spanish Armada in which year?",
+      "answers": [
+        "1588",
+        "1558",
+        "1603",
+        "1666"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "British history & monarchy",
+      "explanation": "The Armada was defeated in the summer of 1588 under Elizabeth I.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q05",
+      "text": "The Great Fire of London, which began in Pudding Lane, broke out in which year?",
+      "answers": [
+        "1605",
+        "1688",
+        "1750",
+        "1666"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "British history & monarchy",
+      "explanation": "The fire burned from 2 to 6 September 1666.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q06",
+      "text": "Which Tudor monarch, who reigned from 1553 to 1558, was nicknamed Bloody Mary?",
+      "answers": [
+        "Elizabeth I",
+        "Mary I",
+        "Lady Jane Grey",
+        "Mary II"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "British history & monarchy",
+      "explanation": "Mary I earned the nickname for burning Protestants as heretics.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q07",
+      "text": "Which royal house did Henry VII found?",
+      "answers": [
+        "Tudor",
+        "Stuart",
+        "Plantagenet",
+        "York"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "British history & monarchy",
+      "explanation": "Henry Tudor won the throne at Bosworth in 1485.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q08",
+      "text": "Admiral Nelson was killed at which 1805 battle?",
+      "answers": [
+        "Waterloo",
+        "Jutland",
+        "Trafalgar",
+        "Copenhagen"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "British history & monarchy",
+      "explanation": "Nelson died winning the Battle of Trafalgar.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q09",
+      "text": "Who was British Prime Minister when war was declared on Germany in September 1939?",
+      "answers": [
+        "Winston Churchill",
+        "Neville Chamberlain",
+        "Stanley Baldwin",
+        "Clement Attlee"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "British history & monarchy",
+      "explanation": "Chamberlain led the country until May 1940.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q10",
+      "text": "Who succeeded Elizabeth I on the English throne in 1603?",
+      "answers": [
+        "Charles I",
+        "William III",
+        "Edward VI",
+        "James I"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "British history & monarchy",
+      "explanation": "James VI of Scotland became James I of England.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q11",
+      "text": "In which year was the Battle of Bosworth Field, which ended the Wars of the Roses?",
+      "answers": [
+        "1485",
+        "1471",
+        "1509",
+        "1455"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "British history & monarchy",
+      "explanation": "Richard III died at Bosworth in August 1485.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q12",
+      "text": "Which king was beheaded outside the Banqueting House in 1649?",
+      "answers": [
+        "James II",
+        "Charles II",
+        "Charles I",
+        "Richard II"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "British history & monarchy",
+      "explanation": "Charles I was executed after the English Civil War.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q13",
+      "text": "In which year did the Acts of Union join the parliaments of England and Scotland?",
+      "answers": [
+        "1603",
+        "1801",
+        "1745",
+        "1707"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "British history & monarchy",
+      "explanation": "The Kingdom of Great Britain was created in 1707.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q14",
+      "text": "Which joint monarchs took the throne after the Glorious Revolution of 1688?",
+      "answers": [
+        "Charles II and Catherine",
+        "William III and Mary II",
+        "Anne and George of Denmark",
+        "George I and Sophia"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "British history & monarchy",
+      "explanation": "William and Mary were crowned in 1689.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-q15",
+      "text": "The Peasants' Revolt of 1381 took place during the reign of which king?",
+      "answers": [
+        "Richard II",
+        "Edward III",
+        "Henry IV",
+        "Richard III"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "British history & monarchy",
+      "explanation": "Richard II was just fourteen at the time.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-011-s1",
+      "text": "Which queen reigned for 63 years until her death in 1901?",
+      "answers": [
+        "Elizabeth I",
+        "Anne",
+        "Victoria",
+        "Mary I"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "British history & monarchy",
+      "explanation": "Victoria reigned from 1837 to 1901.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-s2",
+      "text": "Who led the Parliamentarian cause in the Civil War and became Lord Protector?",
+      "answers": [
+        "Oliver Cromwell",
+        "Thomas Fairfax",
+        "John Pym",
+        "George Monck"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "British history & monarchy",
+      "explanation": "Cromwell ruled the Commonwealth from 1653 to 1658.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-011-s3",
+      "text": "Which English king, nicknamed Longshanks, was known as the Hammer of the Scots?",
+      "answers": [
+        "Edward II",
+        "Edward III",
+        "Henry II",
+        "Edward I"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "British history & monarchy",
+      "explanation": "Edward I campaigned against Scotland from 1296 until his death in 1307.",
+      "reviewed": true
+    }
+  ]
+}

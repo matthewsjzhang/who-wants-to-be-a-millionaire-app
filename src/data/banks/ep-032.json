@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-032",
+  "name": "Set 32: Classical music & opera",
+  "episode": 32,
+  "date": "2010-08-21",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "music",
+    "classical",
+    "opera"
+  ],
+  "questions": [
+    {
+      "id": "ep-032-q01",
+      "text": "Which family of instruments includes the trumpet, trombone and tuba?",
+      "answers": [
+        "Brass",
+        "Woodwind",
+        "Strings",
+        "Percussion"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "These instruments are played by buzzing the lips into a metal mouthpiece, so they are brass instruments.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q02",
+      "text": "What name is given to a large group of musicians led by a conductor?",
+      "answers": [
+        "Quartet",
+        "Orchestra",
+        "Duet",
+        "Trio"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "Orchestras combine strings, woodwind, brass and percussion.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q03",
+      "text": "Which composer wrote 'The Four Seasons'?",
+      "answers": [
+        "Bach",
+        "Handel",
+        "Vivaldi",
+        "Mozart"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "Antonio Vivaldi published the concertos around 1725.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q04",
+      "text": "Beethoven's Ninth Symphony ends with a setting of an 'Ode to' what?",
+      "answers": [
+        "Spring",
+        "Nature",
+        "Freedom",
+        "Joy"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "The finale sets Schiller's poem 'An die Freude'.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q05",
+      "text": "Which composer wrote the opera 'The Magic Flute'?",
+      "answers": [
+        "Mozart",
+        "Verdi",
+        "Puccini",
+        "Wagner"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "It premiered in Vienna in 1791.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q06",
+      "text": "Which Italian composer wrote 'La traviata' and 'Rigoletto'?",
+      "answers": [
+        "Giacomo Puccini",
+        "Giuseppe Verdi",
+        "Gioachino Rossini",
+        "Gaetano Donizetti"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Both operas date from the early 1850s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q07",
+      "text": "Which composer continued to write symphonies despite becoming deaf?",
+      "answers": [
+        "Mozart",
+        "Haydn",
+        "Beethoven",
+        "Brahms"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Beethoven completed nine symphonies.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q08",
+      "text": "Which Russian composer wrote the ballets 'Swan Lake' and 'The Nutcracker'?",
+      "answers": [
+        "Stravinsky",
+        "Prokofiev",
+        "Rachmaninoff",
+        "Tchaikovsky"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Pyotr Ilyich Tchaikovsky also wrote 'Sleeping Beauty'.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q09",
+      "text": "Who composed the opera 'Carmen'?",
+      "answers": [
+        "Georges Bizet",
+        "Charles Gounod",
+        "Jules Massenet",
+        "Jacques Offenbach"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Carmen premiered in Paris in 1875.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q10",
+      "text": "Which German composer wrote the 'Brandenburg Concertos'?",
+      "answers": [
+        "George Frideric Handel",
+        "Johann Sebastian Bach",
+        "Georg Philipp Telemann",
+        "Johannes Brahms"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Bach presented the six concertos to the Margrave of Brandenburg in 1721.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q11",
+      "text": "Which composer wrote the four-opera 'Ring Cycle'?",
+      "answers": [
+        "Giuseppe Verdi",
+        "Richard Strauss",
+        "Richard Wagner",
+        "Gustav Mahler"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "The Ring cycle was first performed complete in 1876.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q12",
+      "text": "Which Austrian composer is often called the 'Father of the Symphony'?",
+      "answers": [
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert",
+        "Anton Bruckner",
+        "Joseph Haydn"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Haydn wrote over 100 symphonies and helped standardise the form.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q13",
+      "text": "Which Puccini opera contains the aria 'Nessun dorma'?",
+      "answers": [
+        "Turandot",
+        "Tosca",
+        "La bohème",
+        "Madama Butterfly"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "Turandot was left unfinished at Puccini's death in 1924.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q14",
+      "text": "Which Stravinsky ballet caused an uproar at its 1913 Paris premiere?",
+      "answers": [
+        "The Firebird",
+        "The Rite of Spring",
+        "Petrushka",
+        "Apollo"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "The score and choreography provoked a famously rowdy reaction.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-q15",
+      "text": "Which English composer wrote the opera 'Dido and Aeneas'?",
+      "answers": [
+        "George Frideric Handel",
+        "Claudio Monteverdi",
+        "Henry Purcell",
+        "Benjamin Britten"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "Purcell's opera dates from the late 17th century.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-032-s1",
+      "text": "In music, what does the term 'forte' mean?",
+      "answers": [
+        "Soft",
+        "Loud",
+        "Fast",
+        "Slow"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "Forte is Italian for strong or loud.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-s2",
+      "text": "Which Czech composer wrote the 'New World' Symphony?",
+      "answers": [
+        "Bedřich Smetana",
+        "Leoš Janáček",
+        "Antonín Dvořák",
+        "Gustav Mahler"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Dvořák composed it in 1893 while in the United States.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-s3",
+      "text": "Which English composer wrote the orchestral suite 'The Planets'?",
+      "answers": [
+        "Edward Elgar",
+        "Ralph Vaughan Williams",
+        "Benjamin Britten",
+        "Gustav Holst"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Holst composed the suite between 1914 and 1916.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-032-s4",
+      "text": "Which French composer wrote the 'Symphonie fantastique' in 1830?",
+      "answers": [
+        "Hector Berlioz",
+        "Franz Liszt",
+        "Frédéric Chopin",
+        "Camille Saint-Saëns"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "Berlioz's symphony is a landmark of Romantic programme music.",
+      "reviewed": true
+    }
+  ]
+}

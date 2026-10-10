@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-054",
+  "name": "Set 54: Famous Women in History",
+  "episode": 54,
+  "date": "2022-10-07",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "history",
+    "women",
+    "biography"
+  ],
+  "questions": [
+    {
+      "id": "ep-054-q01",
+      "text": "Which nurse was known as \"The Lady with the Lamp\"?",
+      "answers": [
+        "Florence Nightingale",
+        "Mary Seacole",
+        "Edith Cavell",
+        "Clara Barton"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "Nightingale tended soldiers in the Crimean War.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q02",
+      "text": "Which British queen ruled for 63 years until 1901?",
+      "answers": [
+        "Elizabeth I",
+        "Victoria",
+        "Anne",
+        "Mary II"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "Victoria reigned from 1837 to 1901.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q03",
+      "text": "Who was the first woman to fly solo across the Atlantic?",
+      "answers": [
+        "Amy Johnson",
+        "Bessie Coleman",
+        "Amelia Earhart",
+        "Jean Batten"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "Earhart made the flight in May 1932.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q04",
+      "text": "Which scientist won Nobel Prizes in both Physics and Chemistry?",
+      "answers": [
+        "Irene Joliot-Curie",
+        "Lise Meitner",
+        "Maria Goeppert Mayer",
+        "Marie Curie"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "Curie won in Physics (1903) and Chemistry (1911).",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q05",
+      "text": "Which Egyptian queen allied with Julius Caesar and later Mark Antony?",
+      "answers": [
+        "Cleopatra",
+        "Nefertiti",
+        "Hatshepsut",
+        "Boudicca"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "Cleopatra VII was the last active ruler of Ptolemaic Egypt.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q06",
+      "text": "Which French heroine was burned at the stake in Rouen in 1431?",
+      "answers": [
+        "Marie Antoinette",
+        "Joan of Arc",
+        "Catherine de Medici",
+        "Eleanor of Aquitaine"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Joan was executed at the age of about nineteen.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q07",
+      "text": "Who refused to give up her bus seat in Montgomery, Alabama, in 1955?",
+      "answers": [
+        "Harriet Tubman",
+        "Ruby Bridges",
+        "Rosa Parks",
+        "Coretta Scott King"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Her arrest sparked the Montgomery bus boycott.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q08",
+      "text": "Who was the first female Prime Minister of the United Kingdom?",
+      "answers": [
+        "Theresa May",
+        "Barbara Castle",
+        "Shirley Williams",
+        "Margaret Thatcher"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Thatcher took office in 1979.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q09",
+      "text": "Which writer authored \"Pride and Prejudice\"?",
+      "answers": [
+        "Jane Austen",
+        "Charlotte Bronte",
+        "George Eliot",
+        "Mary Shelley"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Austen published it in 1813.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q10",
+      "text": "Who became the first woman in space in 1963?",
+      "answers": [
+        "Sally Ride",
+        "Valentina Tereshkova",
+        "Svetlana Savitskaya",
+        "Yelena Kondakova"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Tereshkova flew on Vostok 6 on 16 June 1963.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q11",
+      "text": "Who was the first woman to win a Nobel Peace Prize, in 1905?",
+      "answers": [
+        "Jane Addams",
+        "Mother Teresa",
+        "Bertha von Suttner",
+        "Marie Curie"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "Von Suttner was an Austrian pacifist and novelist.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q12",
+      "text": "Which mathematician is regarded as the first computer programmer, working on Babbage's Analytical Engine?",
+      "answers": [
+        "Grace Hopper",
+        "Mary Somerville",
+        "Hypatia",
+        "Ada Lovelace"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Lovelace published the first algorithm intended for a machine.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q13",
+      "text": "Boudicca led a revolt of the Iceni tribe against which empire?",
+      "answers": [
+        "Roman Empire",
+        "Persian Empire",
+        "Norman rule",
+        "Greek Empire"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "Boudicca rose against Roman rule in about AD 60.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q14",
+      "text": "Who became the world's first elected female head of government in 1960?",
+      "answers": [
+        "Indira Gandhi",
+        "Sirimavo Bandaranaike",
+        "Golda Meir",
+        "Isabel Peron"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "Bandaranaike became Prime Minister of Ceylon in 1960.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-q15",
+      "text": "Whose X-ray diffraction work, including \"Photo 51\", helped reveal the structure of DNA?",
+      "answers": [
+        "Dorothy Hodgkin",
+        "Jocelyn Bell Burnell",
+        "Rosalind Franklin",
+        "Kathleen Lonsdale"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "Franklin's images were key to Watson and Crick's model.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-054-s1",
+      "text": "Which nun won the Nobel Peace Prize in 1979 for her work in Calcutta?",
+      "answers": [
+        "Florence Nightingale",
+        "Mother Teresa",
+        "Joan of Arc",
+        "Hildegard of Bingen"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "Mother Teresa founded the Missionaries of Charity.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-s2",
+      "text": "Which woman wrote the novel \"Frankenstein\"?",
+      "answers": [
+        "Jane Austen",
+        "Emily Bronte",
+        "Mary Shelley",
+        "Virginia Woolf"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Shelley wrote it as a teenager; it appeared in 1818.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-054-s3",
+      "text": "Which astrophysicist discovered the first radio pulsars in 1967?",
+      "answers": [
+        "Vera Rubin",
+        "Henrietta Leavitt",
+        "Cecilia Payne",
+        "Jocelyn Bell Burnell"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "Bell Burnell found pulsars as a Cambridge graduate student.",
+      "reviewed": true
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-055",
+  "name": "Set 55: General Knowledge Showcase",
+  "episode": 55,
+  "date": "2024-03-15",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "general knowledge",
+    "mixed"
+  ],
+  "questions": [
+    {
+      "id": "ep-055-q01",
+      "text": "How many days are in a leap year?",
+      "answers": [
+        "365",
+        "366",
+        "364",
+        "367"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "A leap year adds 29 February, making 366 days.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q02",
+      "text": "Which animal is traditionally called the \"king of the jungle\"?",
+      "answers": [
+        "Tiger",
+        "Elephant",
+        "Lion",
+        "Gorilla"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "The lion is nicknamed the king of the jungle, though it lives on savannas.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q03",
+      "text": "What is the chemical symbol for gold?",
+      "answers": [
+        "Ag",
+        "Gd",
+        "Go",
+        "Au"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "Au comes from the Latin \"aurum\".",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q04",
+      "text": "Which planet is known as the Red Planet?",
+      "answers": [
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Jupiter"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "Iron oxide on its surface gives Mars its red colour.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q05",
+      "text": "Which instrument has 88 keys on a standard modern model?",
+      "answers": [
+        "Organ",
+        "Piano",
+        "Accordion",
+        "Harpsichord"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "A standard piano has 52 white and 36 black keys.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q06",
+      "text": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+      "answers": [
+        "Macbeth",
+        "Othello",
+        "Hamlet",
+        "King Lear"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "They are Hamlet's old school friends, sent by the king to spy on him.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q07",
+      "text": "Which is the longest river in Africa?",
+      "answers": [
+        "Congo",
+        "Niger",
+        "Zambezi",
+        "Nile"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "The Nile is about 6,650 km long.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q08",
+      "text": "Which French emperor was exiled to the island of Elba in 1814?",
+      "answers": [
+        "Napoleon Bonaparte",
+        "Louis XVIII",
+        "Charles de Gaulle",
+        "Louis XIV"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Napoleon was sent to Elba after abdicating in April 1814.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q09",
+      "text": "Which author wrote \"1984\"?",
+      "answers": [
+        "Aldous Huxley",
+        "George Orwell",
+        "H. G. Wells",
+        "Ray Bradbury"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Orwell published it in 1949.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q10",
+      "text": "Which planet is best known for its bright, prominent rings?",
+      "answers": [
+        "Neptune",
+        "Mars",
+        "Saturn",
+        "Mercury"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Saturn's ring system is the largest and brightest in the solar system.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q11",
+      "text": "Which Danish physicist proposed a 1913 model of the atom with electrons in fixed orbits?",
+      "answers": [
+        "Ernest Rutherford",
+        "Max Planck",
+        "Werner Heisenberg",
+        "Niels Bohr"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Bohr's model explained the spectrum of hydrogen using quantised orbits.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q12",
+      "text": "Which Russian composer wrote \"The Rite of Spring\"?",
+      "answers": [
+        "Igor Stravinsky",
+        "Pyotr Tchaikovsky",
+        "Sergei Rachmaninoff",
+        "Sergei Prokofiev"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "It premiered in Paris in 1913.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q13",
+      "text": "Which Irish author wrote the novel Ulysses, published in 1922?",
+      "answers": [
+        "Samuel Beckett",
+        "James Joyce",
+        "Oscar Wilde",
+        "W. B. Yeats"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "Joyce's Ulysses retells Homer's epic over one day in Dublin.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q14",
+      "text": "Which mathematician proved Fermat's Last Theorem in the 1990s?",
+      "answers": [
+        "Grigori Perelman",
+        "Terence Tao",
+        "Andrew Wiles",
+        "John Nash"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "Wiles's proof was published in 1995.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-q15",
+      "text": "What is the deepest known point in Earth's oceans called?",
+      "answers": [
+        "Sirena Deep",
+        "Horizon Deep",
+        "Molloy Deep",
+        "Challenger Deep"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "Challenger Deep in the Mariana Trench is about 11 km deep.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-055-s1",
+      "text": "Which bird is said in folklore to deliver newborn babies?",
+      "answers": [
+        "Swan",
+        "Pelican",
+        "Stork",
+        "Heron"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "The stork legend comes from European folklore.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-s2",
+      "text": "Which chemical element has the atomic number 1?",
+      "answers": [
+        "Helium",
+        "Oxygen",
+        "Carbon",
+        "Hydrogen"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Hydrogen has a single proton in its nucleus.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-055-s3",
+      "text": "Which ancient Greek mathematician wrote the geometry textbook Elements?",
+      "answers": [
+        "Euclid",
+        "Archimedes",
+        "Pythagoras",
+        "Ptolemy"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "Euclid's Elements organised geometry into proofs from axioms.",
+      "reviewed": true
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-031",
+  "name": "Set 31: Children's books & cartoons",
+  "episode": 31,
+  "date": "2010-03-06",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "books",
+    "cartoons",
+    "children"
+  ],
+  "questions": [
+    {
+      "id": "ep-031-q01",
+      "text": "Which bear in A. A. Milne's stories is famously fond of honey?",
+      "answers": [
+        "Paddington",
+        "Baloo",
+        "Rupert",
+        "Winnie-the-Pooh"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "Pooh Bear lives in the Hundred Acre Wood with Christopher Robin.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q02",
+      "text": "Which cartoon mouse, created by Walt Disney, wears red shorts and big yellow shoes?",
+      "answers": [
+        "Mickey Mouse",
+        "Jerry",
+        "Speedy Gonzales",
+        "Stuart Little"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "Mickey debuted in 1928.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q03",
+      "text": "Which girl falls down a rabbit hole in a famous Lewis Carroll story?",
+      "answers": [
+        "Dorothy",
+        "Alice",
+        "Wendy",
+        "Matilda"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "Alice follows the White Rabbit down a rabbit hole in Alice's Adventures in Wonderland.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q04",
+      "text": "Which author wrote 'Charlie and the Chocolate Factory'?",
+      "answers": [
+        "C. S. Lewis",
+        "Enid Blyton",
+        "Roald Dahl",
+        "Judy Blume"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "The book was first published in 1964.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q05",
+      "text": "What is the name of Charlie Brown's pet beagle in Peanuts?",
+      "answers": [
+        "Odie",
+        "Scooby",
+        "Pluto",
+        "Snoopy"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "Snoopy appeared in Charles Schulz's strip from 1950.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q06",
+      "text": "What is the name of the great lion in C. S. Lewis's Narnia stories?",
+      "answers": [
+        "Aslan",
+        "Simba",
+        "Mufasa",
+        "Leo"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Aslan is the creator and ruler of Narnia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q07",
+      "text": "Which Beatrix Potter title character disobeys his mother and sneaks into Mr McGregor's garden?",
+      "answers": [
+        "Squirrel Nutkin",
+        "Peter Rabbit",
+        "Jemima Puddle-Duck",
+        "Tom Kitten"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "The Tale of Peter Rabbit appeared in 1902.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q08",
+      "text": "Which cartoon family lives at 742 Evergreen Terrace?",
+      "answers": [
+        "The Griffins",
+        "The Flintstones",
+        "The Simpsons",
+        "The Jetsons"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "The Simpsons live in the fictional town of Springfield.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q09",
+      "text": "Who wrote and illustrated 'The Very Hungry Caterpillar'?",
+      "answers": [
+        "Maurice Sendak",
+        "Mo Willems",
+        "Shel Silverstein",
+        "Eric Carle"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "The picture book was published in 1969.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q10",
+      "text": "Who wrote and illustrated 'Where the Wild Things Are'?",
+      "answers": [
+        "Maurice Sendak",
+        "Eric Carle",
+        "Dr. Seuss",
+        "Shel Silverstein"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "The book was published in 1963.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q11",
+      "text": "In which Lewis Carroll book does the poem 'Jabberwocky' appear?",
+      "answers": [
+        "Alice's Adventures in Wonderland",
+        "Through the Looking-Glass",
+        "The Hunting of the Snark",
+        "Sylvie and Bruno"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "Alice reads the poem in a mirror in the 1871 sequel.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q12",
+      "text": "Which Finnish author created the Moomins?",
+      "answers": [
+        "Astrid Lindgren",
+        "Selma Lagerlöf",
+        "Tove Jansson",
+        "Hans Christian Andersen"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "Jansson wrote and illustrated the Moomin books from 1945.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q13",
+      "text": "Which book by Antoine de Saint-Exupéry features a boy from asteroid B-612?",
+      "answers": [
+        "Pinocchio",
+        "Heidi",
+        "Babar the Elephant",
+        "The Little Prince"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "The Little Prince was published in 1943.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q14",
+      "text": "In what year was 'Winnie-the-Pooh' first published in book form?",
+      "answers": [
+        "1926",
+        "1920",
+        "1932",
+        "1938"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "The first Pooh book appeared in October 1926.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-q15",
+      "text": "Which artist illustrated the first edition of 'Alice's Adventures in Wonderland' (1865)?",
+      "answers": [
+        "E. H. Shepard",
+        "John Tenniel",
+        "Arthur Rackham",
+        "Quentin Blake"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "Tenniel's drawings became the definitive Alice imagery.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-031-s1",
+      "text": "Which school of witchcraft and wizardry does Harry Potter attend?",
+      "answers": [
+        "Hogwarts",
+        "Beauxbatons",
+        "Durmstrang",
+        "Ilvermorny"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "Harry Potter attends Hogwarts in J. K. Rowling's novels.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-s2",
+      "text": "Who created Peter Pan?",
+      "answers": [
+        "A. A. Milne",
+        "J. M. Barrie",
+        "Kenneth Grahame",
+        "Lewis Carroll"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Barrie introduced Peter Pan in a 1904 play.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-s3",
+      "text": "Which illustrator is best known for his drawings in Roald Dahl's books?",
+      "answers": [
+        "Ronald Searle",
+        "E. H. Shepard",
+        "Quentin Blake",
+        "Axel Scheffler"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "Blake illustrated most of Dahl's children's books.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-031-s4",
+      "text": "In which year was 'The Hobbit' first published?",
+      "answers": [
+        "1932",
+        "1945",
+        "1954",
+        "1937"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "Tolkien's The Hobbit appeared in September 1937.",
+      "reviewed": true
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-015",
+  "name": "Set 15: television history",
+  "episode": 15,
+  "date": "2004-09-10",
+  "edition": "AU",
+  "provenance": "episode-style",
+  "tags": [
+    "tv",
+    "pop culture",
+    "television"
+  ],
+  "questions": [
+    {
+      "id": "ep-015-q01",
+      "text": "Which yellow-skinned cartoon family lives in Springfield?",
+      "answers": [
+        "The Flintstones",
+        "The Simpsons",
+        "The Griffins",
+        "The Jetsons"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "television history",
+      "explanation": "The Simpsons began as shorts in 1987.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q02",
+      "text": "Which cartoon sponge lives in a pineapple under the sea?",
+      "answers": [
+        "Patrick Star",
+        "Squidward Tentacles",
+        "Mr. Krabs",
+        "SpongeBob SquarePants"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "television history",
+      "explanation": "SpongeBob lives in Bikini Bottom.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q03",
+      "text": "Which US sketch comedy show has aired live from New York since 1975?",
+      "answers": [
+        "The Daily Show",
+        "MADtv",
+        "Saturday Night Live",
+        "In Living Color"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "television history",
+      "explanation": "SNL premiered in October 1975.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q04",
+      "text": "In which US city is the sitcom \"Cheers\" set?",
+      "answers": [
+        "Boston",
+        "Chicago",
+        "New York",
+        "Philadelphia"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "television history",
+      "explanation": "The bar was based in Boston.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q05",
+      "text": "Which TV franchise features the starship USS Enterprise?",
+      "answers": [
+        "Babylon 5",
+        "Battlestar Galactica",
+        "Doctor Who",
+        "Star Trek"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "television history",
+      "explanation": "Star Trek began in 1966.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q06",
+      "text": "Which long-running British series about a time-travelling Time Lord began in 1963?",
+      "answers": [
+        "Blake's 7",
+        "Doctor Who",
+        "Thunderbirds",
+        "The Avengers"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "television history",
+      "explanation": "The first episode aired on 23 November 1963.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q07",
+      "text": "Who played hotel owner Basil Fawlty in \"Fawlty Towers\"?",
+      "answers": [
+        "John Cleese",
+        "Michael Palin",
+        "Rowan Atkinson",
+        "Ronnie Barker"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "television history",
+      "explanation": "Cleese co-wrote the show with Connie Booth.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q08",
+      "text": "Which 1950s US sitcom starred Lucille Ball?",
+      "answers": [
+        "The Honeymooners",
+        "Father Knows Best",
+        "I Love Lucy",
+        "Leave It to Beaver"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "television history",
+      "explanation": "I Love Lucy ran from 1951 to 1957.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q09",
+      "text": "Who hosted \"The Tonight Show\" from 1962 to 1992?",
+      "answers": [
+        "Jay Leno",
+        "Johnny Carson",
+        "David Letterman",
+        "Steve Allen"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "television history",
+      "explanation": "Carson hosted for thirty years.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q10",
+      "text": "Which BBC soap opera, set in Albert Square, began in 1985?",
+      "answers": [
+        "Coronation Street",
+        "Emmerdale",
+        "Brookside",
+        "EastEnders"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "television history",
+      "explanation": "EastEnders first aired in February 1985.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q11",
+      "text": "Which sitcom was set in a mobile army surgical hospital during the Korean War?",
+      "answers": [
+        "M*A*S*H",
+        "Hogan's Heroes",
+        "China Beach",
+        "Taxi"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "television history",
+      "explanation": "M*A*S*H ran from 1972 to 1983.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q12",
+      "text": "Who created the Muppets?",
+      "answers": [
+        "Frank Oz",
+        "Walt Disney",
+        "Jim Henson",
+        "Brian Henson"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "television history",
+      "explanation": "Henson created the puppets in 1955.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q13",
+      "text": "In which British sitcom do Del Boy and Rodney Trotter appear?",
+      "answers": [
+        "Porridge",
+        "Steptoe and Son",
+        "Minder",
+        "Only Fools and Horses"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "television history",
+      "explanation": "John Sullivan created the show for BBC.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q14",
+      "text": "Which British soap first aired in December 1960?",
+      "answers": [
+        "Crossroads",
+        "Coronation Street",
+        "Emmerdale Farm",
+        "Hollyoaks"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "television history",
+      "explanation": "Coronation Street first aired on 9 December 1960.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-q15",
+      "text": "In which year did \"Sesame Street\" premiere?",
+      "answers": [
+        "1969",
+        "1964",
+        "1972",
+        "1975"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "television history",
+      "explanation": "Sesame Street premiered in November 1969.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-015-s1",
+      "text": "Which US television network uses a peacock as its logo?",
+      "answers": [
+        "CBS",
+        "ABC",
+        "NBC",
+        "Fox"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "television history",
+      "explanation": "The NBC peacock debuted in 1956.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-s2",
+      "text": "Who created \"The Twilight Zone\" and narrated it?",
+      "answers": [
+        "Rod Serling",
+        "Alfred Hitchcock",
+        "Gene Roddenberry",
+        "Walt Disney"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "television history",
+      "explanation": "The series premiered in 1959.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-015-s3",
+      "text": "Which actor was the first to play the Doctor in \"Doctor Who\"?",
+      "answers": [
+        "Patrick Troughton",
+        "William Hartnell",
+        "Jon Pertwee",
+        "Tom Baker"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "television history",
+      "explanation": "Hartnell played the First Doctor from 1963 to 1966.",
+      "reviewed": true
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-040",
+  "name": "Set 40: Sitcoms & Animation",
+  "episode": 40,
+  "date": "2017-06-04",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "tv",
+    "pop culture",
+    "animation"
+  ],
+  "questions": [
+    {
+      "id": "ep-040-q01",
+      "text": "In The Simpsons, what is Homer's wife called?",
+      "answers": [
+        "Marge",
+        "Lisa",
+        "Maggie",
+        "Patty"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Television",
+      "explanation": "Marge Simpson is Homer's wife.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q02",
+      "text": "Which cartoon cat is forever chasing Jerry the mouse?",
+      "answers": [
+        "Sylvester",
+        "Tom",
+        "Garfield",
+        "Felix"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Television",
+      "explanation": "Tom and Jerry is the cat-and-mouse cartoon created by Hanna and Barbera.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q03",
+      "text": "What is the name of the coffee shop in Friends?",
+      "answers": [
+        "Cheers",
+        "MacLaren's",
+        "Central Perk",
+        "Monk's Cafe"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Television",
+      "explanation": "The friends hang out at Central Perk.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q04",
+      "text": "Which studio made the 1995 film Toy Story?",
+      "answers": [
+        "DreamWorks",
+        "Illumination",
+        "Blue Sky",
+        "Pixar"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Television",
+      "explanation": "Toy Story was Pixar's first feature film.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q05",
+      "text": "Which character lives across the hall from Jerry in Seinfeld?",
+      "answers": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Puddy"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Television",
+      "explanation": "Cosmo Kramer is Jerry's neighbour.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q06",
+      "text": "Which sitcom's theme song says it is where everybody knows your name?",
+      "answers": [
+        "Taxi",
+        "Cheers",
+        "Barney Miller",
+        "Happy Days"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Television",
+      "explanation": "The theme to Cheers is Where Everybody Knows Your Name.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q07",
+      "text": "In Fawlty Towers, what is the first name of the hotel owner played by John Cleese?",
+      "answers": [
+        "Sybil",
+        "Manuel",
+        "Basil",
+        "Terry"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Television",
+      "explanation": "Basil Fawlty runs the Torquay hotel.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q08",
+      "text": "Which British sitcom follows Del Boy and Rodney in Peckham?",
+      "answers": [
+        "Porridge",
+        "Dad's Army",
+        "Blackadder",
+        "Only Fools and Horses"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Television",
+      "explanation": "Only Fools and Horses follows the Trotter brothers.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q09",
+      "text": "What is the name of the Simpsons' hometown?",
+      "answers": [
+        "Springfield",
+        "Shelbyville",
+        "Quahog",
+        "Langley Falls"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Television",
+      "explanation": "The Simpsons live in Springfield.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q10",
+      "text": "Which animated show features Stan Marsh and Kenny McCormick?",
+      "answers": [
+        "Family Guy",
+        "South Park",
+        "King of the Hill",
+        "Futurama"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Television",
+      "explanation": "Stan and Kenny are two of the four main boys in South Park.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q11",
+      "text": "Who created The Simpsons?",
+      "answers": [
+        "Seth MacFarlane",
+        "Mike Judge",
+        "Matt Groening",
+        "Trey Parker"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Television",
+      "explanation": "Matt Groening created The Simpsons.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q12",
+      "text": "What job did Fry have before being frozen in Futurama?",
+      "answers": [
+        "Janitor",
+        "Taxi driver",
+        "Office clerk",
+        "Pizza delivery boy"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Television",
+      "explanation": "Fry delivered pizza before falling into the cryogenic pod.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q13",
+      "text": "In which war is Blackadder Goes Forth set?",
+      "answers": [
+        "First World War",
+        "Boer War",
+        "Crimean War",
+        "Second World War"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Television",
+      "explanation": "Blackadder Goes Forth is set in the trenches of WWI.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q14",
+      "text": "What is the surname of the family in Arrested Development?",
+      "answers": [
+        "Pritchett",
+        "Bluth",
+        "Gallagher",
+        "Bundy"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "Television",
+      "explanation": "The dysfunctional family in Arrested Development is the Bluths.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-q15",
+      "text": "What is the name of the hospital in the sitcom Scrubs?",
+      "answers": [
+        "Seattle Grace",
+        "County General",
+        "Sacred Heart",
+        "Princeton-Plainsboro"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Television",
+      "explanation": "JD and his friends work at Sacred Heart Hospital.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-040-s1",
+      "text": "Which cartoon mouse is Mickey's girlfriend?",
+      "answers": [
+        "Daisy Duck",
+        "Pluto",
+        "Jerry",
+        "Minnie Mouse"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Television",
+      "explanation": "Minnie is Mickey's long-time sweetheart.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-s2",
+      "text": "In Frasier, what is the name of Frasier's younger brother?",
+      "answers": [
+        "Niles",
+        "Martin",
+        "Daphne",
+        "Roz"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Television",
+      "explanation": "Niles Crane is Frasier's brother.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-040-s3",
+      "text": "In which fictional town is Parks and Recreation set?",
+      "answers": [
+        "Eagleton",
+        "Pawnee",
+        "Stars Hollow",
+        "Hawkins"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Television",
+      "explanation": "Leslie Knope works in Pawnee, Indiana.",
+      "reviewed": true
+    }
+  ]
+}

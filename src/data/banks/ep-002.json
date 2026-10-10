@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-002",
+  "name": "Set 2: Ancient & Medieval History",
+  "episode": 2,
+  "date": "1999-12-15",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "history",
+    "ancient",
+    "medieval"
+  ],
+  "questions": [
+    {
+      "id": "ep-002-q01",
+      "text": "Which Roman emperor is said to have fiddled while Rome burned?",
+      "answers": [
+        "Caligula",
+        "Augustus",
+        "Nero",
+        "Trajan"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "History",
+      "explanation": "Tradition blames Nero, though the fiddle story is legend.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q02",
+      "text": "In which country were the Great Pyramids of Giza built?",
+      "answers": [
+        "Greece",
+        "Iraq",
+        "India",
+        "Egypt"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "History",
+      "explanation": "The Giza pyramids stand near Cairo, Egypt.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q03",
+      "text": "Who was the first Roman emperor?",
+      "answers": [
+        "Augustus",
+        "Julius Caesar",
+        "Nero",
+        "Constantine"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "History",
+      "explanation": "Octavian took the title Augustus in 27 BC.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q04",
+      "text": "Which Duke of Normandy won the Battle of Hastings in 1066?",
+      "answers": [
+        "Harold Godwinson",
+        "William",
+        "Harald Hardrada",
+        "Canute"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "History",
+      "explanation": "William the Conqueror defeated Harold at Hastings.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q05",
+      "text": "Which ancient Greek city-state was famed for its warrior society?",
+      "answers": [
+        "Corinth",
+        "Thebes",
+        "Sparta",
+        "Delphi"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "History",
+      "explanation": "Spartan life was organised around military training.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q06",
+      "text": "Which Carthaginian general crossed the Alps with war elephants?",
+      "answers": [
+        "Hanno",
+        "Scipio",
+        "Hamilcar",
+        "Hannibal"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "History",
+      "explanation": "Hannibal marched on Italy across the Alps in 218 BC.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q07",
+      "text": "Which charter did King John seal at Runnymede in 1215?",
+      "answers": [
+        "Magna Carta",
+        "Domesday Book",
+        "Bill of Rights",
+        "Act of Union"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "History",
+      "explanation": "Magna Carta limited the king's powers.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q08",
+      "text": "Which empire did Genghis Khan found?",
+      "answers": [
+        "Ottoman Empire",
+        "Mongol Empire",
+        "Persian Empire",
+        "Byzantine Empire"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "History",
+      "explanation": "Genghis Khan united the Mongol tribes around 1206.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q09",
+      "text": "Which Greek writer is often called the Father of History?",
+      "answers": [
+        "Thucydides",
+        "Plutarch",
+        "Herodotus",
+        "Homer"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "History",
+      "explanation": "Herodotus wrote the Histories about the Greco-Persian Wars.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q10",
+      "text": "The Rosetta Stone helped scholars decipher which ancient script?",
+      "answers": [
+        "Cuneiform",
+        "Linear B",
+        "Runes",
+        "Egyptian hieroglyphs"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "History",
+      "explanation": "Its parallel texts allowed Champollion to decode hieroglyphs.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q11",
+      "text": "Leonidas and his Spartans famously held which pass in 480 BC?",
+      "answers": [
+        "Thermopylae",
+        "Marathon",
+        "Salamis",
+        "Plataea"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "History",
+      "explanation": "Thermopylae was the site of the stand against Xerxes' Persians.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q12",
+      "text": "Which Byzantine emperor had the Hagia Sophia rebuilt in the 6th century?",
+      "answers": [
+        "Constantine I",
+        "Justinian I",
+        "Heraclius",
+        "Basil II"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "History",
+      "explanation": "Justinian's Hagia Sophia was completed in 537.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q13",
+      "text": "In which year did Constantinople fall to the Ottoman Turks?",
+      "answers": [
+        "1204",
+        "1492",
+        "1453",
+        "1389"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "History",
+      "explanation": "Mehmed II captured the city in 1453.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q14",
+      "text": "Which 1071 battle saw the Seljuk Turks defeat a Byzantine army?",
+      "answers": [
+        "Hattin",
+        "Lepanto",
+        "Nicopolis",
+        "Manzikert"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "History",
+      "explanation": "Manzikert opened Anatolia to Turkish settlement.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-q15",
+      "text": "Which 843 treaty divided Charlemagne's empire among his grandsons?",
+      "answers": [
+        "Treaty of Verdun",
+        "Peace of Westphalia",
+        "Treaty of Troyes",
+        "Treaty of Tordesillas"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "History",
+      "explanation": "The Treaty of Verdun split the Carolingian realm in three.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-002-s1",
+      "text": "According to Homeric legend, which city was defeated by a giant wooden horse trick?",
+      "answers": [
+        "Troy",
+        "Athens",
+        "Sparta",
+        "Rome"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "History",
+      "explanation": "The Greeks hid soldiers inside the horse to enter Troy.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-s2",
+      "text": "Which Roman leader was assassinated in 44 BC on the Ides of March?",
+      "answers": [
+        "Mark Antony",
+        "Julius Caesar",
+        "Pompey",
+        "Octavian"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "History",
+      "explanation": "Conspirators stabbed Caesar in the Senate.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-002-s3",
+      "text": "Which English king was killed at the Battle of Bosworth Field in 1485?",
+      "answers": [
+        "Henry VI",
+        "Edward IV",
+        "Richard III",
+        "Richard II"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "History",
+      "explanation": "Richard III's death ended the Wars of the Roses.",
+      "reviewed": true
+    }
+  ]
+}

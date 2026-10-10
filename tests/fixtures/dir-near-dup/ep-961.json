@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-961",
+  "name": "Fixture 961",
+  "episode": 961,
+  "date": "2001-05-04",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "fixture"
+  ],
+  "questions": [
+    {
+      "id": "f11-q1",
+      "text": "Which of these is linked to bridges clouds number 110 in fixture f?",
+      "answers": [
+        "Option f11-0-A",
+        "Option f11-0-B",
+        "Option f11-0-C",
+        "Option f11-0-D"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f11-0."
+    },
+    {
+      "id": "f11-q2",
+      "text": "Which of these is linked to gems planets number 111 in fixture f?",
+      "answers": [
+        "Option f11-1-A",
+        "Option f11-1-B",
+        "Option f11-1-C",
+        "Option f11-1-D"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f11-1."
+    },
+    {
+      "id": "f11-q3",
+      "text": "Which of these is linked to dances composers number 112 in fixture f?",
+      "answers": [
+        "Option f11-2-A",
+        "Option f11-2-B",
+        "Option f11-2-C",
+        "Option f11-2-D"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f11-2."
+    },
+    {
+      "id": "f11-q4",
+      "text": "Which of these is linked to knots fruits number 113 in fixture f?",
+      "answers": [
+        "Option f11-3-A",
+        "Option f11-3-B",
+        "Option f11-3-C",
+        "Option f11-3-D"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture f11-3."
+    },
+    {
+      "id": "f11-q5",
+      "text": "Which of those is linked to knots poets number 104 in fixture f?",
+      "answers": [
+        "Option f11-4-A",
+        "Option f11-4-B",
+        "Option f11-4-C",
+        "Option f11-4-D"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture f11-4."
+    },
+    {
+      "id": "f11-q6",
+      "text": "Which of these is linked to spices dances number 115 in fixture f?",
+      "answers": [
+        "Option f11-5-A",
+        "Option f11-5-B",
+        "Option f11-5-C",
+        "Option f11-5-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f11-5."
+    },
+    {
+      "id": "f11-q7",
+      "text": "Which of these is linked to tools spices number 116 in fixture f?",
+      "answers": [
+        "Option f11-6-A",
+        "Option f11-6-B",
+        "Option f11-6-C",
+        "Option f11-6-D"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f11-6."
+    },
+    {
+      "id": "f11-q8",
+      "text": "Which of these is linked to clouds fabrics number 117 in fixture f?",
+      "answers": [
+        "Option f11-7-A",
+        "Option f11-7-B",
+        "Option f11-7-C",
+        "Option f11-7-D"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f11-7."
+    },
+    {
+      "id": "f11-q9",
+      "text": "Which of these is linked to fabrics birds number 118 in fixture f?",
+      "answers": [
+        "Option f11-8-A",
+        "Option f11-8-B",
+        "Option f11-8-C",
+        "Option f11-8-D"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f11-8."
+    },
+    {
+      "id": "f11-q10",
+      "text": "Which of these is linked to rivers metals number 119 in fixture f?",
+      "answers": [
+        "Option f11-9-A",
+        "Option f11-9-B",
+        "Option f11-9-C",
+        "Option f11-9-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f11-9."
+    },
+    {
+      "id": "f11-q11",
+      "text": "Which of these is linked to planets islands number 1110 in fixture f?",
+      "answers": [
+        "Option f11-10-A",
+        "Option f11-10-B",
+        "Option f11-10-C",
+        "Option f11-10-D"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f11-10."
+    },
+    {
+      "id": "f11-q12",
+      "text": "Which of these is linked to birds bridges number 1111 in fixture f?",
+      "answers": [
+        "Option f11-11-A",
+        "Option f11-11-B",
+        "Option f11-11-C",
+        "Option f11-11-D"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f11-11."
+    },
+    {
+      "id": "f11-q13",
+      "text": "Which of these is linked to cheeses knots number 1112 in fixture f?",
+      "answers": [
+        "Option f11-12-A",
+        "Option f11-12-B",
+        "Option f11-12-C",
+        "Option f11-12-D"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f11-12."
+    },
+    {
+      "id": "f11-q14",
+      "text": "Which of these is linked to composers tools number 1113 in fixture f?",
+      "answers": [
+        "Option f11-13-A",
+        "Option f11-13-B",
+        "Option f11-13-C",
+        "Option f11-13-D"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture f11-13."
+    },
+    {
+      "id": "f11-q15",
+      "text": "Which of these is linked to metals rivers number 1114 in fixture f?",
+      "answers": [
+        "Option f11-14-A",
+        "Option f11-14-B",
+        "Option f11-14-C",
+        "Option f11-14-D"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture f11-14."
+    }
+  ],
+  "spares": [
+    {
+      "id": "s11-q1",
+      "text": "Which of these is linked to bridges clouds number 110 in fixture s?",
+      "answers": [
+        "Option s11-0-A",
+        "Option s11-0-B",
+        "Option s11-0-C",
+        "Option s11-0-D"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture s11-0."
+    },
+    {
+      "id": "s11-q2",
+      "text": "Which of these is linked to gems planets number 111 in fixture s?",
+      "answers": [
+        "Option s11-1-A",
+        "Option s11-1-B",
+        "Option s11-1-C",
+        "Option s11-1-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture s11-1."
+    },
+    {
+      "id": "s11-q3",
+      "text": "Which of these is linked to dances composers number 112 in fixture s?",
+      "answers": [
+        "Option s11-2-A",
+        "Option s11-2-B",
+        "Option s11-2-C",
+        "Option s11-2-D"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture s11-2."
+    }
+  ]
+}

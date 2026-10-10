@@ -1,0 +1,85 @@
+{
+  "id": "g1",
+  "name": "Mini",
+  "createdAt": "2024-01-01T00:00:00.000Z",
+  "updatedAt": "2024-01-02T00:00:00.000Z",
+  "questions": [
+    {
+      "id": "c1-q1",
+      "text": "Which of these is linked to planets islands number 10 in fixture c?",
+      "answers": [
+        "Option c1-0-A",
+        "Option c1-0-B",
+        "Option c1-0-C",
+        "Option c1-0-D"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture c1-0."
+    },
+    {
+      "id": "c1-q2",
+      "text": "Which of these is linked to birds bridges number 11 in fixture c?",
+      "answers": [
+        "Option c1-1-A",
+        "Option c1-1-B",
+        "Option c1-1-C",
+        "Option c1-1-D"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture c1-1."
+    },
+    {
+      "id": "c1-q3",
+      "text": "Which of these is linked to cheeses knots number 12 in fixture c?",
+      "answers": [
+        "Option c1-2-A",
+        "Option c1-2-B",
+        "Option c1-2-C",
+        "Option c1-2-D"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture c1-2."
+    }
+  ],
+  "spares": [
+    {
+      "id": "cs1-q1",
+      "text": "Which of these is linked to planets islands number 10 in fixture cs?",
+      "answers": [
+        "Option cs1-0-A",
+        "Option cs1-0-B",
+        "Option cs1-0-C",
+        "Option cs1-0-D"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture cs1-0."
+    }
+  ],
+  "ladder": {
+    "id": "l",
+    "name": "Mini",
+    "currency": "$",
+    "prizes": [
+      100,
+      200,
+      300
+    ],
+    "safeHavens": [
+      1
+    ]
+  },
+  "lifelineIds": [
+    "fifty-fifty"
+  ],
+  "timer": {
+    "mode": "off"
+  }
+}

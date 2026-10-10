@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-014",
+  "name": "Set 14: literature & authors",
+  "episode": 14,
+  "date": "2004-06-11",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "literature",
+    "books",
+    "authors"
+  ],
+  "questions": [
+    {
+      "id": "ep-014-q01",
+      "text": "Who wrote \"Charlie and the Chocolate Factory\", which is sweet reading?",
+      "answers": [
+        "Roald Dahl",
+        "Enid Blyton",
+        "Dr. Seuss",
+        "A. A. Milne"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "literature & authors",
+      "explanation": "Dahl published it in 1964.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q02",
+      "text": "Which honey-loving bear was created by A. A. Milne?",
+      "answers": [
+        "Paddington",
+        "Baloo",
+        "Winnie-the-Pooh",
+        "Yogi Bear"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "literature & authors",
+      "explanation": "Pooh first appeared in 1926.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q03",
+      "text": "Who wrote the tragedy \"Romeo and Juliet\"?",
+      "answers": [
+        "Christopher Marlowe",
+        "William Shakespeare",
+        "Ben Jonson",
+        "Geoffrey Chaucer"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "literature & authors",
+      "explanation": "Shakespeare wrote it in the mid-1590s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q04",
+      "text": "In which Dickens story does Ebenezer Scrooge appear?",
+      "answers": [
+        "Oliver Twist",
+        "Hard Times",
+        "Great Expectations",
+        "A Christmas Carol"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "literature & authors",
+      "explanation": "A Christmas Carol was published in 1843.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q05",
+      "text": "Who wrote \"Pride and Prejudice\"?",
+      "answers": [
+        "Charlotte Bronte",
+        "George Eliot",
+        "Jane Austen",
+        "Mary Shelley"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "literature & authors",
+      "explanation": "It was published in 1813.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q06",
+      "text": "Who wrote the dystopian novel \"1984\"?",
+      "answers": [
+        "George Orwell",
+        "Aldous Huxley",
+        "H. G. Wells",
+        "Evelyn Waugh"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "literature & authors",
+      "explanation": "Orwell published it in 1949.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q07",
+      "text": "Who created the detective Sherlock Holmes?",
+      "answers": [
+        "Agatha Christie",
+        "Wilkie Collins",
+        "Edgar Allan Poe",
+        "Arthur Conan Doyle"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "literature & authors",
+      "explanation": "Holmes first appeared in \"A Study in Scarlet\" in 1887.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q08",
+      "text": "Who wrote \"The Great Gatsby\"?",
+      "answers": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "John Steinbeck",
+        "William Faulkner"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "literature & authors",
+      "explanation": "It was published in 1925.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q09",
+      "text": "In which novel does Captain Ahab pursue a white whale?",
+      "answers": [
+        "Moby-Dick",
+        "Treasure Island",
+        "The Old Man and the Sea",
+        "Billy Budd"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "literature & authors",
+      "explanation": "Herman Melville published Moby-Dick in 1851.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q10",
+      "text": "Who wrote \"The Hobbit\", published in 1937?",
+      "answers": [
+        "C. S. Lewis",
+        "Philip Pullman",
+        "J. R. R. Tolkien",
+        "T. H. White"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "literature & authors",
+      "explanation": "The Hobbit precedes The Lord of the Rings.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q11",
+      "text": "Which Russian author wrote \"War and Peace\"?",
+      "answers": [
+        "Fyodor Dostoevsky",
+        "Anton Chekhov",
+        "Nikolai Gogol",
+        "Leo Tolstoy"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "literature & authors",
+      "explanation": "Tolstoy's novel is set during the Napoleonic Wars.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q12",
+      "text": "Who wrote \"Frankenstein\", first published in 1818?",
+      "answers": [
+        "Bram Stoker",
+        "Mary Shelley",
+        "Emily Bronte",
+        "Ann Radcliffe"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "literature & authors",
+      "explanation": "Shelley wrote it as a teenager and published it at age 20.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q13",
+      "text": "Which character in a Cervantes novel famously tilts at windmills?",
+      "answers": [
+        "Lazarillo",
+        "El Cid",
+        "Don Quixote",
+        "Don Juan"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "literature & authors",
+      "explanation": "Don Quixote mistakes windmills for giants.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q14",
+      "text": "Who wrote \"One Hundred Years of Solitude\"?",
+      "answers": [
+        "Gabriel Garcia Marquez",
+        "Jorge Luis Borges",
+        "Pablo Neruda",
+        "Mario Vargas Llosa"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "literature & authors",
+      "explanation": "It was published in 1967 and is set in the town of Macondo.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-q15",
+      "text": "In James Joyce's \"Ulysses\", the story unfolds over one day in which city?",
+      "answers": [
+        "London",
+        "Paris",
+        "Trieste",
+        "Dublin"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "literature & authors",
+      "explanation": "The day is 16 June 1904.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-014-s1",
+      "text": "Who wrote \"The Cat in the Hat\"?",
+      "answers": [
+        "Roald Dahl",
+        "Dr. Seuss",
+        "Beatrix Potter",
+        "Maurice Sendak"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "literature & authors",
+      "explanation": "Theodor Geisel wrote as Dr. Seuss.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-s2",
+      "text": "Who wrote \"Oliver Twist\"?",
+      "answers": [
+        "Thomas Hardy",
+        "William Thackeray",
+        "Anthony Trollope",
+        "Charles Dickens"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "literature & authors",
+      "explanation": "It was serialised from 1837.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-014-s3",
+      "text": "Which Bronte sister wrote \"Wuthering Heights\"?",
+      "answers": [
+        "Emily",
+        "Charlotte",
+        "Anne",
+        "Elizabeth"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "literature & authors",
+      "explanation": "Emily Bronte published it in 1847 under the name Ellis Bell.",
+      "reviewed": true
+    }
+  ]
+}

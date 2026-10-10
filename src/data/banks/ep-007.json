@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-007",
+  "name": "Set 7: Food & Drink",
+  "episode": 7,
+  "date": "2001-03-01",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "food",
+    "drink"
+  ],
+  "questions": [
+    {
+      "id": "ep-007-q01",
+      "text": "Which fruit is the main ingredient of guacamole?",
+      "answers": [
+        "Mango",
+        "Lime",
+        "Papaya",
+        "Avocado"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Food & Drink",
+      "explanation": "Guacamole is made by mashing avocados.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q02",
+      "text": "What is the main ingredient of hummus?",
+      "answers": [
+        "Chickpeas",
+        "Lentils",
+        "Green peas",
+        "Soybeans"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Food & Drink",
+      "explanation": "Hummus is blended from chickpeas and tahini.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q03",
+      "text": "Which country is the home of the rice dish paella?",
+      "answers": [
+        "Portugal",
+        "Spain",
+        "Mexico",
+        "Italy"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Food & Drink",
+      "explanation": "Paella originated in Valencia, Spain.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q04",
+      "text": "Which cheese is traditionally crumbled over a Greek salad?",
+      "answers": [
+        "Halloumi",
+        "Brie",
+        "Feta",
+        "Gouda"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Food & Drink",
+      "explanation": "Feta is the classic Greek salad cheese.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q05",
+      "text": "Which spirit is made from the blue agave plant?",
+      "answers": [
+        "Rum",
+        "Vodka",
+        "Whisky",
+        "Tequila"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Food & Drink",
+      "explanation": "Tequila is distilled from blue agave.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q06",
+      "text": "Which expensive spice comes from the stigmas of a crocus flower?",
+      "answers": [
+        "Saffron",
+        "Vanilla",
+        "Cardamom",
+        "Turmeric"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Food & Drink",
+      "explanation": "Saffron threads are the dried stigmas of Crocus sativus.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q07",
+      "text": "Which pasta, whose name means \"little ears\", is shaped like small bowls?",
+      "answers": [
+        "Farfalle",
+        "Orecchiette",
+        "Penne",
+        "Fusilli"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Food & Drink",
+      "explanation": "Orecchiette comes from the Italian for little ears.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q08",
+      "text": "Which nut is the main ingredient of marzipan?",
+      "answers": [
+        "Hazelnut",
+        "Pistachio",
+        "Almond",
+        "Cashew"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Food & Drink",
+      "explanation": "Marzipan is made from ground almonds and sugar.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q09",
+      "text": "Which fruit is dried to make prunes?",
+      "answers": [
+        "Fig",
+        "Date",
+        "Apricot",
+        "Plum"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Food & Drink",
+      "explanation": "Prunes are dried plums.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q10",
+      "text": "Which vegetable is the most common base of Korean kimchi?",
+      "answers": [
+        "Napa cabbage",
+        "Cucumber",
+        "Eggplant",
+        "Spinach"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Food & Drink",
+      "explanation": "Napa cabbage is the standard base for kimchi.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q11",
+      "text": "Which French sauce is made from egg yolks, butter and lemon juice?",
+      "answers": [
+        "Béarnaise",
+        "Hollandaise",
+        "Béchamel",
+        "Velouté"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Food & Drink",
+      "explanation": "Hollandaise is an emulsion of yolks, butter and lemon.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q12",
+      "text": "Which Italian dessert's name translates as \"pick me up\"?",
+      "answers": [
+        "Panna cotta",
+        "Cannoli",
+        "Tiramisu",
+        "Zabaglione"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Food & Drink",
+      "explanation": "Tiramisu literally means pick me up.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q13",
+      "text": "Which fish's eggs provide authentic caviar?",
+      "answers": [
+        "Salmon",
+        "Cod",
+        "Lumpfish",
+        "Sturgeon"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Food & Drink",
+      "explanation": "True caviar is sturgeon roe.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q14",
+      "text": "Sherry takes its English name from which Spanish town?",
+      "answers": [
+        "Jerez",
+        "Rueda",
+        "Jumilla",
+        "Toro"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "Food & Drink",
+      "explanation": "Sherry is an anglicisation of Jerez.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-q15",
+      "text": "Which Japanese chemist identified the taste of umami in 1908 from kombu seaweed broth?",
+      "answers": [
+        "Hideki Yukawa",
+        "Kikunae Ikeda",
+        "Jokichi Takamine",
+        "Umetaro Suzuki"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "Food & Drink",
+      "explanation": "Ikeda isolated glutamate as the source of umami.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-007-s1",
+      "text": "Which dairy product is churned to make butter?",
+      "answers": [
+        "Whey",
+        "Cream",
+        "Yoghurt",
+        "Curd"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Food & Drink",
+      "explanation": "Churning separates cream into butter and buttermilk.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-s2",
+      "text": "Which tea is flavoured with oil from the bergamot orange?",
+      "answers": [
+        "Darjeeling",
+        "Lapsang Souchong",
+        "Earl Grey",
+        "Assam"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Food & Drink",
+      "explanation": "Earl Grey is scented with bergamot.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-007-s3",
+      "text": "In which English county is the village that gave Cheddar cheese its name?",
+      "answers": [
+        "Devon",
+        "Cornwall",
+        "Dorset",
+        "Somerset"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Food & Drink",
+      "explanation": "Cheddar village lies in Somerset.",
+      "reviewed": true
+    }
+  ]
+}

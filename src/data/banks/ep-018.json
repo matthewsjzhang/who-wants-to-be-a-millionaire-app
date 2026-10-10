@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-018",
+  "name": "Set 18: mathematics & inventions",
+  "episode": 18,
+  "date": "2005-09-09",
+  "edition": "AU",
+  "provenance": "episode-style",
+  "tags": [
+    "maths",
+    "inventions",
+    "science"
+  ],
+  "questions": [
+    {
+      "id": "ep-018-q01",
+      "text": "How many sides does a hexagon have?",
+      "answers": [
+        "Six",
+        "Five",
+        "Seven",
+        "Eight"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "mathematics & inventions",
+      "explanation": "Hexa means six.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q02",
+      "text": "A dozen dozen, otherwise known as a gross, equals how many?",
+      "answers": [
+        "124",
+        "122",
+        "144",
+        "154"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "mathematics & inventions",
+      "explanation": "12 times 12 is 144.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q03",
+      "text": "Which brothers made the first powered, controlled aeroplane flight in 1903?",
+      "answers": [
+        "The Montgolfier brothers",
+        "The Wright brothers",
+        "The Lumiere brothers",
+        "The Grimm brothers"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "mathematics & inventions",
+      "explanation": "Orville and Wilbur Wright flew at Kitty Hawk.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q04",
+      "text": "What is the value of pi to two decimal places?",
+      "answers": [
+        "3.41",
+        "3.12",
+        "3.16",
+        "3.14"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "mathematics & inventions",
+      "explanation": "Pi is approximately 3.14159.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q05",
+      "text": "Who introduced movable-type printing to Europe around 1440?",
+      "answers": [
+        "William Caxton",
+        "Galileo Galilei",
+        "Johannes Gutenberg",
+        "Isaac Newton"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "mathematics & inventions",
+      "explanation": "Gutenberg printed his famous Bible in the 1450s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q06",
+      "text": "What do the interior angles of a triangle add up to?",
+      "answers": [
+        "180 degrees",
+        "90 degrees",
+        "270 degrees",
+        "360 degrees"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "mathematics & inventions",
+      "explanation": "This holds for any triangle on a flat surface.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q07",
+      "text": "Who patented the telephone in 1876?",
+      "answers": [
+        "Thomas Edison",
+        "Samuel Morse",
+        "Guglielmo Marconi",
+        "Alexander Graham Bell"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "mathematics & inventions",
+      "explanation": "Bell received the US patent in March 1876.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q08",
+      "text": "Which ancient Greek is traditionally credited with a theorem about right-angled triangles?",
+      "answers": [
+        "Euclid",
+        "Pythagoras",
+        "Archimedes",
+        "Aristotle"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "mathematics & inventions",
+      "explanation": "The theorem states a squared plus b squared equals c squared.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q09",
+      "text": "Guglielmo Marconi is best known for developing which technology?",
+      "answers": [
+        "Wireless telegraphy",
+        "The telephone",
+        "The television",
+        "The telescope"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "mathematics & inventions",
+      "explanation": "Marconi sent a transatlantic radio signal in 1901.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q10",
+      "text": "What is the next prime number after 7?",
+      "answers": [
+        "9",
+        "13",
+        "11",
+        "10"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "mathematics & inventions",
+      "explanation": "9 is divisible by 3 and 10 by 2 and 5.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q11",
+      "text": "Who invented the World Wide Web in 1989 while at CERN?",
+      "answers": [
+        "Bill Gates",
+        "Vint Cerf",
+        "Steve Jobs",
+        "Tim Berners-Lee"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "mathematics & inventions",
+      "explanation": "Berners-Lee proposed the Web in March 1989.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q12",
+      "text": "Which Greek mathematician wrote \"Elements\", a foundation of geometry?",
+      "answers": [
+        "Pythagoras",
+        "Euclid",
+        "Archimedes",
+        "Euler"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "mathematics & inventions",
+      "explanation": "Elements dates from about 300 BC.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q13",
+      "text": "Which Greek scholar is said to have shouted \"Eureka\" in the bath?",
+      "answers": [
+        "Euclid",
+        "Aristotle",
+        "Archimedes",
+        "Plato"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "mathematics & inventions",
+      "explanation": "The story relates to finding the volume of the king's crown.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q14",
+      "text": "Which British mathematician proved Fermat's Last Theorem, with the proof published in 1995?",
+      "answers": [
+        "John Nash",
+        "Andrew Wiles",
+        "Alan Turing",
+        "G. H. Hardy"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "mathematics & inventions",
+      "explanation": "Andrew Wiles's proof was published in 1995 after a gap was repaired.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-q15",
+      "text": "Which Englishman designed the Analytical Engine, an early mechanical computer?",
+      "answers": [
+        "Alan Turing",
+        "John von Neumann",
+        "Herman Hollerith",
+        "Charles Babbage"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "mathematics & inventions",
+      "explanation": "Babbage described the design in the 1830s.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-018-s1",
+      "text": "How many degrees are in a right angle?",
+      "answers": [
+        "45",
+        "90",
+        "180",
+        "100"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "mathematics & inventions",
+      "explanation": "A right angle is a quarter of a full turn.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-s2",
+      "text": "Who invented dynamite in 1867?",
+      "answers": [
+        "Guglielmo Marconi",
+        "Louis Pasteur",
+        "Michael Faraday",
+        "Alfred Nobel"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "mathematics & inventions",
+      "explanation": "Nobel patented dynamite in 1867.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-018-s3",
+      "text": "Who patented the cotton gin in 1794?",
+      "answers": [
+        "Eli Whitney",
+        "Samuel Morse",
+        "Robert Fulton",
+        "Cyrus McCormick"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "mathematics & inventions",
+      "explanation": "Whitney received the patent in March 1794.",
+      "reviewed": true
+    }
+  ]
+}

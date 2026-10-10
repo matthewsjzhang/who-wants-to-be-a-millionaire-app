@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-005",
+  "name": "Set 5: 20th-Century Music",
+  "episode": 5,
+  "date": "2000-09-01",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "music",
+    "20th century"
+  ],
+  "questions": [
+    {
+      "id": "ep-005-q01",
+      "text": "Which band recorded \"Yellow Submarine\"?",
+      "answers": [
+        "The Rolling Stones",
+        "The Beatles",
+        "The Kinks",
+        "The Who"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Music",
+      "explanation": "The Beatles released it in 1966.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q02",
+      "text": "Which instrument might you \"tickle the ivories\" on?",
+      "answers": [
+        "Organ",
+        "Accordion",
+        "Piano",
+        "Harpsichord"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Music",
+      "explanation": "Ivories is slang for piano keys.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q03",
+      "text": "Which singer was nicknamed \"The King of Rock and Roll\"?",
+      "answers": [
+        "Chuck Berry",
+        "Little Richard",
+        "Buddy Holly",
+        "Elvis Presley"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Music",
+      "explanation": "Elvis Presley earned that nickname in the 1950s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q04",
+      "text": "Which Motown group featured lead singer Diana Ross?",
+      "answers": [
+        "The Supremes",
+        "The Marvelettes",
+        "The Ronettes",
+        "The Shirelles"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Music",
+      "explanation": "Diana Ross fronted The Supremes in the 1960s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q05",
+      "text": "Which Swedish group sang \"Dancing Queen\"?",
+      "answers": [
+        "Roxette",
+        "ABBA",
+        "Ace of Base",
+        "Europe"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Music",
+      "explanation": "ABBA released \"Dancing Queen\" in 1976.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q06",
+      "text": "Which 1982 Michael Jackson album contains \"Billie Jean\"?",
+      "answers": [
+        "Bad",
+        "Off the Wall",
+        "Thriller",
+        "Dangerous"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "\"Billie Jean\" is on Thriller.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q07",
+      "text": "Which composer wrote the orchestral work Appalachian Spring?",
+      "answers": [
+        "George Gershwin",
+        "Leonard Bernstein",
+        "Samuel Barber",
+        "Aaron Copland"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Copland composed it as a ballet score in 1944.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q08",
+      "text": "Which Beatle wrote \"Here Comes the Sun\"?",
+      "answers": [
+        "George Harrison",
+        "John Lennon",
+        "Paul McCartney",
+        "Ringo Starr"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "George Harrison wrote it for Abbey Road.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q09",
+      "text": "Which jazz trumpeter led the 1959 recording sessions for Kind of Blue?",
+      "answers": [
+        "Louis Armstrong",
+        "Miles Davis",
+        "Dizzy Gillespie",
+        "Chet Baker"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Kind of Blue is Miles Davis's landmark album.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q10",
+      "text": "Which band released The Dark Side of the Moon in 1973?",
+      "answers": [
+        "Led Zeppelin",
+        "Genesis",
+        "Pink Floyd",
+        "Yes"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Pink Floyd released it in March 1973.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q11",
+      "text": "At which 1969 New York State festival did Jimi Hendrix play the US national anthem?",
+      "answers": [
+        "Monterey Pop",
+        "Altamont",
+        "Isle of Wight",
+        "Woodstock"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Music",
+      "explanation": "Hendrix closed Woodstock with his anthem rendition.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q12",
+      "text": "Which composer wrote The Rite of Spring, which caused a stir in 1913?",
+      "answers": [
+        "Igor Stravinsky",
+        "Claude Debussy",
+        "Maurice Ravel",
+        "Sergei Prokofiev"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Music",
+      "explanation": "Stravinsky's ballet premiered in Paris in 1913.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q13",
+      "text": "Which blues singer was known as the Empress of the Blues?",
+      "answers": [
+        "Ma Rainey",
+        "Bessie Smith",
+        "Billie Holiday",
+        "Ella Fitzgerald"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Music",
+      "explanation": "Bessie Smith held that title in the 1920s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q14",
+      "text": "Which Hungarian composer wrote the Concerto for Orchestra (1943)?",
+      "answers": [
+        "Zoltán Kodály",
+        "Franz Liszt",
+        "Béla Bartók",
+        "György Ligeti"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Music",
+      "explanation": "Bartók composed it in the United States.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-q15",
+      "text": "Which saxophonist recorded the 1965 jazz album A Love Supreme?",
+      "answers": [
+        "Charlie Parker",
+        "Sonny Rollins",
+        "Ornette Coleman",
+        "John Coltrane"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "Music",
+      "explanation": "Coltrane recorded A Love Supreme in December 1964.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-005-s1",
+      "text": "Who was the lead singer of the Rolling Stones?",
+      "answers": [
+        "Keith Richards",
+        "Rod Stewart",
+        "Robert Plant",
+        "Mick Jagger"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Music",
+      "explanation": "Mick Jagger fronted the band from 1962.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-s2",
+      "text": "Which jazz singer was nicknamed \"Lady Day\"?",
+      "answers": [
+        "Billie Holiday",
+        "Ella Fitzgerald",
+        "Bessie Smith",
+        "Sarah Vaughan"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Saxophonist Lester Young gave her the nickname.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-005-s3",
+      "text": "Which 1965 Bob Dylan album opens with \"Like a Rolling Stone\"?",
+      "answers": [
+        "Blonde on Blonde",
+        "Highway 61 Revisited",
+        "Blood on the Tracks",
+        "Bringing It All Back Home"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Music",
+      "explanation": "The song opens Highway 61 Revisited.",
+      "reviewed": true
+    }
+  ]
+}

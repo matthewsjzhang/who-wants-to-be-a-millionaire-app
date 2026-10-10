@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-042",
+  "name": "Set 42: Olympics & Motorsport",
+  "episode": 42,
+  "date": "2017-08-06",
+  "edition": "INT",
+  "provenance": "episode-style",
+  "tags": [
+    "sport",
+    "olympics",
+    "motorsport"
+  ],
+  "questions": [
+    {
+      "id": "ep-042-q01",
+      "text": "How many rings feature in the Olympic symbol?",
+      "answers": [
+        "Four",
+        "Six",
+        "Five",
+        "Seven"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Sport",
+      "explanation": "The five interlocking rings represent the continents.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q02",
+      "text": "In motor racing, which flag signals the end of a race?",
+      "answers": [
+        "Yellow flag",
+        "Blue flag",
+        "White flag",
+        "Chequered flag"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Sport",
+      "explanation": "The chequered flag is waved at the finish.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q03",
+      "text": "Which city hosted the 2012 Summer Olympics?",
+      "answers": [
+        "London",
+        "Beijing",
+        "Rio de Janeiro",
+        "Athens"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Sport",
+      "explanation": "London hosted the 2012 Games.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q04",
+      "text": "In which country did the ancient Olympic Games take place?",
+      "answers": [
+        "Italy",
+        "Greece",
+        "Egypt",
+        "Turkey"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Sport",
+      "explanation": "They were held at Olympia in Greece.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q05",
+      "text": "Which French city gives its name to a famous 24-hour sports car race?",
+      "answers": [
+        "Lyon",
+        "Nice",
+        "Le Mans",
+        "Reims"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Sport",
+      "explanation": "The 24 Hours of Le Mans began in 1923.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q06",
+      "text": "Which city hosted the 1964 Summer Olympics, the first held in Asia?",
+      "answers": [
+        "Seoul",
+        "Beijing",
+        "Osaka",
+        "Tokyo"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Tokyo staged the 1964 Games, the first Olympics in Asia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q07",
+      "text": "Which Brazilian won Formula One world titles in 1988, 1990 and 1991?",
+      "answers": [
+        "Ayrton Senna",
+        "Nelson Piquet",
+        "Emerson Fittipaldi",
+        "Rubens Barrichello"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Senna won three titles with McLaren.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q08",
+      "text": "Where were the first modern Olympic Games held in 1896?",
+      "answers": [
+        "Paris",
+        "Athens",
+        "London",
+        "Stockholm"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "The first modern Games took place in Athens.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q09",
+      "text": "Who won the men's 100m gold at the 2008 Beijing Olympics?",
+      "answers": [
+        "Asafa Powell",
+        "Tyson Gay",
+        "Usain Bolt",
+        "Justin Gatlin"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Bolt won in a then world record 9.69 seconds.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q10",
+      "text": "Which US swimmer won eight gold medals at the 2008 Games?",
+      "answers": [
+        "Mark Spitz",
+        "Ryan Lochte",
+        "Ian Thorpe",
+        "Michael Phelps"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Phelps won eight golds in Beijing.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q11",
+      "text": "Which city hosted the 1956 Olympics, the first Games held in the Southern Hemisphere?",
+      "answers": [
+        "Melbourne",
+        "Sydney",
+        "Auckland",
+        "Rome"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Sport",
+      "explanation": "Melbourne staged the 1956 Summer Games.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q12",
+      "text": "Who was the first Formula One World Champion in 1950?",
+      "answers": [
+        "Juan Manuel Fangio",
+        "Giuseppe Farina",
+        "Alberto Ascari",
+        "Stirling Moss"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Sport",
+      "explanation": "Farina won the inaugural 1950 title for Alfa Romeo.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q13",
+      "text": "Which Romanian gymnast scored the first perfect 10 at the Olympics in 1976?",
+      "answers": [
+        "Olga Korbut",
+        "Simone Biles",
+        "Nadia Comaneci",
+        "Larisa Latynina"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Sport",
+      "explanation": "Comaneci scored a perfect 10 on the uneven bars in Montreal.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q14",
+      "text": "Which Finnish runner, the Flying Finn, won nine Olympic golds in the 1920s?",
+      "answers": [
+        "Emil Zatopek",
+        "Lasse Viren",
+        "Hannes Kolehmainen",
+        "Paavo Nurmi"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "Sport",
+      "explanation": "Nurmi won nine golds between 1920 and 1928.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-q15",
+      "text": "Which circuit is nicknamed the Green Hell?",
+      "answers": [
+        "Nurburgring Nordschleife",
+        "Spa-Francorchamps",
+        "Monza",
+        "Suzuka"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "Sport",
+      "explanation": "Jackie Stewart nicknamed the Nordschleife the Green Hell.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-042-s1",
+      "text": "What colour medal goes to the Olympic runner-up?",
+      "answers": [
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Platinum"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Sport",
+      "explanation": "Silver is awarded for second place.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-s2",
+      "text": "Which city hosted the 2000 Summer Olympics?",
+      "answers": [
+        "Athens",
+        "Atlanta",
+        "Sydney",
+        "Barcelona"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Sport",
+      "explanation": "Sydney hosted the 2000 Games.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-042-s3",
+      "text": "Which British athlete won heptathlon gold at the London 2012 Olympics?",
+      "answers": [
+        "Denise Lewis",
+        "Jessica Ennis",
+        "Kelly Holmes",
+        "Paula Radcliffe"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Sport",
+      "explanation": "Ennis won heptathlon gold on the night dubbed Super Saturday at London 2012.",
+      "reviewed": true
+    }
+  ]
+}

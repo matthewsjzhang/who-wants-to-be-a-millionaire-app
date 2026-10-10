@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-036",
+  "name": "Set 36: Languages & etymology",
+  "episode": 36,
+  "date": "2012-04-14",
+  "edition": "AU",
+  "provenance": "episode-style",
+  "tags": [
+    "language",
+    "words"
+  ],
+  "questions": [
+    {
+      "id": "ep-036-q01",
+      "text": "In which language would you say 'Bonjour'?",
+      "answers": [
+        "French",
+        "Spanish",
+        "Italian",
+        "Portuguese"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "'Bonjour' is French for hello or good day.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q02",
+      "text": "What is a word that reads the same backwards as forwards, like 'level'?",
+      "answers": [
+        "Anagram",
+        "Palindrome",
+        "Acronym",
+        "Homonym"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "Palindromes work letter by letter in both directions.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q03",
+      "text": "What is the official language of Brazil?",
+      "answers": [
+        "Spanish",
+        "Italian",
+        "Portuguese",
+        "French"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "Brazil was a Portuguese colony.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q04",
+      "text": "Which alphabet is used to write Russian?",
+      "answers": [
+        "Greek",
+        "Latin",
+        "Hebrew",
+        "Cyrillic"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "Cyrillic is named after Saint Cyril.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q05",
+      "text": "What is the name for the study of the origins of words?",
+      "answers": [
+        "Etymology",
+        "Entomology",
+        "Etiquette",
+        "Epidemiology"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "Etymology traces how words and their meanings developed.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q06",
+      "text": "What is the Spanish word for 'thank you'?",
+      "answers": [
+        "Merci",
+        "Gracias",
+        "Danke",
+        "Grazie"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "'Gracias' comes from the Latin gratia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q07",
+      "text": "The English word 'kindergarten' comes from which language?",
+      "answers": [
+        "Dutch",
+        "Swedish",
+        "German",
+        "Danish"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "It means 'children's garden' in German.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q08",
+      "text": "The word 'safari' entered English from which language?",
+      "answers": [
+        "Hindi",
+        "Afrikaans",
+        "Amharic",
+        "Swahili"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "In Swahili safari means a journey.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q09",
+      "text": "What is a word formed from initial letters and pronounced as a word, like NASA?",
+      "answers": [
+        "Acronym",
+        "Palindrome",
+        "Portmanteau",
+        "Homophone"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "NASA is pronounced 'nasa', so it is an acronym.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q10",
+      "text": "Which Norse god gave his name to Thursday?",
+      "answers": [
+        "Odin",
+        "Thor",
+        "Freya",
+        "Tyr"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Thursday is 'Thor's day'.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q11",
+      "text": "The word 'smog' blends smoke with which other word?",
+      "answers": [
+        "Smell",
+        "Smut",
+        "Fog",
+        "Moisture"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "The blend was popularised in the early 20th century.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q12",
+      "text": "Hungarian belongs to which language family?",
+      "answers": [
+        "Indo-European",
+        "Turkic",
+        "Slavic",
+        "Uralic"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Hungarian is related to Finnish and Estonian.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q13",
+      "text": "The Rosetta Stone helped scholars decipher which writing system?",
+      "answers": [
+        "Egyptian hieroglyphs",
+        "Cuneiform",
+        "Linear B",
+        "Mayan glyphs"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "The stone carries the same decree in hieroglyphic, Demotic and Greek.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q14",
+      "text": "The English word \"ombudsman\" comes from which language?",
+      "answers": [
+        "Norwegian",
+        "Swedish",
+        "Dutch",
+        "German"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "Ombudsman is a Swedish word meaning a representative or commissioner.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-q15",
+      "text": "Who deciphered the Linear B script in 1952?",
+      "answers": [
+        "Jean-François Champollion",
+        "Henry Rawlinson",
+        "Michael Ventris",
+        "Arthur Evans"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "Ventris showed Linear B recorded an early form of Greek.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-036-s1",
+      "text": "What is the French word for 'cat'?",
+      "answers": [
+        "Chien",
+        "Chat",
+        "Chou",
+        "Chaise"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "Chat is pronounced 'sha'.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-s2",
+      "text": "'Sayonara' is a way of saying goodbye in which language?",
+      "answers": [
+        "Korean",
+        "Mandarin",
+        "Japanese",
+        "Thai"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Sayonara is Japanese for farewell.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-s3",
+      "text": "Welsh, Irish and Breton belong to which branch of Indo-European languages?",
+      "answers": [
+        "Germanic",
+        "Romance",
+        "Slavic",
+        "Celtic"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "These are Celtic languages.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-036-s4",
+      "text": "Which language is generally regarded as the closest living relative of English?",
+      "answers": [
+        "Frisian",
+        "Dutch",
+        "German",
+        "Danish"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "Frisian and English share a common West Germanic origin.",
+      "reviewed": true
+    }
+  ]
+}

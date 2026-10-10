@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-053",
+  "name": "Set 53: Cars, Trains & Planes",
+  "episode": 53,
+  "date": "2022-01-21",
+  "edition": "INT",
+  "provenance": "episode-style",
+  "tags": [
+    "transport",
+    "history",
+    "engineering"
+  ],
+  "questions": [
+    {
+      "id": "ep-053-q01",
+      "text": "What type of vehicle is a Boeing 747?",
+      "answers": [
+        "Helicopter",
+        "Hovercraft",
+        "Airship",
+        "Airliner"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "The 747 is a wide-body passenger jet.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q02",
+      "text": "Which German company produced the original Beetle?",
+      "answers": [
+        "Volkswagen",
+        "Ford",
+        "Fiat",
+        "Renault"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "Volkswagen produced the original Beetle from 1938 to 2003.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q03",
+      "text": "Which French aviator made the first flight across the English Channel in 1909?",
+      "answers": [
+        "Henri Farman",
+        "Louis Bleriot",
+        "Alberto Santos-Dumont",
+        "Roland Garros"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "Bleriot flew from Calais to Dover on 25 July 1909.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q04",
+      "text": "Which company produced the Model T?",
+      "answers": [
+        "General Motors",
+        "Chrysler",
+        "Ford",
+        "Benz"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "Ford launched the Model T in 1908.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q05",
+      "text": "Which Italian carmaker has a prancing horse as its badge?",
+      "answers": [
+        "Lamborghini",
+        "Maserati",
+        "Alfa Romeo",
+        "Ferrari"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "Ferrari's emblem is the Cavallino Rampante.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q06",
+      "text": "Which airship caught fire at Lakehurst, New Jersey in 1937?",
+      "answers": [
+        "Hindenburg",
+        "R101",
+        "Graf Zeppelin",
+        "Italia"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "The Hindenburg disaster killed 36 people.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q07",
+      "text": "Which locomotive won the 1829 Rainhill Trials?",
+      "answers": [
+        "Locomotion",
+        "Rocket",
+        "Puffing Billy",
+        "Flying Scotsman"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Stephenson's Rocket won the trials.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q08",
+      "text": "Who made the first solo non-stop transatlantic flight in 1927?",
+      "answers": [
+        "Amelia Earhart",
+        "Wiley Post",
+        "Charles Lindbergh",
+        "Howard Hughes"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Lindbergh flew the Spirit of St. Louis from New York to Paris.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q09",
+      "text": "Which supersonic airliner was built jointly by Britain and France?",
+      "answers": [
+        "Tupolev Tu-144",
+        "Boeing 2707",
+        "Comet",
+        "Concorde"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Concorde entered service in 1976.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q10",
+      "text": "Which supercar maker originally built tractors?",
+      "answers": [
+        "Lamborghini",
+        "Ferrari",
+        "Bugatti",
+        "Pagani"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Ferruccio Lamborghini made tractors before founding his car company.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q11",
+      "text": "Which vehicle did Karl Benz patent in 1886?",
+      "answers": [
+        "Ford Quadricycle",
+        "Benz Patent-Motorwagen",
+        "Fardier a vapeur",
+        "Model T"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "The Patent-Motorwagen is often called the first practical automobile.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q12",
+      "text": "Which engineer designed the Great Western Railway and the SS Great Britain?",
+      "answers": [
+        "George Stephenson",
+        "Thomas Telford",
+        "Isambard Kingdom Brunel",
+        "Joseph Paxton"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "Brunel engineered both the railway and the ship.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q13",
+      "text": "Which country opened the world's first high-speed rail line in 1964?",
+      "answers": [
+        "France",
+        "Germany",
+        "Italy",
+        "Japan"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Japan's Tokaido Shinkansen opened before the Tokyo Olympics.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q14",
+      "text": "Which jet airliner entered service with BOAC in 1952 as the world's first?",
+      "answers": [
+        "de Havilland Comet",
+        "Boeing 707",
+        "Sud Caravelle",
+        "Tupolev Tu-104"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "The Comet began passenger service in May 1952.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-q15",
+      "text": "Which aircraft first broke the sound barrier in level flight in 1947?",
+      "answers": [
+        "North American X-15",
+        "Bell X-1",
+        "Douglas Skyrocket",
+        "Messerschmitt Me 262"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "Chuck Yeager flew the Bell X-1 faster than Mach 1.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-053-s1",
+      "text": "What colour are London's traditional double-decker buses?",
+      "answers": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "London's iconic buses are painted red.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-s2",
+      "text": "Which airline is nicknamed the \"Flying Kangaroo\"?",
+      "answers": [
+        "Virgin Australia",
+        "Qantas",
+        "Ansett",
+        "Air New Zealand"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Qantas uses a kangaroo as its emblem.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-053-s3",
+      "text": "Who designed the Supermarine Spitfire?",
+      "answers": [
+        "Sydney Camm",
+        "Frank Whittle",
+        "R. J. Mitchell",
+        "Barnes Wallis"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "Reginald Mitchell designed the fighter first flown in 1936.",
+      "reviewed": true
+    }
+  ]
+}

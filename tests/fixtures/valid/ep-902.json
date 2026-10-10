@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-902",
+  "name": "Fixture 902",
+  "episode": 902,
+  "date": "2005-01-01",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "fixture",
+    "uk"
+  ],
+  "questions": [
+    {
+      "id": "f5-q1",
+      "text": "Which of these is linked to metals gems number 50 in fixture f?",
+      "answers": [
+        "Option f5-0-A",
+        "Option f5-0-B",
+        "Option f5-0-C",
+        "Option f5-0-D"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f5-0."
+    },
+    {
+      "id": "f5-q2",
+      "text": "Which of these is linked to deserts lakes number 51 in fixture f?",
+      "answers": [
+        "Option f5-1-A",
+        "Option f5-1-B",
+        "Option f5-1-C",
+        "Option f5-1-D"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f5-1."
+    },
+    {
+      "id": "f5-q3",
+      "text": "Which of these is linked to fruits clouds number 52 in fixture f?",
+      "answers": [
+        "Option f5-2-A",
+        "Option f5-2-B",
+        "Option f5-2-C",
+        "Option f5-2-D"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f5-2."
+    },
+    {
+      "id": "f5-q4",
+      "text": "Which of these is linked to islands planets number 53 in fixture f?",
+      "answers": [
+        "Option f5-3-A",
+        "Option f5-3-B",
+        "Option f5-3-C",
+        "Option f5-3-D"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture f5-3."
+    },
+    {
+      "id": "f5-q5",
+      "text": "Which of these is linked to poets composers number 54 in fixture f?",
+      "answers": [
+        "Option f5-4-A",
+        "Option f5-4-B",
+        "Option f5-4-C",
+        "Option f5-4-D"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture f5-4."
+    },
+    {
+      "id": "f5-q6",
+      "text": "Which of these is linked to trees fruits number 55 in fixture f?",
+      "answers": [
+        "Option f5-5-A",
+        "Option f5-5-B",
+        "Option f5-5-C",
+        "Option f5-5-D"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f5-5."
+    },
+    {
+      "id": "f5-q7",
+      "text": "Which of these is linked to bridges trees number 56 in fixture f?",
+      "answers": [
+        "Option f5-6-A",
+        "Option f5-6-B",
+        "Option f5-6-C",
+        "Option f5-6-D"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f5-6."
+    },
+    {
+      "id": "f5-q8",
+      "text": "Which of these is linked to gems dances number 57 in fixture f?",
+      "answers": [
+        "Option f5-7-A",
+        "Option f5-7-B",
+        "Option f5-7-C",
+        "Option f5-7-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f5-7."
+    },
+    {
+      "id": "f5-q9",
+      "text": "Which of these is linked to dances spices number 58 in fixture f?",
+      "answers": [
+        "Option f5-8-A",
+        "Option f5-8-B",
+        "Option f5-8-C",
+        "Option f5-8-D"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f5-8."
+    },
+    {
+      "id": "f5-q10",
+      "text": "Which of these is linked to knots fabrics number 59 in fixture f?",
+      "answers": [
+        "Option f5-9-A",
+        "Option f5-9-B",
+        "Option f5-9-C",
+        "Option f5-9-D"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f5-9."
+    },
+    {
+      "id": "f5-q11",
+      "text": "Which of these is linked to lakes birds number 510 in fixture f?",
+      "answers": [
+        "Option f5-10-A",
+        "Option f5-10-B",
+        "Option f5-10-C",
+        "Option f5-10-D"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f5-10."
+    },
+    {
+      "id": "f5-q12",
+      "text": "Which of these is linked to spices metals number 511 in fixture f?",
+      "answers": [
+        "Option f5-11-A",
+        "Option f5-11-B",
+        "Option f5-11-C",
+        "Option f5-11-D"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f5-11."
+    },
+    {
+      "id": "f5-q13",
+      "text": "Which of these is linked to tools islands number 512 in fixture f?",
+      "answers": [
+        "Option f5-12-A",
+        "Option f5-12-B",
+        "Option f5-12-C",
+        "Option f5-12-D"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f5-12."
+    },
+    {
+      "id": "f5-q14",
+      "text": "Which of these is linked to clouds bridges number 513 in fixture f?",
+      "answers": [
+        "Option f5-13-A",
+        "Option f5-13-B",
+        "Option f5-13-C",
+        "Option f5-13-D"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture f5-13."
+    },
+    {
+      "id": "f5-q15",
+      "text": "Which of these is linked to fabrics knots number 514 in fixture f?",
+      "answers": [
+        "Option f5-14-A",
+        "Option f5-14-B",
+        "Option f5-14-C",
+        "Option f5-14-D"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture f5-14."
+    }
+  ],
+  "spares": [
+    {
+      "id": "s5-q1",
+      "text": "Which of these is linked to metals gems number 50 in fixture s?",
+      "answers": [
+        "Option s5-0-A",
+        "Option s5-0-B",
+        "Option s5-0-C",
+        "Option s5-0-D"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture s5-0."
+    },
+    {
+      "id": "s5-q2",
+      "text": "Which of these is linked to deserts lakes number 51 in fixture s?",
+      "answers": [
+        "Option s5-1-A",
+        "Option s5-1-B",
+        "Option s5-1-C",
+        "Option s5-1-D"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture s5-1."
+    },
+    {
+      "id": "s5-q3",
+      "text": "Which of these is linked to fruits clouds number 52 in fixture s?",
+      "answers": [
+        "Option s5-2-A",
+        "Option s5-2-B",
+        "Option s5-2-C",
+        "Option s5-2-D"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture s5-2."
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-046",
+  "name": "Set 46: Europe & Americas",
+  "episode": 46,
+  "date": "2018-02-10",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "geography",
+    "europe",
+    "americas"
+  ],
+  "questions": [
+    {
+      "id": "ep-046-q01",
+      "text": "Which country is shaped like a boot?",
+      "answers": [
+        "Italy",
+        "Spain",
+        "Greece",
+        "Norway"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "Italy's peninsula is famously boot-shaped.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q02",
+      "text": "The Panama Canal links the Atlantic with which ocean?",
+      "answers": [
+        "Indian",
+        "Pacific",
+        "Arctic",
+        "Southern"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "The canal connects the Atlantic and Pacific oceans.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q03",
+      "text": "What is the capital of Portugal?",
+      "answers": [
+        "Porto",
+        "Faro",
+        "Lisbon",
+        "Coimbra"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "Lisbon is Portugal's capital and largest city.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q04",
+      "text": "Which river flows through Rome?",
+      "answers": [
+        "Po",
+        "Arno",
+        "Danube",
+        "Tiber"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "Rome grew up on the banks of the Tiber.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q05",
+      "text": "Which is the largest country in South America by area?",
+      "answers": [
+        "Brazil",
+        "Argentina",
+        "Peru",
+        "Colombia"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "Brazil covers roughly half of South America.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q06",
+      "text": "Which Scandinavian capital lies largely on the island of Zealand?",
+      "answers": [
+        "Oslo",
+        "Copenhagen",
+        "Stockholm",
+        "Helsinki"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Copenhagen sits mainly on Zealand, with part on Amager.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q07",
+      "text": "Which of the North American Great Lakes is largest by surface area?",
+      "answers": [
+        "Michigan",
+        "Huron",
+        "Superior",
+        "Erie"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Lake Superior has the greatest surface area of the five.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q08",
+      "text": "Which mountain range separates France from Spain?",
+      "answers": [
+        "Alps",
+        "Carpathians",
+        "Apennines",
+        "Pyrenees"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "The Pyrenees form the natural border between France and Spain.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q09",
+      "text": "What is the capital of Ecuador?",
+      "answers": [
+        "Quito",
+        "Lima",
+        "Bogota",
+        "La Paz"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Quito, high in the Andes, is Ecuador's capital.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q10",
+      "text": "Which river forms much of the border between Mexico and the United States?",
+      "answers": [
+        "Missouri",
+        "Rio Grande",
+        "Mississippi",
+        "Columbia"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "The Rio Grande marks a large part of the Texas-Mexico border.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q11",
+      "text": "Which landlocked country lies between Austria and Switzerland?",
+      "answers": [
+        "Slovenia",
+        "Luxembourg",
+        "Liechtenstein",
+        "Andorra"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "Liechtenstein borders both Austria and Switzerland.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q12",
+      "text": "Which strait separates Tierra del Fuego from mainland South America?",
+      "answers": [
+        "Drake Passage",
+        "Bering Strait",
+        "Davis Strait",
+        "Strait of Magellan"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "The Strait of Magellan lies between the mainland and Tierra del Fuego.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q13",
+      "text": "Which is the longest river in Asia?",
+      "answers": [
+        "Yangtze",
+        "Yellow River",
+        "Mekong",
+        "Ganges"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "The Yangtze is about 6,300 km long.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q14",
+      "text": "Which Central American country abolished its army in 1948?",
+      "answers": [
+        "Panama",
+        "Costa Rica",
+        "Belize",
+        "Honduras"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "Costa Rica abolished its standing army after the 1948 civil war.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-q15",
+      "text": "Which is the highest peak in the Andes?",
+      "answers": [
+        "Chimborazo",
+        "Huascaran",
+        "Aconcagua",
+        "Ojos del Salado"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "Aconcagua in Argentina rises to about 6,960 m.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-046-s1",
+      "text": "Which country is home to the city of Amsterdam?",
+      "answers": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "Amsterdam is the capital of the Netherlands.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-s2",
+      "text": "What is the capital of Chile?",
+      "answers": [
+        "Valparaiso",
+        "Concepcion",
+        "Santiago",
+        "Lima"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Santiago has been Chile's capital since the colonial era.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-046-s3",
+      "text": "Which European microstate is the smallest country in the world by area?",
+      "answers": [
+        "Monaco",
+        "San Marino",
+        "Liechtenstein",
+        "Vatican City"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "Vatican City covers about 0.44 square kilometres.",
+      "reviewed": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+node_modules
+dist
+src/data/banks.manifest.json
+test-results
+playwright-report
+coverage

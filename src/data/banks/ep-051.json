@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-051",
+  "name": "Set 51: Musicals & Broadway",
+  "episode": 51,
+  "date": "2020-11-06",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "musicals",
+    "theatre",
+    "arts"
+  ],
+  "questions": [
+    {
+      "id": "ep-051-q01",
+      "text": "Which musical's red-haired heroine sings \"Tomorrow\" and has a dog called Sandy?",
+      "answers": [
+        "Oliver!",
+        "Annie",
+        "Matilda",
+        "Cats"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "Annie is a musical about an orphan in 1930s New York.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q02",
+      "text": "Which long-running musical features a chandelier crashing down in a Paris opera house?",
+      "answers": [
+        "Les Miserables",
+        "Cats",
+        "The Phantom of the Opera",
+        "Evita"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "The falling chandelier is a signature moment of Phantom.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q03",
+      "text": "Which composer wrote both \"Cats\" and \"The Phantom of the Opera\"?",
+      "answers": [
+        "Stephen Sondheim",
+        "Richard Rodgers",
+        "Lin-Manuel Miranda",
+        "Andrew Lloyd Webber"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "Lloyd Webber wrote both hit shows.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q04",
+      "text": "In which Austrian city is \"The Sound of Music\" set?",
+      "answers": [
+        "Salzburg",
+        "Vienna",
+        "Innsbruck",
+        "Graz"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "The von Trapp story takes place in and around Salzburg.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q05",
+      "text": "Which 2015 Broadway hit tells the story of a Founding Father who appears on the ten-dollar bill?",
+      "answers": [
+        "In the Heights",
+        "Hamilton",
+        "Dear Evan Hansen",
+        "Hair"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "Hamilton, by Lin-Manuel Miranda, opened on Broadway in 2015.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q06",
+      "text": "Which musical features the song \"Defying Gravity\"?",
+      "answers": [
+        "Hairspray",
+        "Rent",
+        "Wicked",
+        "Matilda"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "\"Defying Gravity\" closes the first act of Wicked.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q07",
+      "text": "Which duo wrote \"Oklahoma!\" in 1943?",
+      "answers": [
+        "Lerner and Loewe",
+        "Kander and Ebb",
+        "Gilbert and Sullivan",
+        "Rodgers and Hammerstein"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Richard Rodgers and Oscar Hammerstein II created it.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q08",
+      "text": "Which musical, based on a Victor Hugo novel, includes \"I Dreamed a Dream\"?",
+      "answers": [
+        "Les Miserables",
+        "Oliver!",
+        "Miss Saigon",
+        "Evita"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Fantine sings \"I Dreamed a Dream\" in Les Miserables.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q09",
+      "text": "Which jukebox musical is built around the songs of ABBA?",
+      "answers": [
+        "Rent",
+        "Mamma Mia!",
+        "Chicago",
+        "Hair"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Mamma Mia! premiered in London in 1999.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q10",
+      "text": "Which musical, based on \"Pygmalion\", features Eliza Doolittle?",
+      "answers": [
+        "Gigi",
+        "Camelot",
+        "My Fair Lady",
+        "Brigadoon"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Lerner and Loewe adapted Shaw's play as My Fair Lady.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q11",
+      "text": "Who composed the score of \"West Side Story\"?",
+      "answers": [
+        "Aaron Copland",
+        "George Gershwin",
+        "Cole Porter",
+        "Leonard Bernstein"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Bernstein wrote the music; Stephen Sondheim wrote the lyrics.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q12",
+      "text": "Which Kander and Ebb musical is set in the Kit Kat Club in 1930s Berlin?",
+      "answers": [
+        "Cabaret",
+        "Chicago",
+        "Sweet Charity",
+        "Pippin"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "Cabaret premiered on Broadway in 1966.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q13",
+      "text": "Which Stephen Sondheim musical features a murderous barber on Fleet Street?",
+      "answers": [
+        "Into the Woods",
+        "Sweeney Todd",
+        "Assassins",
+        "Company"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "Sweeney Todd opened on Broadway in 1979.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q14",
+      "text": "Which Jonathan Larson musical, premiered in 1996, is loosely based on Puccini's \"La Boheme\"?",
+      "answers": [
+        "Hair",
+        "Godspell",
+        "Rent",
+        "Spring Awakening"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "Rent reimagines La Boheme in New York's East Village.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-q15",
+      "text": "Which was the first musical to win the Pulitzer Prize for Drama, in 1932?",
+      "answers": [
+        "Show Boat",
+        "Oklahoma!",
+        "Porgy and Bess",
+        "Of Thee I Sing"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "Of Thee I Sing, by the Gershwins and Kaufman and Ryskind, was the first.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-051-s1",
+      "text": "Which musical features a nanny who arrives with a magic umbrella?",
+      "answers": [
+        "Peter Pan",
+        "Annie",
+        "Mary Poppins",
+        "Matilda"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "Mary Poppins flies in under her umbrella.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-s2",
+      "text": "Which musical includes \"Summer Nights\" and \"You're the One That I Want\"?",
+      "answers": [
+        "Fame",
+        "Footloose",
+        "Hairspray",
+        "Grease"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Both songs are from Grease (the film version).",
+      "reviewed": true
+    },
+    {
+      "id": "ep-051-s3",
+      "text": "Who wrote the lyrics for \"Fiddler on the Roof\"?",
+      "answers": [
+        "Sheldon Harnick",
+        "Alan Jay Lerner",
+        "Oscar Hammerstein II",
+        "Lorenz Hart"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "Jerry Bock wrote the music and Harnick the lyrics.",
+      "reviewed": true
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-041",
+  "name": "Set 41: Hip-Hop, Jazz & Blues",
+  "episode": 41,
+  "date": "2017-07-05",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "music",
+    "hip-hop",
+    "jazz",
+    "blues"
+  ],
+  "questions": [
+    {
+      "id": "ep-041-q01",
+      "text": "Which instrument is Louis Armstrong most famous for playing?",
+      "answers": [
+        "Trombone",
+        "Trumpet",
+        "Clarinet",
+        "Piano"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Music",
+      "explanation": "Armstrong was a famed jazz trumpeter.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q02",
+      "text": "Which city is widely regarded as the birthplace of jazz?",
+      "answers": [
+        "Chicago",
+        "Memphis",
+        "New Orleans",
+        "Detroit"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Music",
+      "explanation": "Jazz emerged in New Orleans in the early 1900s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q03",
+      "text": "B.B. King was a legend of which music genre?",
+      "answers": [
+        "Opera",
+        "Reggae",
+        "Disco",
+        "Blues"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Music",
+      "explanation": "B.B. King was among the great blues guitarists.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q04",
+      "text": "Which group released the 1988 album Straight Outta Compton?",
+      "answers": [
+        "N.W.A",
+        "Run-DMC",
+        "Public Enemy",
+        "Wu-Tang Clan"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Music",
+      "explanation": "N.W.A released Straight Outta Compton in 1988.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q05",
+      "text": "Which New York borough is regarded as the birthplace of hip-hop?",
+      "answers": [
+        "Brooklyn",
+        "The Bronx",
+        "Queens",
+        "Manhattan"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Music",
+      "explanation": "Hip-hop emerged from Bronx block parties in the 1970s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q06",
+      "text": "Which rapper's birth name is Marshall Mathers?",
+      "answers": [
+        "Jay-Z",
+        "Nas",
+        "Eminem",
+        "Ice Cube"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Eminem, born Marshall Bruce Mathers III, took his stage name from his initials M&M.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q07",
+      "text": "In which US state is the Delta blues region centred?",
+      "answers": [
+        "Louisiana",
+        "Tennessee",
+        "Alabama",
+        "Mississippi"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "The Delta blues arose in the Mississippi Delta.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q08",
+      "text": "Which DJ hosted the 1973 Bronx party often called the birth of hip-hop?",
+      "answers": [
+        "DJ Kool Herc",
+        "Grandmaster Flash",
+        "Afrika Bambaataa",
+        "Dr. Dre"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Kool Herc's 1973 party at 1520 Sedgwick Avenue is hailed as hip-hop's birth.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q09",
+      "text": "Which hip-hop trio teamed with Aerosmith on Walk This Way in 1986?",
+      "answers": [
+        "Beastie Boys",
+        "Run-DMC",
+        "Salt-N-Pepa",
+        "EPMD"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Run-DMC's cover helped bring rap to mainstream audiences.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q10",
+      "text": "Which 1959 Miles Davis album is among the best-known jazz records?",
+      "answers": [
+        "A Love Supreme",
+        "Time Out",
+        "Kind of Blue",
+        "Head Hunters"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Kind of Blue was released in 1959.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q11",
+      "text": "Who recorded Cross Road Blues in 1936?",
+      "answers": [
+        "Muddy Waters",
+        "Howlin' Wolf",
+        "Lead Belly",
+        "Robert Johnson"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Music",
+      "explanation": "Robert Johnson recorded Cross Road Blues in 1936.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q12",
+      "text": "Which 1979 single by the Sugarhill Gang was an early rap hit?",
+      "answers": [
+        "Rapper's Delight",
+        "The Message",
+        "Planet Rock",
+        "Fight the Power"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Music",
+      "explanation": "Rapper's Delight reached the charts in 1979.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q13",
+      "text": "Which saxophonist recorded the album A Love Supreme in 1964?",
+      "answers": [
+        "Sonny Rollins",
+        "John Coltrane",
+        "Charlie Parker",
+        "Stan Getz"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Music",
+      "explanation": "Coltrane recorded A Love Supreme in December 1964.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q14",
+      "text": "Which label did Russell Simmons and Rick Rubin found in 1984?",
+      "answers": [
+        "Death Row",
+        "Bad Boy",
+        "Def Jam",
+        "Sugar Hill"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Music",
+      "explanation": "Def Jam Recordings was founded in 1984.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-q15",
+      "text": "Which Chicago label, run by Leonard and Phil Chess, recorded Muddy Waters?",
+      "answers": [
+        "Stax",
+        "Sun Records",
+        "Motown",
+        "Chess Records"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "Music",
+      "explanation": "Chess Records recorded Muddy Waters and Howlin' Wolf.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-041-s1",
+      "text": "Which jazz singer is known as the First Lady of Song?",
+      "answers": [
+        "Ella Fitzgerald",
+        "Sarah Vaughan",
+        "Dinah Washington",
+        "Peggy Lee"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Music",
+      "explanation": "Ella Fitzgerald was dubbed the First Lady of Song.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-s2",
+      "text": "Which saxophonist was nicknamed Bird?",
+      "answers": [
+        "Dizzy Gillespie",
+        "Charlie Parker",
+        "Thelonious Monk",
+        "Lester Young"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Music",
+      "explanation": "Charlie Parker was nicknamed Yardbird, then Bird.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-041-s3",
+      "text": "Who composed Take the A Train, Duke Ellington's theme song?",
+      "answers": [
+        "Count Basie",
+        "Fletcher Henderson",
+        "Billy Strayhorn",
+        "Cab Calloway"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Music",
+      "explanation": "Strayhorn wrote it in 1939 and it became Ellington's signature.",
+      "reviewed": true
+    }
+  ]
+}

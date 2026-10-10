@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-960",
+  "name": "Fixture 960",
+  "episode": 960,
+  "date": "2001-05-04",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "fixture"
+  ],
+  "questions": [
+    {
+      "id": "f10-q1",
+      "text": "Which of these is linked to trees tools number 100 in fixture f?",
+      "answers": [
+        "Option f10-0-A",
+        "Option f10-0-B",
+        "Option f10-0-C",
+        "Option f10-0-D"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f10-0."
+    },
+    {
+      "id": "f10-q2",
+      "text": "Which of these is linked to bridges rivers number 101 in fixture f?",
+      "answers": [
+        "Option f10-1-A",
+        "Option f10-1-B",
+        "Option f10-1-C",
+        "Option f10-1-D"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f10-1."
+    },
+    {
+      "id": "f10-q3",
+      "text": "Which of these is linked to gems cheeses number 102 in fixture f?",
+      "answers": [
+        "Option f10-2-A",
+        "Option f10-2-B",
+        "Option f10-2-C",
+        "Option f10-2-D"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f10-2."
+    },
+    {
+      "id": "f10-q4",
+      "text": "Which of these is linked to dances deserts number 103 in fixture f?",
+      "answers": [
+        "Option f10-3-A",
+        "Option f10-3-B",
+        "Option f10-3-C",
+        "Option f10-3-D"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture f10-3."
+    },
+    {
+      "id": "f10-q5",
+      "text": "Which of these is linked to knots poets number 104 in fixture f?",
+      "answers": [
+        "Option f10-4-A",
+        "Option f10-4-B",
+        "Option f10-4-C",
+        "Option f10-4-D"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture f10-4."
+    },
+    {
+      "id": "f10-q6",
+      "text": "Which of these is linked to lakes gems number 105 in fixture f?",
+      "answers": [
+        "Option f10-5-A",
+        "Option f10-5-B",
+        "Option f10-5-C",
+        "Option f10-5-D"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f10-5."
+    },
+    {
+      "id": "f10-q7",
+      "text": "Which of these is linked to spices lakes number 106 in fixture f?",
+      "answers": [
+        "Option f10-6-A",
+        "Option f10-6-B",
+        "Option f10-6-C",
+        "Option f10-6-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f10-6."
+    },
+    {
+      "id": "f10-q8",
+      "text": "Which of these is linked to tools clouds number 107 in fixture f?",
+      "answers": [
+        "Option f10-7-A",
+        "Option f10-7-B",
+        "Option f10-7-C",
+        "Option f10-7-D"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f10-7."
+    },
+    {
+      "id": "f10-q9",
+      "text": "Which of these is linked to clouds planets number 108 in fixture f?",
+      "answers": [
+        "Option f10-8-A",
+        "Option f10-8-B",
+        "Option f10-8-C",
+        "Option f10-8-D"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f10-8."
+    },
+    {
+      "id": "f10-q10",
+      "text": "Which of these is linked to fabrics composers number 109 in fixture f?",
+      "answers": [
+        "Option f10-9-A",
+        "Option f10-9-B",
+        "Option f10-9-C",
+        "Option f10-9-D"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f10-9."
+    },
+    {
+      "id": "f10-q11",
+      "text": "Which of these is linked to rivers fruits number 1010 in fixture f?",
+      "answers": [
+        "Option f10-10-A",
+        "Option f10-10-B",
+        "Option f10-10-C",
+        "Option f10-10-D"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f10-10."
+    },
+    {
+      "id": "f10-q12",
+      "text": "Which of these is linked to planets trees number 1011 in fixture f?",
+      "answers": [
+        "Option f10-11-A",
+        "Option f10-11-B",
+        "Option f10-11-C",
+        "Option f10-11-D"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f10-11."
+    },
+    {
+      "id": "f10-q13",
+      "text": "Which of these is linked to birds dances number 1012 in fixture f?",
+      "answers": [
+        "Option f10-12-A",
+        "Option f10-12-B",
+        "Option f10-12-C",
+        "Option f10-12-D"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f10-12."
+    },
+    {
+      "id": "f10-q14",
+      "text": "Which of these is linked to cheeses spices number 1013 in fixture f?",
+      "answers": [
+        "Option f10-13-A",
+        "Option f10-13-B",
+        "Option f10-13-C",
+        "Option f10-13-D"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture f10-13."
+    },
+    {
+      "id": "f10-q15",
+      "text": "Which of these is linked to composers fabrics number 1014 in fixture f?",
+      "answers": [
+        "Option f10-14-A",
+        "Option f10-14-B",
+        "Option f10-14-C",
+        "Option f10-14-D"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture f10-14."
+    }
+  ],
+  "spares": [
+    {
+      "id": "s10-q1",
+      "text": "Which of these is linked to trees tools number 100 in fixture s?",
+      "answers": [
+        "Option s10-0-A",
+        "Option s10-0-B",
+        "Option s10-0-C",
+        "Option s10-0-D"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture s10-0."
+    },
+    {
+      "id": "s10-q2",
+      "text": "Which of these is linked to bridges rivers number 101 in fixture s?",
+      "answers": [
+        "Option s10-1-A",
+        "Option s10-1-B",
+        "Option s10-1-C",
+        "Option s10-1-D"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture s10-1."
+    },
+    {
+      "id": "s10-q3",
+      "text": "Which of these is linked to gems cheeses number 102 in fixture s?",
+      "answers": [
+        "Option s10-2-A",
+        "Option s10-2-B",
+        "Option s10-2-C",
+        "Option s10-2-D"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture s10-2."
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-004",
+  "name": "Set 4: Classic Cinema",
+  "episode": 4,
+  "date": "2000-06-15",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "film",
+    "cinema",
+    "classics"
+  ],
+  "questions": [
+    {
+      "id": "ep-004-q01",
+      "text": "In The Wizard of Oz, what colour are the bricks of the road Dorothy follows?",
+      "answers": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Film",
+      "explanation": "The famous road is the Yellow Brick Road.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q02",
+      "text": "Which cartoon rabbit asks, \"What's up, Doc?\"",
+      "answers": [
+        "Daffy Duck",
+        "Bugs Bunny",
+        "Porky Pig",
+        "Elmer Fudd"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Film",
+      "explanation": "Bugs Bunny's catchphrase is \"What's up, Doc?\"",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q03",
+      "text": "Who directed the 1960 thriller Psycho?",
+      "answers": [
+        "Stanley Kubrick",
+        "Orson Welles",
+        "Alfred Hitchcock",
+        "Steven Spielberg"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Film",
+      "explanation": "Hitchcock directed Psycho.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q04",
+      "text": "Which 1942 film features the line \"Here's looking at you, kid\"?",
+      "answers": [
+        "Gone with the Wind",
+        "Citizen Kane",
+        "The Maltese Falcon",
+        "Casablanca"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Film",
+      "explanation": "Humphrey Bogart says it in Casablanca.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q05",
+      "text": "Which actress played Holly Golightly in Breakfast at Tiffany's?",
+      "answers": [
+        "Audrey Hepburn",
+        "Grace Kelly",
+        "Marilyn Monroe",
+        "Elizabeth Taylor"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Film",
+      "explanation": "Hepburn starred in the 1961 film.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q06",
+      "text": "Which 1941 Orson Welles film begins and ends with the mystery of \"Rosebud\"?",
+      "answers": [
+        "The Third Man",
+        "Citizen Kane",
+        "Rebecca",
+        "Sunset Boulevard"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Film",
+      "explanation": "Kane's dying word drives the plot.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q07",
+      "text": "Who directed 2001: A Space Odyssey?",
+      "answers": [
+        "Ridley Scott",
+        "George Lucas",
+        "Stanley Kubrick",
+        "Steven Spielberg"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Film",
+      "explanation": "Kubrick directed the 1968 film.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q08",
+      "text": "Which actor played Vito Corleone in The Godfather (1972)?",
+      "answers": [
+        "Al Pacino",
+        "Robert De Niro",
+        "James Caan",
+        "Marlon Brando"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Film",
+      "explanation": "Brando won the Best Actor Oscar for the role.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q09",
+      "text": "Which 1952 musical features Gene Kelly's joyous dance with an umbrella in a downpour?",
+      "answers": [
+        "Singin' in the Rain",
+        "An American in Paris",
+        "On the Town",
+        "Top Hat"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Film",
+      "explanation": "Gene Kelly starred in and co-directed Singin' in the Rain.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q10",
+      "text": "Who played Scarlett O'Hara in Gone with the Wind?",
+      "answers": [
+        "Bette Davis",
+        "Vivien Leigh",
+        "Olivia de Havilland",
+        "Katharine Hepburn"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Film",
+      "explanation": "Leigh won an Oscar for the 1939 role.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q11",
+      "text": "Which Italian director made La Dolce Vita (1960)?",
+      "answers": [
+        "Luchino Visconti",
+        "Michelangelo Antonioni",
+        "Federico Fellini",
+        "Vittorio De Sica"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Film",
+      "explanation": "Fellini directed La Dolce Vita.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q12",
+      "text": "Which Japanese director made Seven Samurai (1954)?",
+      "answers": [
+        "Yasujiro Ozu",
+        "Kenji Mizoguchi",
+        "Takashi Miike",
+        "Akira Kurosawa"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Film",
+      "explanation": "Kurosawa directed Seven Samurai.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q13",
+      "text": "Who composed the famous screeching-strings score for Psycho?",
+      "answers": [
+        "Bernard Herrmann",
+        "John Williams",
+        "Henry Mancini",
+        "Ennio Morricone"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Film",
+      "explanation": "Herrmann scored Psycho using only string instruments.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q14",
+      "text": "Which 1927 Warner Bros. film is credited with launching the sound era in feature films?",
+      "answers": [
+        "Wings",
+        "The Jazz Singer",
+        "Metropolis",
+        "Sunrise"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "Film",
+      "explanation": "The Jazz Singer combined synchronized songs and some spoken dialogue.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-q15",
+      "text": "Which director made the 1927 silent science-fiction epic Metropolis?",
+      "answers": [
+        "F. W. Murnau",
+        "Robert Wiene",
+        "Fritz Lang",
+        "G. W. Pabst"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Film",
+      "explanation": "Fritz Lang directed Metropolis.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-004-s1",
+      "text": "In the 1933 film King Kong, which New York building does Kong climb?",
+      "answers": [
+        "Chrysler Building",
+        "Woolworth Building",
+        "Empire State Building",
+        "Flatiron Building"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Film",
+      "explanation": "Kong's final stand is atop the Empire State Building.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-s2",
+      "text": "Who played Dorothy in The Wizard of Oz (1939)?",
+      "answers": [
+        "Shirley Temple",
+        "Deanna Durbin",
+        "Mickey Rooney",
+        "Judy Garland"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Film",
+      "explanation": "Judy Garland starred as Dorothy.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-004-s3",
+      "text": "Which Hitchcock film follows a photographer spying on neighbours across a courtyard?",
+      "answers": [
+        "Rear Window",
+        "Vertigo",
+        "Rope",
+        "North by Northwest"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Film",
+      "explanation": "James Stewart plays the housebound photographer in Rear Window.",
+      "reviewed": true
+    }
+  ]
+}

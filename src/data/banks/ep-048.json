@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-048",
+  "name": "Set 48: Botany & Agriculture",
+  "episode": 48,
+  "date": "2019-03-08",
+  "edition": "AU",
+  "provenance": "episode-style",
+  "tags": [
+    "nature",
+    "plants",
+    "farming"
+  ],
+  "questions": [
+    {
+      "id": "ep-048-q01",
+      "text": "Which vegetable is famous for making people cry when chopped?",
+      "answers": [
+        "Carrot",
+        "Potato",
+        "Onion",
+        "Celery"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "Onions release a gas that irritates the eyes.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q02",
+      "text": "Which fruit is said to keep the doctor away if eaten daily?",
+      "answers": [
+        "Banana",
+        "Grape",
+        "Pear",
+        "Apple"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "The proverb is \"an apple a day keeps the doctor away\".",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q03",
+      "text": "Natural vanilla flavouring comes from the seed pods of which type of plant?",
+      "answers": [
+        "Orchid",
+        "Palm",
+        "Fern",
+        "Grass"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "Vanilla comes from the cured pods of climbing orchids of the genus Vanilla.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q04",
+      "text": "Besides sugar cane, which root crop is a major source of the world's sugar?",
+      "answers": [
+        "Turnip",
+        "Sugar beet",
+        "Parsnip",
+        "Radish"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "Sugar is extracted commercially from sugar beet.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q05",
+      "text": "Which cereal crop is traditionally grown in flooded paddies?",
+      "answers": [
+        "Wheat",
+        "Barley",
+        "Rice",
+        "Maize"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "Rice is grown in flooded paddy fields across much of Asia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q06",
+      "text": "What is the green pigment in plants called?",
+      "answers": [
+        "Carotene",
+        "Xanthophyll",
+        "Anthocyanin",
+        "Chlorophyll"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Chlorophyll absorbs light for photosynthesis.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q07",
+      "text": "Which plant is the source of the fibre used to make linen?",
+      "answers": [
+        "Flax",
+        "Cotton",
+        "Jute",
+        "Sisal"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Linen is woven from fibres of the flax plant.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q08",
+      "text": "Which tree produces acorns?",
+      "answers": [
+        "Beech",
+        "Oak",
+        "Chestnut",
+        "Elm"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Acorns are the fruit of oak trees.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q09",
+      "text": "Which spice comes from the dried stigmas of a type of crocus?",
+      "answers": [
+        "Turmeric",
+        "Paprika",
+        "Saffron",
+        "Cardamom"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Saffron threads are the stigmas of Crocus sativus.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q10",
+      "text": "Which farming practice alternates different crops on the same land through the seasons?",
+      "answers": [
+        "Monoculture",
+        "Terracing",
+        "Irrigation",
+        "Crop rotation"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Crop rotation helps preserve soil fertility.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q11",
+      "text": "What is the genus name of the cacao tree, meaning \"food of the gods\"?",
+      "answers": [
+        "Theobroma",
+        "Coffea",
+        "Camellia",
+        "Hevea"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "Theobroma cacao is the source of chocolate.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q12",
+      "text": "Which plant did Gregor Mendel use for his famous inheritance experiments?",
+      "answers": [
+        "Sweet corn",
+        "Pea plant",
+        "Sunflower",
+        "Tobacco"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "Mendel crossed pea plants in his monastery garden.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q13",
+      "text": "Which tree bark is the source of quinine, used against malaria?",
+      "answers": [
+        "Eucalyptus",
+        "Willow",
+        "Cinchona",
+        "Yew"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "Quinine is extracted from cinchona bark.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q14",
+      "text": "Which agronomist led the wheat breeding of the Green Revolution and won the 1970 Nobel Peace Prize?",
+      "answers": [
+        "M. S. Swaminathan",
+        "Fritz Haber",
+        "Justus von Liebig",
+        "Norman Borlaug"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "Borlaug developed high-yield, disease-resistant wheat.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-q15",
+      "text": "Which fruit depends on a species-specific tiny wasp for pollination?",
+      "answers": [
+        "Fig",
+        "Date",
+        "Olive",
+        "Lychee"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "Fig wasps enter the fig's small opening to pollinate it.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-048-s1",
+      "text": "Which vegetable does Bugs Bunny famously munch?",
+      "answers": [
+        "Cabbage",
+        "Lettuce",
+        "Radish",
+        "Carrot"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "Bugs Bunny is rarely seen without a carrot.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-s2",
+      "text": "Which plant family includes sunflowers, daisies and lettuce?",
+      "answers": [
+        "Asteraceae",
+        "Rosaceae",
+        "Fabaceae",
+        "Poaceae"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "These all belong to the daisy family, Asteraceae.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-048-s3",
+      "text": "Which 18th-century Swedish botanist formalised the binomial naming system for species?",
+      "answers": [
+        "Charles Darwin",
+        "Carl Linnaeus",
+        "Joseph Banks",
+        "Joseph Hooker"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "Linnaeus popularised two-part Latin names for species.",
+      "reviewed": true
+    }
+  ]
+}

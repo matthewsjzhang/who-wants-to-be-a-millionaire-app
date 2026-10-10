@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-001",
+  "name": "Set 1: World Geography",
+  "episode": 1,
+  "date": "1999-09-01",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "geography",
+    "world"
+  ],
+  "questions": [
+    {
+      "id": "ep-001-q01",
+      "text": "Which country is famous for being shaped like a boot on the map?",
+      "answers": [
+        "Spain",
+        "Italy",
+        "Greece",
+        "Portugal"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Geography",
+      "explanation": "Italy's peninsula is widely likened to a boot kicking Sicily.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q02",
+      "text": "Which ocean shares its name with a large South Asian country?",
+      "answers": [
+        "Atlantic",
+        "Pacific",
+        "Indian",
+        "Arctic"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Geography",
+      "explanation": "The Indian Ocean is named after India.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q03",
+      "text": "What is the capital city of Canada?",
+      "answers": [
+        "Toronto",
+        "Montreal",
+        "Vancouver",
+        "Ottawa"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Geography",
+      "explanation": "Queen Victoria chose Ottawa as the capital in 1857, before confederation.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q04",
+      "text": "Which is the longest river in South America?",
+      "answers": [
+        "Amazon",
+        "Orinoco",
+        "Paraná",
+        "Magdalena"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Geography",
+      "explanation": "The Amazon is far longer than any other South American river.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q05",
+      "text": "Mount Kilimanjaro, Africa's highest peak, is in which country?",
+      "answers": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Ethiopia"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Geography",
+      "explanation": "Kilimanjaro rises in northeastern Tanzania near the Kenyan border.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q06",
+      "text": "What is the capital city of Australia?",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "Canberra was purpose-built as the national capital.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q07",
+      "text": "Which strait separates Spain from Morocco at the western end of the Mediterranean?",
+      "answers": [
+        "Bosphorus",
+        "Strait of Hormuz",
+        "Strait of Dover",
+        "Strait of Gibraltar"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "The Strait of Gibraltar links the Mediterranean and the Atlantic.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q08",
+      "text": "Which African country was formerly known to Europeans as Abyssinia?",
+      "answers": [
+        "Ethiopia",
+        "Eritrea",
+        "Somalia",
+        "Sudan"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "Abyssinia was the historical European name for Ethiopia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q09",
+      "text": "Lake Titicaca lies on the border of Peru and which other country?",
+      "answers": [
+        "Chile",
+        "Bolivia",
+        "Ecuador",
+        "Paraguay"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "Lake Titicaca is shared by Peru and Bolivia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q10",
+      "text": "Which desert stretches across southern Mongolia and northern China?",
+      "answers": [
+        "Thar",
+        "Kalahari",
+        "Gobi",
+        "Atacama"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "The Gobi is a vast cold desert in East Asia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q11",
+      "text": "What is the capital city of Turkey?",
+      "answers": [
+        "Istanbul",
+        "Izmir",
+        "Bursa",
+        "Ankara"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Geography",
+      "explanation": "Ankara replaced Istanbul as capital in 1923.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q12",
+      "text": "Which river flows through the city of Baghdad?",
+      "answers": [
+        "Tigris",
+        "Euphrates",
+        "Jordan",
+        "Nile"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Geography",
+      "explanation": "Baghdad lies on the banks of the Tigris.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q13",
+      "text": "Which is the smallest independent country in the world by area?",
+      "answers": [
+        "Monaco",
+        "Vatican City",
+        "San Marino",
+        "Liechtenstein"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Geography",
+      "explanation": "Vatican City covers only about 0.44 square kilometres.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q14",
+      "text": "Which is the deepest lake in the world?",
+      "answers": [
+        "Lake Tanganyika",
+        "Lake Superior",
+        "Lake Baikal",
+        "Lake Victoria"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Geography",
+      "explanation": "Siberia's Lake Baikal reaches roughly 1,640 metres deep.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-q15",
+      "text": "The Strait of Malacca separates the Malay Peninsula from which large island?",
+      "answers": [
+        "Borneo",
+        "Java",
+        "Sulawesi",
+        "Sumatra"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "Geography",
+      "explanation": "Sumatra lies across the Strait of Malacca from Malaysia.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-001-s1",
+      "text": "On which continent is the Sahara desert found?",
+      "answers": [
+        "Asia",
+        "South America",
+        "Australia",
+        "Africa"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Geography",
+      "explanation": "The Sahara covers much of northern Africa.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-s2",
+      "text": "What is the capital city of New Zealand?",
+      "answers": [
+        "Wellington",
+        "Auckland",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "Wellington sits at the southern tip of the North Island.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-001-s3",
+      "text": "Timbuktu, the historic trading city, is in which country?",
+      "answers": [
+        "Niger",
+        "Mali",
+        "Chad",
+        "Mauritania"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Geography",
+      "explanation": "Timbuktu lies near the Niger River in Mali.",
+      "reviewed": true
+    }
+  ]
+}

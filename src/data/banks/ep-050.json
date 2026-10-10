@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-050",
+  "name": "Set 50: Movie Franchises",
+  "episode": 50,
+  "date": "2020-04-17",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "film",
+    "franchises",
+    "pop culture"
+  ],
+  "questions": [
+    {
+      "id": "ep-050-q01",
+      "text": "In \"Toy Story\", what kind of toy is Woody?",
+      "answers": [
+        "Cowboy",
+        "Astronaut",
+        "Dinosaur",
+        "Soldier"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "Woody is a pull-string cowboy doll.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q02",
+      "text": "In \"Shrek\", what kind of creature is the title character?",
+      "answers": [
+        "Troll",
+        "Ogre",
+        "Goblin",
+        "Giant"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "Shrek is a green ogre living in a swamp.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q03",
+      "text": "Which wizarding school does Harry Potter attend?",
+      "answers": [
+        "Beauxbatons",
+        "Durmstrang",
+        "Hogwarts",
+        "Ilvermorny"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "Harry studies at Hogwarts School of Witchcraft and Wizardry.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q04",
+      "text": "In \"The Empire Strikes Back\", who reveals he is Luke Skywalker's father?",
+      "answers": [
+        "Obi-Wan Kenobi",
+        "Han Solo",
+        "Emperor Palpatine",
+        "Darth Vader"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "Vader tells Luke \"I am your father\".",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q05",
+      "text": "Which action franchise features the line \"I'll be back\"?",
+      "answers": [
+        "The Terminator",
+        "Predator",
+        "RoboCop",
+        "Die Hard"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "Arnold Schwarzenegger's Terminator delivers the line.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q06",
+      "text": "Which actor played Indiana Jones in the original trilogy?",
+      "answers": [
+        "Tom Selleck",
+        "Harrison Ford",
+        "Kurt Russell",
+        "Sean Connery"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Harrison Ford starred from 1981 onwards.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q07",
+      "text": "In Peter Jackson's \"Lord of the Rings\" films, who plays Gandalf?",
+      "answers": [
+        "Christopher Lee",
+        "Ian Holm",
+        "Ian McKellen",
+        "Patrick Stewart"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Ian McKellen played Gandalf the Grey and the White.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q08",
+      "text": "What is the name of the fictional African nation in 2018's \"Black Panther\"?",
+      "answers": [
+        "Zamunda",
+        "Genovia",
+        "Latveria",
+        "Wakanda"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Wakanda is the home of T'Challa.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q09",
+      "text": "Which 1975 Steven Spielberg film is often credited with starting the summer blockbuster?",
+      "answers": [
+        "Jaws",
+        "Close Encounters of the Third Kind",
+        "Duel",
+        "E.T."
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Jaws opened wide in June 1975 and broke box-office records.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q10",
+      "text": "In \"The Matrix\", which colour pill does Neo take to learn the truth?",
+      "answers": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Neo takes the red pill offered by Morpheus.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q11",
+      "text": "Which director made the \"Dollars Trilogy\" starring Clint Eastwood?",
+      "answers": [
+        "Don Siegel",
+        "Sam Peckinpah",
+        "Sergio Leone",
+        "Sergio Corbucci"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "Leone directed A Fistful of Dollars and its two sequels.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q12",
+      "text": "What is the name of the spaceship in the original \"Alien\" (1979)?",
+      "answers": [
+        "Sulaco",
+        "Prometheus",
+        "Auriga",
+        "Nostromo"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Ripley and her crew serve aboard the commercial towing vessel Nostromo.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q13",
+      "text": "Which actor played the young Vito Corleone in \"The Godfather Part II\"?",
+      "answers": [
+        "Robert De Niro",
+        "Al Pacino",
+        "James Caan",
+        "John Cazale"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "De Niro won an Oscar for the role.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q14",
+      "text": "Which 1982 Ridley Scott film is based on a Philip K. Dick novel?",
+      "answers": [
+        "Total Recall",
+        "Blade Runner",
+        "Tron",
+        "Brazil"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "Blade Runner adapts \"Do Androids Dream of Electric Sheep?\".",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-q15",
+      "text": "Which composer wrote the shrieking-strings score for Hitchcock's \"Psycho\"?",
+      "answers": [
+        "John Williams",
+        "Henry Mancini",
+        "Bernard Herrmann",
+        "Ennio Morricone"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "Herrmann composed the famous Psycho score in 1960.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-050-s1",
+      "text": "Which Disney film features the song \"Let It Go\"?",
+      "answers": [
+        "Moana",
+        "Frozen",
+        "Tangled",
+        "Brave"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "\"Let It Go\" is sung by Elsa in Frozen.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-s2",
+      "text": "Which actor plays Captain Jack Sparrow in \"Pirates of the Caribbean\"?",
+      "answers": [
+        "Orlando Bloom",
+        "Geoffrey Rush",
+        "Johnny Depp",
+        "Hugh Jackman"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Depp played Sparrow throughout the original films.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-050-s3",
+      "text": "Which director made \"Apocalypse Now\" (1979), inspired by \"Heart of Darkness\"?",
+      "answers": [
+        "Oliver Stone",
+        "Stanley Kubrick",
+        "Michael Cimino",
+        "Francis Ford Coppola"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "Coppola transposed Conrad's story to the Vietnam War.",
+      "reviewed": true
+    }
+  ]
+}

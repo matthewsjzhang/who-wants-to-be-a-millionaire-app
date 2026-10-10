@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-021",
+  "name": "Set 21: Doctors & Discoverers",
+  "episode": 21,
+  "date": "2006-11-15",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "medicine",
+    "science",
+    "scientists"
+  ],
+  "questions": [
+    {
+      "id": "ep-021-q01",
+      "text": "According to the proverb, which fruit a day keeps the doctor away?",
+      "answers": [
+        "An orange",
+        "An apple",
+        "A banana",
+        "A pear"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Science & Medicine",
+      "explanation": "The proverb is 'an apple a day keeps the doctor away'.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q02",
+      "text": "Which scientist is famous for the equation E = mc squared?",
+      "answers": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Charles Darwin",
+        "Galileo Galilei"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Science & Medicine",
+      "explanation": "Einstein's equation expresses mass-energy equivalence.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q03",
+      "text": "Which common childhood illness causes an itchy rash of fluid-filled blisters?",
+      "answers": [
+        "Mumps",
+        "Tonsillitis",
+        "Rickets",
+        "Chickenpox"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Science & Medicine",
+      "explanation": "Chickenpox, caused by the varicella-zoster virus, produces itchy blisters.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q04",
+      "text": "Which scientist wrote On the Origin of Species?",
+      "answers": [
+        "Gregor Mendel",
+        "Thomas Huxley",
+        "Charles Darwin",
+        "Charles Lyell"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Science & Medicine",
+      "explanation": "Darwin published the book in 1859.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q05",
+      "text": "Which bone is the longest in the human body?",
+      "answers": [
+        "Tibia",
+        "Femur",
+        "Humerus",
+        "Fibula"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Science & Medicine",
+      "explanation": "The femur, or thigh bone, is the longest and strongest bone.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q06",
+      "text": "Who developed the first successful smallpox vaccine in 1796?",
+      "answers": [
+        "Edward Jenner",
+        "Louis Pasteur",
+        "Jonas Salk",
+        "Alexander Fleming"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Science & Medicine",
+      "explanation": "Jenner used cowpox material to protect against smallpox.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q07",
+      "text": "Marie Curie won Nobel Prizes in which two fields?",
+      "answers": [
+        "Chemistry and Medicine",
+        "Physics and Peace",
+        "Medicine and Physics",
+        "Physics and Chemistry"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Science & Medicine",
+      "explanation": "She won Physics in 1903 and Chemistry in 1911.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q08",
+      "text": "Which blood type is known as the universal red-cell donor?",
+      "answers": [
+        "AB positive",
+        "A negative",
+        "O negative",
+        "B positive"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Science & Medicine",
+      "explanation": "O negative red cells can be given to patients of any blood type.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q09",
+      "text": "What instrument did Rene Laennec invent in 1816?",
+      "answers": [
+        "Thermometer",
+        "Stethoscope",
+        "Microscope",
+        "Otoscope"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Science & Medicine",
+      "explanation": "Laennec rolled up paper to listen to a patient's chest, inventing the stethoscope.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q10",
+      "text": "Which scientist is known as the father of genetics for his pea plant experiments?",
+      "answers": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Francis Crick",
+        "Thomas Hunt Morgan"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Science & Medicine",
+      "explanation": "Mendel's experiments revealed the basic laws of inheritance.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q11",
+      "text": "Which ancient Greek physician is associated with a famous oath of medical ethics?",
+      "answers": [
+        "Galen",
+        "Avicenna",
+        "Paracelsus",
+        "Hippocrates"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Science & Medicine",
+      "explanation": "The Hippocratic Oath is named after Hippocrates.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q12",
+      "text": "Who described the circulation of the blood in a book published in 1628?",
+      "answers": [
+        "Andreas Vesalius",
+        "Galen",
+        "William Harvey",
+        "Robert Hooke"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Science & Medicine",
+      "explanation": "Harvey showed that the heart pumps blood around the body in a circuit.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q13",
+      "text": "Who developed the first successful polio vaccine, announced in 1955?",
+      "answers": [
+        "Albert Sabin",
+        "Jonas Salk",
+        "Louis Pasteur",
+        "Robert Koch"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Science & Medicine",
+      "explanation": "Salk's inactivated vaccine was declared safe and effective in 1955.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q14",
+      "text": "Which German scientist identified the bacterium that causes tuberculosis in 1882?",
+      "answers": [
+        "Robert Koch",
+        "Louis Pasteur",
+        "Paul Ehrlich",
+        "Emil von Behring"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "Science & Medicine",
+      "explanation": "Koch announced the discovery of Mycobacterium tuberculosis in 1882.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-q15",
+      "text": "Which Hungarian physician showed that handwashing cut deaths from childbed fever in 1840s Vienna?",
+      "answers": [
+        "Joseph Lister",
+        "John Snow",
+        "Franz Mesmer",
+        "Ignaz Semmelweis"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "Science & Medicine",
+      "explanation": "Semmelweis's chlorine handwashing rule sharply lowered maternal deaths.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-021-s1",
+      "text": "What is a doctor who specialises in treating children called?",
+      "answers": [
+        "Cardiologist",
+        "Dermatologist",
+        "Neurologist",
+        "Paediatrician"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Science & Medicine",
+      "explanation": "Paediatricians are doctors who care for babies, children and teenagers.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-s2",
+      "text": "A lack of which vitamin causes scurvy?",
+      "answers": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin B12"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Science & Medicine",
+      "explanation": "Scurvy results from a prolonged lack of vitamin C.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-021-s3",
+      "text": "Which physicist discovered X-rays in 1895?",
+      "answers": [
+        "Henri Becquerel",
+        "Wilhelm Rontgen",
+        "Marie Curie",
+        "J. J. Thomson"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Science & Medicine",
+      "explanation": "Rontgen received the first Nobel Prize in Physics for the discovery.",
+      "reviewed": true
+    }
+  ]
+}

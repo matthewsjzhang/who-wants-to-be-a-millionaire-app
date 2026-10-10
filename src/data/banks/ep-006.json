@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-006",
+  "name": "Set 6: Space & Astronomy",
+  "episode": 6,
+  "date": "2000-12-15",
+  "edition": "UK",
+  "provenance": "episode-style",
+  "tags": [
+    "space",
+    "astronomy",
+    "science"
+  ],
+  "questions": [
+    {
+      "id": "ep-006-q01",
+      "text": "Which planet shares its name with a famous chocolate bar and is known as the Red Planet?",
+      "answers": [
+        "Venus",
+        "Jupiter",
+        "Mars",
+        "Mercury"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Science",
+      "explanation": "Mars looks red due to iron oxide on its surface.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q02",
+      "text": "What is the name of the galaxy that contains our solar system?",
+      "answers": [
+        "Andromeda",
+        "Whirlpool",
+        "Sombrero",
+        "Milky Way"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Science",
+      "explanation": "Earth is in the Milky Way galaxy.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q03",
+      "text": "Who was the first person to walk on the Moon?",
+      "answers": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "John Glenn"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Science",
+      "explanation": "Armstrong stepped onto the Moon on 20 July 1969.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q04",
+      "text": "Which planet is most famous for its spectacular system of rings?",
+      "answers": [
+        "Mars",
+        "Saturn",
+        "Venus",
+        "Mercury"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Science",
+      "explanation": "Saturn's rings are the most extensive and visible.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q05",
+      "text": "What is the closest star to Earth?",
+      "answers": [
+        "Proxima Centauri",
+        "Sirius",
+        "The Sun",
+        "Polaris"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Science",
+      "explanation": "The Sun is about 150 million kilometres away.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q06",
+      "text": "Which planet in our solar system is the hottest?",
+      "answers": [
+        "Mercury",
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Venus's thick atmosphere traps heat, making it hotter than Mercury.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q07",
+      "text": "Who was the first human to travel into space, in 1961?",
+      "answers": [
+        "Yuri Gagarin",
+        "Alan Shepard",
+        "Valentina Tereshkova",
+        "Gherman Titov"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Gagarin orbited Earth aboard Vostok 1.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q08",
+      "text": "What was the name of the Apollo 11 lunar module?",
+      "answers": [
+        "Columbia",
+        "Eagle",
+        "Odyssey",
+        "Challenger"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "The lunar module Eagle landed in the Sea of Tranquility.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q09",
+      "text": "Which Italian scientist first observed the four largest moons of Jupiter in 1610?",
+      "answers": [
+        "Nicolaus Copernicus",
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Isaac Newton"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Galileo discovered Io, Europa, Ganymede and Callisto.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q10",
+      "text": "Which is the largest planet in the solar system?",
+      "answers": [
+        "Saturn",
+        "Neptune",
+        "Uranus",
+        "Jupiter"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Jupiter is more massive than all other planets combined.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q11",
+      "text": "What is the largest moon of Saturn?",
+      "answers": [
+        "Titan",
+        "Europa",
+        "Ganymede",
+        "Triton"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Science",
+      "explanation": "Titan is Saturn's largest moon and has a thick atmosphere.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q12",
+      "text": "Which comet returns to the inner solar system roughly every 76 years?",
+      "answers": [
+        "Hale-Bopp",
+        "Halley's Comet",
+        "Comet Encke",
+        "Shoemaker-Levy 9"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Science",
+      "explanation": "Halley's Comet last appeared in 1986.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q13",
+      "text": "What was the name of the first artificial satellite, launched in 1957?",
+      "answers": [
+        "Explorer 1",
+        "Vostok 1",
+        "Sputnik 1",
+        "Telstar"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Science",
+      "explanation": "The USSR launched Sputnik 1 in October 1957.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q14",
+      "text": "Which astronomer formulated three laws of planetary motion?",
+      "answers": [
+        "Tycho Brahe",
+        "Galileo Galilei",
+        "Nicolaus Copernicus",
+        "Johannes Kepler"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "Science",
+      "explanation": "Kepler showed planets move in elliptical orbits.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-q15",
+      "text": "What is the name of the boundary around a black hole beyond which nothing can escape?",
+      "answers": [
+        "Event horizon",
+        "Accretion disk",
+        "Photon sphere",
+        "Ergosphere"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "Science",
+      "explanation": "Nothing crossing the event horizon can return.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-006-s1",
+      "text": "What force keeps the planets in orbit around the Sun?",
+      "answers": [
+        "Gravity",
+        "Magnetism",
+        "Friction",
+        "Inertia"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Science",
+      "explanation": "The Sun's gravity holds the planets in orbit.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-s2",
+      "text": "Who was the first American to orbit the Earth?",
+      "answers": [
+        "Alan Shepard",
+        "John Glenn",
+        "Neil Armstrong",
+        "Gus Grissom"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Science",
+      "explanation": "Glenn orbited in Friendship 7 in 1962.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-006-s3",
+      "text": "Which mission first carried humans around the Moon, in December 1968?",
+      "answers": [
+        "Apollo 7",
+        "Apollo 10",
+        "Apollo 8",
+        "Apollo 11"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Science",
+      "explanation": "Apollo 8 orbited the Moon ten times.",
+      "reviewed": true
+    }
+  ]
+}

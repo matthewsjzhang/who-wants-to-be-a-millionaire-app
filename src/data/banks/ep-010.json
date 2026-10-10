@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-010",
+  "name": "Set 10: US history & presidents",
+  "episode": 10,
+  "date": "2003-06-06",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "history",
+    "us",
+    "presidents"
+  ],
+  "questions": [
+    {
+      "id": "ep-010-q01",
+      "text": "Which US president's face appears on the penny?",
+      "answers": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson",
+        "Ulysses S. Grant"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "US history & presidents",
+      "explanation": "Lincoln has appeared on the one-cent coin since 1909.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q02",
+      "text": "In which city is the White House, the president's official residence?",
+      "answers": [
+        "Philadelphia",
+        "New York City",
+        "Washington, D.C.",
+        "Boston"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "US history & presidents",
+      "explanation": "The White House stands at 1600 Pennsylvania Avenue in Washington, D.C.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q03",
+      "text": "Who was the first President of the United States?",
+      "answers": [
+        "John Adams",
+        "George Washington",
+        "Thomas Jefferson",
+        "Benjamin Franklin"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "US history & presidents",
+      "explanation": "Washington took office in 1789 after the Constitution was ratified.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q04",
+      "text": "The Declaration of Independence was adopted in which year?",
+      "answers": [
+        "1789",
+        "1765",
+        "1783",
+        "1776"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "US history & presidents",
+      "explanation": "Congress adopted the Declaration on July 4, 1776.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q05",
+      "text": "Robert E. Lee surrendered at Appomattox Court House, effectively ending which war?",
+      "answers": [
+        "The Revolutionary War",
+        "The War of 1812",
+        "The American Civil War",
+        "The Mexican-American War"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "US history & presidents",
+      "explanation": "Lee surrendered to Ulysses S. Grant in April 1865.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q06",
+      "text": "In 1803, the United States bought the Louisiana Territory from which country?",
+      "answers": [
+        "France",
+        "Spain",
+        "Britain",
+        "Mexico"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "US history & presidents",
+      "explanation": "Napoleon's France sold the territory to Jefferson's government.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q07",
+      "text": "Which president was elected to four terms in office?",
+      "answers": [
+        "Theodore Roosevelt",
+        "Woodrow Wilson",
+        "Harry S. Truman",
+        "Franklin D. Roosevelt"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "US history & presidents",
+      "explanation": "FDR won elections in 1932, 1936, 1940 and 1944.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q08",
+      "text": "Which president resigned from office in August 1974?",
+      "answers": [
+        "Gerald Ford",
+        "Richard Nixon",
+        "Lyndon B. Johnson",
+        "Jimmy Carter"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "US history & presidents",
+      "explanation": "Nixon resigned during the Watergate scandal.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q09",
+      "text": "Abraham Lincoln's Emancipation Proclamation took effect in which year?",
+      "answers": [
+        "1863",
+        "1861",
+        "1865",
+        "1859"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "US history & presidents",
+      "explanation": "It was issued as a war measure effective January 1, 1863.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q10",
+      "text": "Who was the first president to live in the White House?",
+      "answers": [
+        "Thomas Jefferson",
+        "George Washington",
+        "John Adams",
+        "James Madison"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "US history & presidents",
+      "explanation": "Adams moved into the unfinished building in November 1800.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q11",
+      "text": "Alaska was purchased from Russia in 1867 during the presidency of whom?",
+      "answers": [
+        "Ulysses S. Grant",
+        "Abraham Lincoln",
+        "James Buchanan",
+        "Andrew Johnson"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "US history & presidents",
+      "explanation": "Secretary of State William Seward negotiated the deal for President Johnson.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q12",
+      "text": "Which 1803 Supreme Court case established the principle of judicial review?",
+      "answers": [
+        "McCulloch v. Maryland",
+        "Marbury v. Madison",
+        "Dred Scott v. Sandford",
+        "Gibbons v. Ogden"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "US history & presidents",
+      "explanation": "Chief Justice John Marshall ruled in Marbury v. Madison.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q13",
+      "text": "Which constitutional amendment abolished slavery?",
+      "answers": [
+        "The 14th",
+        "The 15th",
+        "The 13th",
+        "The 19th"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "US history & presidents",
+      "explanation": "The 13th Amendment was ratified in December 1865.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q14",
+      "text": "Which US president served the shortest term in office, dying 31 days after his 1841 inauguration?",
+      "answers": [
+        "William Henry Harrison",
+        "Zachary Taylor",
+        "James A. Garfield",
+        "Warren G. Harding"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "US history & presidents",
+      "explanation": "William Henry Harrison died of illness in April 1841, 31 days into his term.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-q15",
+      "text": "Which was the last of the original thirteen states to ratify the Constitution?",
+      "answers": [
+        "North Carolina",
+        "New Hampshire",
+        "Georgia",
+        "Rhode Island"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "US history & presidents",
+      "explanation": "Rhode Island ratified in May 1790.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-010-s1",
+      "text": "Which Founding Father appears on the US $100 bill?",
+      "answers": [
+        "Alexander Hamilton",
+        "Benjamin Franklin",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "US history & presidents",
+      "explanation": "Franklin is on the $100 note.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-s2",
+      "text": "Which president was assassinated in 1881?",
+      "answers": [
+        "William McKinley",
+        "Rutherford B. Hayes",
+        "Chester A. Arthur",
+        "James A. Garfield"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "US history & presidents",
+      "explanation": "Garfield was shot in July 1881 and died that September.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-010-s3",
+      "text": "Who was Thomas Jefferson's vice president during his second term?",
+      "answers": [
+        "George Clinton",
+        "Aaron Burr",
+        "John Adams",
+        "Elbridge Gerry"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "US history & presidents",
+      "explanation": "Burr served the first term; Clinton served the second.",
+      "reviewed": true
+    }
+  ]
+}

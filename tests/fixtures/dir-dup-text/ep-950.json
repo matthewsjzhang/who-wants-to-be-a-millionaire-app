@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-950",
+  "name": "Fixture 950",
+  "episode": 950,
+  "date": "2001-05-04",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "fixture"
+  ],
+  "questions": [
+    {
+      "id": "f8-q1",
+      "text": "Which of these is linked to islands lakes number 80 in fixture f?",
+      "answers": [
+        "Option f8-0-A",
+        "Option f8-0-B",
+        "Option f8-0-C",
+        "Option f8-0-D"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f8-0."
+    },
+    {
+      "id": "f8-q2",
+      "text": "Which of these is linked to poets clouds number 81 in fixture f?",
+      "answers": [
+        "Option f8-1-A",
+        "Option f8-1-B",
+        "Option f8-1-C",
+        "Option f8-1-D"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f8-1."
+    },
+    {
+      "id": "f8-q3",
+      "text": "Which of these is linked to trees planets number 82 in fixture f?",
+      "answers": [
+        "Option f8-2-A",
+        "Option f8-2-B",
+        "Option f8-2-C",
+        "Option f8-2-D"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture f8-2."
+    },
+    {
+      "id": "f8-q4",
+      "text": "Which of these is linked to bridges composers number 83 in fixture f?",
+      "answers": [
+        "Option f8-3-A",
+        "Option f8-3-B",
+        "Option f8-3-C",
+        "Option f8-3-D"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture f8-3."
+    },
+    {
+      "id": "f8-q5",
+      "text": "Which of these is linked to gems fruits number 84 in fixture f?",
+      "answers": [
+        "Option f8-4-A",
+        "Option f8-4-B",
+        "Option f8-4-C",
+        "Option f8-4-D"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "test",
+      "explanation": "Because fixture f8-4."
+    },
+    {
+      "id": "f8-q6",
+      "text": "Which of these is linked to dances trees number 85 in fixture f?",
+      "answers": [
+        "Option f8-5-A",
+        "Option f8-5-B",
+        "Option f8-5-C",
+        "Option f8-5-D"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f8-5."
+    },
+    {
+      "id": "f8-q7",
+      "text": "Which of these is linked to knots dances number 86 in fixture f?",
+      "answers": [
+        "Option f8-6-A",
+        "Option f8-6-B",
+        "Option f8-6-C",
+        "Option f8-6-D"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f8-6."
+    },
+    {
+      "id": "f8-q8",
+      "text": "Which of these is linked to lakes spices number 87 in fixture f?",
+      "answers": [
+        "Option f8-7-A",
+        "Option f8-7-B",
+        "Option f8-7-C",
+        "Option f8-7-D"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f8-7."
+    },
+    {
+      "id": "f8-q9",
+      "text": "Which of these is linked to spices fabrics number 88 in fixture f?",
+      "answers": [
+        "Option f8-8-A",
+        "Option f8-8-B",
+        "Option f8-8-C",
+        "Option f8-8-D"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f8-8."
+    },
+    {
+      "id": "f8-q10",
+      "text": "Which of these is linked to tools birds number 89 in fixture f?",
+      "answers": [
+        "Option f8-9-A",
+        "Option f8-9-B",
+        "Option f8-9-C",
+        "Option f8-9-D"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture f8-9."
+    },
+    {
+      "id": "f8-q11",
+      "text": "Which of these is linked to clouds metals number 810 in fixture f?",
+      "answers": [
+        "Option f8-10-A",
+        "Option f8-10-B",
+        "Option f8-10-C",
+        "Option f8-10-D"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f8-10."
+    },
+    {
+      "id": "f8-q12",
+      "text": "Which of these is linked to fabrics islands number 811 in fixture f?",
+      "answers": [
+        "Option f8-11-A",
+        "Option f8-11-B",
+        "Option f8-11-C",
+        "Option f8-11-D"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f8-11."
+    },
+    {
+      "id": "f8-q13",
+      "text": "Which of these is linked to rivers bridges number 812 in fixture f?",
+      "answers": [
+        "Option f8-12-A",
+        "Option f8-12-B",
+        "Option f8-12-C",
+        "Option f8-12-D"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "test",
+      "explanation": "Because fixture f8-12."
+    },
+    {
+      "id": "f8-q14",
+      "text": "Which of these is linked to planets knots number 813 in fixture f?",
+      "answers": [
+        "Option f8-13-A",
+        "Option f8-13-B",
+        "Option f8-13-C",
+        "Option f8-13-D"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture f8-13."
+    },
+    {
+      "id": "f8-q15",
+      "text": "Which of these is linked to birds tools number 814 in fixture f?",
+      "answers": [
+        "Option f8-14-A",
+        "Option f8-14-B",
+        "Option f8-14-C",
+        "Option f8-14-D"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture f8-14."
+    }
+  ],
+  "spares": [
+    {
+      "id": "s8-q1",
+      "text": "Which of these is linked to islands lakes number 80 in fixture s?",
+      "answers": [
+        "Option s8-0-A",
+        "Option s8-0-B",
+        "Option s8-0-C",
+        "Option s8-0-D"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "test",
+      "explanation": "Because fixture s8-0."
+    },
+    {
+      "id": "s8-q2",
+      "text": "Which of these is linked to poets clouds number 81 in fixture s?",
+      "answers": [
+        "Option s8-1-A",
+        "Option s8-1-B",
+        "Option s8-1-C",
+        "Option s8-1-D"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "test",
+      "explanation": "Because fixture s8-1."
+    },
+    {
+      "id": "s8-q3",
+      "text": "Which of these is linked to trees planets number 82 in fixture s?",
+      "answers": [
+        "Option s8-2-A",
+        "Option s8-2-B",
+        "Option s8-2-C",
+        "Option s8-2-D"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "test",
+      "explanation": "Because fixture s8-2."
+    }
+  ]
+}

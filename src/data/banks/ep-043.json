@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-043",
+  "name": "Set 43: Drinks, Desserts & World Cuisine",
+  "episode": 43,
+  "date": "2017-09-07",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "food",
+    "drink",
+    "culture"
+  ],
+  "questions": [
+    {
+      "id": "ep-043-q01",
+      "text": "Pizza is most famously associated with which country?",
+      "answers": [
+        "Greece",
+        "Spain",
+        "France",
+        "Italy"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Food & Drink",
+      "explanation": "Modern pizza developed in Naples, Italy.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q02",
+      "text": "Which sweet food do bees make from flower nectar?",
+      "answers": [
+        "Honey",
+        "Jam",
+        "Treacle",
+        "Syrup"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Food & Drink",
+      "explanation": "Bees turn nectar into honey and store it in the hive.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q03",
+      "text": "Which spirit is the base of a classic mojito?",
+      "answers": [
+        "Vodka",
+        "Rum",
+        "Gin",
+        "Tequila"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "Food & Drink",
+      "explanation": "A mojito combines white rum, mint, lime, sugar and soda.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q04",
+      "text": "What is guacamole mainly made from?",
+      "answers": [
+        "Tomato",
+        "Lime",
+        "Avocado",
+        "Chilli"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Food & Drink",
+      "explanation": "Guacamole is mashed avocado.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q05",
+      "text": "Which country is the home of paella?",
+      "answers": [
+        "Portugal",
+        "Mexico",
+        "Italy",
+        "Spain"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "category": "Food & Drink",
+      "explanation": "Paella originated in Valencia, Spain.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q06",
+      "text": "Which grain is the main ingredient of Scotch malt whisky?",
+      "answers": [
+        "Barley",
+        "Rye",
+        "Corn",
+        "Wheat"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Food & Drink",
+      "explanation": "Single malt Scotch is made from malted barley.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q07",
+      "text": "Kimchi is a staple of the cuisine of which country?",
+      "answers": [
+        "Japan",
+        "Korea",
+        "China",
+        "Vietnam"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Food & Drink",
+      "explanation": "Kimchi is fermented vegetables, central to Korean food.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q08",
+      "text": "Which Italian dessert's name means pick me up?",
+      "answers": [
+        "Panna cotta",
+        "Cannoli",
+        "Tiramisu",
+        "Gelato"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Food & Drink",
+      "explanation": "Tiramisu translates roughly as pick me up.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q09",
+      "text": "Which French dessert is custard topped with hard caramelised sugar?",
+      "answers": [
+        "Profiterole",
+        "Mille-feuille",
+        "Clafoutis",
+        "Creme brulee"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Food & Drink",
+      "explanation": "Creme brulee has a brittle caramel crust.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q10",
+      "text": "Which Indian bread is leavened and traditionally baked on the wall of a clay tandoor oven?",
+      "answers": [
+        "Naan",
+        "Puri",
+        "Bhatura",
+        "Luchi"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Food & Drink",
+      "explanation": "Naan is baked on the walls of a tandoor.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q11",
+      "text": "Which French town gives its name to a famous brandy?",
+      "answers": [
+        "Chablis",
+        "Cognac",
+        "Bordeaux",
+        "Reims"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Food & Drink",
+      "explanation": "Cognac brandy is made in and around the town of Cognac.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q12",
+      "text": "Which cocktail mixes gin, Campari and sweet vermouth?",
+      "answers": [
+        "Manhattan",
+        "Martini",
+        "Negroni",
+        "Old Fashioned"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Food & Drink",
+      "explanation": "A Negroni uses equal parts gin, Campari and sweet vermouth.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q13",
+      "text": "The dessert pavlova is named after a dancer from which country?",
+      "answers": [
+        "Poland",
+        "France",
+        "Italy",
+        "Russia"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "Food & Drink",
+      "explanation": "It honours the Russian ballerina Anna Pavlova.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q14",
+      "text": "Which underground fungus, hunted with trained dogs or pigs, is prized in French and Italian cooking?",
+      "answers": [
+        "Truffle",
+        "Morel",
+        "Chanterelle",
+        "Porcini"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "category": "Food & Drink",
+      "explanation": "Truffles grow underground near tree roots and are found by scent.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-q15",
+      "text": "Which Scandinavian spirit, flavoured with caraway or dill, is often called water of life?",
+      "answers": [
+        "Absinthe",
+        "Aquavit",
+        "Ouzo",
+        "Grappa"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "category": "Food & Drink",
+      "explanation": "Aquavit means water of life and is flavoured with herbs and spices.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-043-s1",
+      "text": "Which Mexican sauce is made with chocolate and chilli?",
+      "answers": [
+        "Salsa",
+        "Guacamole",
+        "Mole",
+        "Pico de gallo"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "Food & Drink",
+      "explanation": "Mole poblano blends chilli and chocolate.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-s2",
+      "text": "Which soup is typically made with beetroot?",
+      "answers": [
+        "Gazpacho",
+        "Minestrone",
+        "Bisque",
+        "Borscht"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Food & Drink",
+      "explanation": "Borscht gets its red colour from beetroot.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-043-s3",
+      "text": "Which red grape is a main variety used in Champagne?",
+      "answers": [
+        "Pinot Noir",
+        "Chardonnay",
+        "Riesling",
+        "Sauvignon Blanc"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Food & Drink",
+      "explanation": "Champagne uses Pinot Noir, Pinot Meunier and Chardonnay.",
+      "reviewed": true
+    }
+  ]
+}

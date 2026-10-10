@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-052",
+  "name": "Set 52: Board Games & Toys",
+  "episode": 52,
+  "date": "2021-06-04",
+  "edition": "AU",
+  "provenance": "episode-style",
+  "tags": [
+    "games",
+    "toys",
+    "nostalgia"
+  ],
+  "questions": [
+    {
+      "id": "ep-052-q01",
+      "text": "In which board game do players aim to give checkmate?",
+      "answers": [
+        "Draughts",
+        "Ludo",
+        "Chess",
+        "Scrabble"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "Checkmate ends a game of chess.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q02",
+      "text": "Which Danish toy company makes interlocking plastic bricks?",
+      "answers": [
+        "Meccano",
+        "K'Nex",
+        "Mega Bloks",
+        "Lego"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "Lego is based in Billund, Denmark.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q03",
+      "text": "How many letter tiles does each player normally hold in Scrabble?",
+      "answers": [
+        "Seven",
+        "Five",
+        "Six",
+        "Eight"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "Players keep a rack of seven tiles.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q04",
+      "text": "Which game features Colonel Mustard and Miss Scarlett?",
+      "answers": [
+        "Risk",
+        "Cluedo",
+        "Trivial Pursuit",
+        "Battleship"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "They are suspects in Cluedo (Clue in North America).",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q05",
+      "text": "Which Hungarian-invented puzzle has six faces of coloured squares to twist?",
+      "answers": [
+        "Tangram",
+        "Soma cube",
+        "Rubik's Cube",
+        "Sudoku"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "Erno Rubik invented the cube in 1974.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q06",
+      "text": "In which country did the board game Go originate?",
+      "answers": [
+        "Japan",
+        "Korea",
+        "Mongolia",
+        "China"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Go dates back more than 2,500 years in China.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q07",
+      "text": "How many pieces does each player start with in chess?",
+      "answers": [
+        "16",
+        "12",
+        "14",
+        "18"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Each side has eight pawns and eight other pieces.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q08",
+      "text": "Which doll, launched by Mattel in 1959, was named after the creator's daughter?",
+      "answers": [
+        "Bratz",
+        "Barbie",
+        "Sindy",
+        "Cabbage Patch Kid"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Ruth Handler named Barbie after her daughter Barbara.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q09",
+      "text": "In which board game do players trade resources to build roads and settlements on an island?",
+      "answers": [
+        "Ticket to Ride",
+        "Carcassonne",
+        "Catan",
+        "Risk"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "Klaus Teuber's game was first published in 1995.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q10",
+      "text": "Which toy, invented by Richard James in the 1940s, can \"walk\" down stairs?",
+      "answers": [
+        "Yo-yo",
+        "Etch A Sketch",
+        "Jack-in-the-box",
+        "Slinky"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "The Slinky began as a failed naval spring experiment.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q11",
+      "text": "Which board game was first designed as \"The Landlord's Game\" by Elizabeth Magie?",
+      "answers": [
+        "Monopoly",
+        "Cluedo",
+        "Sorry!",
+        "Careers"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "Magie patented the game in 1904; it evolved into Monopoly.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q12",
+      "text": "Who invented the Etch A Sketch?",
+      "answers": [
+        "Erno Rubik",
+        "Andre Cassagnes",
+        "Ole Kirk Christiansen",
+        "Charles Darrow"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "The French electrician Cassagnes developed it in the 1950s.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q13",
+      "text": "In which decade was the modern Lego brick design patented?",
+      "answers": [
+        "1930s",
+        "1940s",
+        "1950s",
+        "1960s"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "explanation": "The stud-and-tube brick was patented in 1958.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q14",
+      "text": "Which ancient board game was unearthed in the Royal Cemetery of Ur?",
+      "answers": [
+        "Senet",
+        "Mancala",
+        "Go",
+        "Royal Game of Ur"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "Boards from about 2600 BC were found by Leonard Woolley.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-q15",
+      "text": "Which company launched the action figure G.I. Joe in 1964?",
+      "answers": [
+        "Hasbro",
+        "Mattel",
+        "Kenner",
+        "Lego"
+      ],
+      "correct": 0,
+      "difficulty": 5,
+      "explanation": "Hasbro introduced G.I. Joe as a toy for boys.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-052-s1",
+      "text": "How many faces does a standard die have?",
+      "answers": [
+        "Four",
+        "Eight",
+        "Ten",
+        "Six"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "A standard die is a cube with six faces.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-s2",
+      "text": "In which game do players try to sink each other's hidden ships on a grid?",
+      "answers": [
+        "Battleship",
+        "Cluedo",
+        "Connect Four",
+        "Mouse Trap"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "Players call out grid coordinates to hit ships.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-052-s3",
+      "text": "In which country was the Meccano construction toy invented?",
+      "answers": [
+        "Germany",
+        "England",
+        "United States",
+        "Denmark"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "Frank Hornby invented it in Liverpool around 1898.",
+      "reviewed": true
+    }
+  ]
+}

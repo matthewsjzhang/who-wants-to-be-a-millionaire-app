@@ -1,0 +1,289 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-020",
+  "name": "Set 20: Rivers, Peaks & Seas",
+  "episode": 20,
+  "date": "2006-07-15",
+  "edition": "INT",
+  "provenance": "episode-style",
+  "tags": [
+    "geography",
+    "rivers",
+    "mountains",
+    "oceans"
+  ],
+  "questions": [
+    {
+      "id": "ep-020-q01",
+      "text": "Which sea is so salty that swimmers float on it with ease?",
+      "answers": [
+        "The Dead Sea",
+        "The Red Sea",
+        "The Black Sea",
+        "The Baltic Sea"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "Geography",
+      "explanation": "The Dead Sea's very high salt content makes it extremely buoyant.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q02",
+      "text": "Which river flows through Cairo?",
+      "answers": [
+        "The Tigris",
+        "The Danube",
+        "The Euphrates",
+        "The Nile"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Geography",
+      "explanation": "Cairo sits on the banks of the Nile near the start of its delta.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q03",
+      "text": "Which river flows through London?",
+      "answers": [
+        "The Severn",
+        "The Mersey",
+        "The Thames",
+        "The Trent"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "category": "Geography",
+      "explanation": "The Thames runs through the heart of London.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q04",
+      "text": "Mount Everest lies on the border of Nepal and which other country?",
+      "answers": [
+        "India",
+        "China",
+        "Bhutan",
+        "Pakistan"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "Geography",
+      "explanation": "The Nepal-China border runs across Everest's summit.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q05",
+      "text": "Which river flows through Paris?",
+      "answers": [
+        "The Seine",
+        "The Loire",
+        "The Rhone",
+        "The Garonne"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "Geography",
+      "explanation": "The Seine runs through Paris past Notre-Dame.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q06",
+      "text": "Which Alaskan mountain is the highest peak in North America?",
+      "answers": [
+        "Mount Logan",
+        "Mount Whitney",
+        "Mount Rainier",
+        "Denali"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "Denali, once called Mount McKinley, rises to about 6,190 metres.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q07",
+      "text": "Which mountain range forms the traditional boundary between Europe and Asia in Russia?",
+      "answers": [
+        "The Alps",
+        "The Pyrenees",
+        "The Urals",
+        "The Carpathians"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "The Ural Mountains are the conventional Europe-Asia divide.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q08",
+      "text": "Which is the highest mountain in Africa?",
+      "answers": [
+        "Mount Kenya",
+        "Kilimanjaro",
+        "Mount Toubkal",
+        "Mount Stanley"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "Kilimanjaro in Tanzania rises to about 5,895 metres.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q09",
+      "text": "Into which sea does the Volga River flow?",
+      "answers": [
+        "The Caspian Sea",
+        "The Black Sea",
+        "The Aral Sea",
+        "The Baltic Sea"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "The Volga empties into the Caspian Sea.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q10",
+      "text": "Which strait separates Spain from Morocco at the entrance to the Mediterranean?",
+      "answers": [
+        "Bosphorus",
+        "Strait of Messina",
+        "Strait of Dover",
+        "Strait of Gibraltar"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "The Strait of Gibraltar is only about 14 km wide at its narrowest.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q11",
+      "text": "Which river forms much of the border between Texas and Mexico?",
+      "answers": [
+        "The Colorado",
+        "The Pecos",
+        "The Rio Grande",
+        "The Red River"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "Geography",
+      "explanation": "The Rio Grande marks most of the US-Mexico border in Texas.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q12",
+      "text": "In which ocean is the Mariana Trench, the deepest known part of the seabed?",
+      "answers": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Southern Ocean"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Geography",
+      "explanation": "The Mariana Trench lies in the western Pacific.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q13",
+      "text": "Which is the longest river in Europe?",
+      "answers": [
+        "The Volga",
+        "The Danube",
+        "The Rhine",
+        "The Dnieper"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "Geography",
+      "explanation": "The Volga is about 3,500 km long.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q14",
+      "text": "K2, the world's second-highest mountain, lies in which range?",
+      "answers": [
+        "The Hindu Kush",
+        "The Pamirs",
+        "The Tian Shan",
+        "The Karakoram"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "Geography",
+      "explanation": "K2 sits on the Pakistan-China border in the Karakoram.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-q15",
+      "text": "Which strait separates Asia from North America at their closest point?",
+      "answers": [
+        "The Davis Strait",
+        "The Denmark Strait",
+        "The Bering Strait",
+        "The Hudson Strait"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "Geography",
+      "explanation": "The Bering Strait lies between Russia's Chukotka and Alaska, about 85 km wide.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-020-s1",
+      "text": "Which ocean lies between Africa and Australia?",
+      "answers": [
+        "Atlantic",
+        "Pacific",
+        "Arctic",
+        "Indian"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "Geography",
+      "explanation": "The Indian Ocean lies between Africa, Asia and Australia.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-s2",
+      "text": "Victoria Falls lies on which river?",
+      "answers": [
+        "The Congo",
+        "The Limpopo",
+        "The Zambezi",
+        "The Orange"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "Geography",
+      "explanation": "Victoria Falls is on the Zambezi between Zambia and Zimbabwe.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-020-s3",
+      "text": "Which river flows through Baghdad?",
+      "answers": [
+        "The Euphrates",
+        "The Tigris",
+        "The Jordan",
+        "The Nile"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "Geography",
+      "explanation": "Baghdad lies on the banks of the Tigris.",
+      "reviewed": true
+    }
+  ]
+}

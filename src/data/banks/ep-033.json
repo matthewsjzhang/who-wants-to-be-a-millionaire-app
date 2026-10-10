@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-033",
+  "name": "Set 33: Tennis, golf & athletics",
+  "episode": 33,
+  "date": "2011-01-15",
+  "edition": "AU",
+  "provenance": "episode-style",
+  "tags": [
+    "sport",
+    "tennis",
+    "golf",
+    "athletics"
+  ],
+  "questions": [
+    {
+      "id": "ep-033-q01",
+      "text": "In tennis, what is a score of zero called?",
+      "answers": [
+        "Duck",
+        "Love",
+        "Nil",
+        "Blank"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "'Love' is the traditional tennis term for no points.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q02",
+      "text": "What do golfers shout to warn people of a wayward ball?",
+      "answers": [
+        "Four",
+        "Far",
+        "Fore",
+        "Foul"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "'Fore' is the traditional warning cry on the course.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q03",
+      "text": "On which surface is the Wimbledon tennis championship played?",
+      "answers": [
+        "Clay",
+        "Hard court",
+        "Carpet",
+        "Grass"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "Wimbledon has always been played on grass.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q04",
+      "text": "In golf, what is a score of one stroke under par on a hole called?",
+      "answers": [
+        "Birdie",
+        "Eagle",
+        "Bogey",
+        "Albatross"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "Birdie is one under, eagle two under.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q05",
+      "text": "How many holes are played in a standard round of golf?",
+      "answers": [
+        "9",
+        "18",
+        "12",
+        "24"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "A full round on a standard course is 18 holes.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q06",
+      "text": "Which city hosted the 1948 Summer Olympics, the first held after the Second World War?",
+      "answers": [
+        "Berlin",
+        "Helsinki",
+        "London",
+        "Paris"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "London staged the 1948 Games despite post-war austerity.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q07",
+      "text": "Who was the first man to run a mile in under four minutes, in 1954?",
+      "answers": [
+        "John Landy",
+        "Sebastian Coe",
+        "Steve Ovett",
+        "Roger Bannister"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "Bannister ran 3:59.4 at Oxford on 6 May 1954.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q08",
+      "text": "Which major golf tournament is held each year at Augusta National and awards a green jacket?",
+      "answers": [
+        "The Masters",
+        "The US Open",
+        "The Open Championship",
+        "The PGA Championship"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "The Masters has been played at Augusta since 1934.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q09",
+      "text": "On which surface is the French Open played?",
+      "answers": [
+        "Grass",
+        "Clay",
+        "Hard court",
+        "Carpet"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "Roland Garros has red clay courts.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q10",
+      "text": "A marathon is 26 miles and how many yards?",
+      "answers": [
+        "195",
+        "220",
+        "385",
+        "440"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "The standard marathon distance is 26 miles 385 yards, or 42.195 km.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q11",
+      "text": "Which player won all four tennis Grand Slam singles titles in the 1988 calendar year?",
+      "answers": [
+        "Martina Navratilova",
+        "Chris Evert",
+        "Monica Seles",
+        "Steffi Graf"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "explanation": "Graf also won Olympic gold in 1988, completing a Golden Slam.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q12",
+      "text": "Which golfer is nicknamed 'The Golden Bear'?",
+      "answers": [
+        "Jack Nicklaus",
+        "Arnold Palmer",
+        "Gary Player",
+        "Tom Watson"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "Nicklaus won 18 men's major championships.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q13",
+      "text": "Which Australian won a calendar-year Grand Slam in both 1962 and 1969?",
+      "answers": [
+        "Ken Rosewall",
+        "Rod Laver",
+        "John Newcombe",
+        "Roy Emerson"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "explanation": "Laver is the only man to have achieved the feat twice.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q14",
+      "text": "Which Czech runner won the 5000m, 10,000m and marathon at the 1952 Helsinki Olympics?",
+      "answers": [
+        "Paavo Nurmi",
+        "Abebe Bikila",
+        "Emil Zátopek",
+        "Lasse Virén"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "explanation": "Zátopek's treble in Helsinki is legendary.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-q15",
+      "text": "Which Ethiopian won the 1960 Olympic marathon in Rome running barefoot?",
+      "answers": [
+        "Haile Gebrselassie",
+        "Mamo Wolde",
+        "Kipchoge Keino",
+        "Abebe Bikila"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "explanation": "Bikila ran the course barefoot and set a world best.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-033-s1",
+      "text": "In tennis, what is a serve that the opponent cannot touch called?",
+      "answers": [
+        "Let",
+        "Fault",
+        "Ace",
+        "Deuce"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "An ace wins the point outright.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-s2",
+      "text": "Which of the four tennis Grand Slam tournaments was first held in 1877?",
+      "answers": [
+        "US Open",
+        "French Open",
+        "Australian Open",
+        "Wimbledon"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "The first Wimbledon championship took place in 1877.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-s3",
+      "text": "In golf, what is a score of three strokes under par on a hole called?",
+      "answers": [
+        "Albatross",
+        "Eagle",
+        "Birdie",
+        "Condor"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "explanation": "An albatross is also called a double eagle.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-033-s4",
+      "text": "Which Briton won the Olympic 1500m in both 1980 and 1984?",
+      "answers": [
+        "Steve Ovett",
+        "Sebastian Coe",
+        "Steve Cram",
+        "Peter Elliott"
+      ],
+      "correct": 1,
+      "difficulty": 5,
+      "explanation": "Coe won in Moscow and Los Angeles.",
+      "reviewed": true
+    }
+  ]
+}

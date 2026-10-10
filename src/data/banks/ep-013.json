@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "ep-013",
+  "name": "Set 13: animals & nature",
+  "episode": 13,
+  "date": "2004-03-12",
+  "edition": "US",
+  "provenance": "episode-style",
+  "tags": [
+    "nature",
+    "animals"
+  ],
+  "questions": [
+    {
+      "id": "ep-013-q01",
+      "text": "Which flightless bird is famous for waddling across Antarctic ice?",
+      "answers": [
+        "Ostrich",
+        "Kiwi",
+        "Emu",
+        "Penguin"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "category": "animals & nature",
+      "explanation": "Penguins live in the Southern Hemisphere, with several species in Antarctica.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q02",
+      "text": "Which insect is the busy maker of honey?",
+      "answers": [
+        "Ant",
+        "Bee",
+        "Wasp",
+        "Beetle"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "category": "animals & nature",
+      "explanation": "Honey bees turn nectar into honey.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q03",
+      "text": "What is a baby kangaroo called?",
+      "answers": [
+        "Joey",
+        "Cub",
+        "Pup",
+        "Kit"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "category": "animals & nature",
+      "explanation": "A baby kangaroo is a joey.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q04",
+      "text": "Which is the largest living land animal?",
+      "answers": [
+        "White rhinoceros",
+        "Hippopotamus",
+        "African elephant",
+        "Giraffe"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "category": "animals & nature",
+      "explanation": "The African bush elephant is the largest land animal alive.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q05",
+      "text": "How many legs does a spider have?",
+      "answers": [
+        "Six",
+        "Eight",
+        "Ten",
+        "Twelve"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "category": "animals & nature",
+      "explanation": "Spiders are arachnids with eight legs.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q06",
+      "text": "Which is the fastest land animal over a short sprint?",
+      "answers": [
+        "Lion",
+        "Greyhound",
+        "Horse",
+        "Cheetah"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "animals & nature",
+      "explanation": "Cheetahs can reach roughly 100 km/h in short bursts.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q07",
+      "text": "Which is the largest ocean on Earth?",
+      "answers": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "animals & nature",
+      "explanation": "The Pacific covers about a third of the planet's surface.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q08",
+      "text": "Which is the only mammal capable of true, sustained flight?",
+      "answers": [
+        "Bat",
+        "Flying squirrel",
+        "Sugar glider",
+        "Colugo"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "category": "animals & nature",
+      "explanation": "Other gliding mammals only glide; bats actually fly.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q09",
+      "text": "What does the giant panda mainly eat?",
+      "answers": [
+        "Eucalyptus",
+        "Sugarcane",
+        "Ferns",
+        "Bamboo"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "category": "animals & nature",
+      "explanation": "Bamboo makes up most of a giant panda's diet.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q10",
+      "text": "Which gas do plants take in for photosynthesis?",
+      "answers": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "category": "animals & nature",
+      "explanation": "Plants use carbon dioxide, water and light to make sugars.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q11",
+      "text": "Which is the largest fish in the world?",
+      "answers": [
+        "Great white shark",
+        "Basking shark",
+        "Whale shark",
+        "Tiger shark"
+      ],
+      "correct": 2,
+      "difficulty": 4,
+      "category": "animals & nature",
+      "explanation": "The whale shark is the largest living fish.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q12",
+      "text": "What is a group of crows traditionally called?",
+      "answers": [
+        "A murder",
+        "A parliament",
+        "A pride",
+        "A gaggle"
+      ],
+      "correct": 0,
+      "difficulty": 4,
+      "category": "animals & nature",
+      "explanation": "\"A murder of crows\" is the traditional collective noun.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q13",
+      "text": "Which living bird lays the largest egg?",
+      "answers": [
+        "Emu",
+        "Ostrich",
+        "Albatross",
+        "Cassowary"
+      ],
+      "correct": 1,
+      "difficulty": 4,
+      "category": "animals & nature",
+      "explanation": "An ostrich egg can weigh over 1.4 kg.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q14",
+      "text": "Which of these mammals lays eggs?",
+      "answers": [
+        "Armadillo",
+        "Pangolin",
+        "Sloth",
+        "Platypus"
+      ],
+      "correct": 3,
+      "difficulty": 5,
+      "category": "animals & nature",
+      "explanation": "The platypus and the echidnas are monotremes.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-q15",
+      "text": "Which tree species grows tallest?",
+      "answers": [
+        "Giant sequoia",
+        "Douglas fir",
+        "Coast redwood",
+        "Mountain ash"
+      ],
+      "correct": 2,
+      "difficulty": 5,
+      "category": "animals & nature",
+      "explanation": "Coast redwoods reach over 110 metres.",
+      "reviewed": true
+    }
+  ],
+  "spares": [
+    {
+      "id": "ep-013-s1",
+      "text": "Which animal is nicknamed the \"ship of the desert\"?",
+      "answers": [
+        "Camel",
+        "Horse",
+        "Donkey",
+        "Llama"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "category": "animals & nature",
+      "explanation": "Camels carry people and goods across deserts.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-s2",
+      "text": "Which big cat lives in groups called prides?",
+      "answers": [
+        "Tiger",
+        "Leopard",
+        "Lion",
+        "Jaguar"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "category": "animals & nature",
+      "explanation": "Lions are the only truly social big cats.",
+      "reviewed": true
+    },
+    {
+      "id": "ep-013-s3",
+      "text": "How many hearts does an octopus have?",
+      "answers": [
+        "Two",
+        "Four",
+        "Eight",
+        "Three"
+      ],
+      "correct": 3,
+      "difficulty": 4,
+      "category": "animals & nature",
+      "explanation": "Two branchial hearts and one systemic heart.",
+      "reviewed": true
+    }
+  ]
+}
