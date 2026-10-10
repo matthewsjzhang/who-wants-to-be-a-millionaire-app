@@ -25,6 +25,10 @@ show's format**. They are not transcriptions of broadcast questions and must not
 The "style era" date is only a flavour label. Questions were fact-checked, but errors are possible: use the
 "Report question" button to flag one locally.
 
+## Quick start (Windows)
+
+Double-click `start-millionaire.cmd`. It installs dependencies on the first run, builds the app and opens it at http://localhost:5174. Always use that address: saves, custom games and stats are stored per address in your browser.
+
 ## Commands
 
 ```bash
